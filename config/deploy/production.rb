@@ -83,6 +83,15 @@ namespace :puma do
         end
       end
     end
+
+    task :build_react do
+      on roles(:app) do
+        within release_path do
+          sh "cd house_dash && yarn build"
+          sh "cp ./dist ../public/"
+        end
+      end
+    end
   
     desc 'Initial Deploy'
     task :initial do
@@ -100,6 +109,8 @@ namespace :puma do
     end
   
     before :starting,     :check_revision
+
+    before :starting,     :build_react
     after  :finishing,    :cleanup
     after  :finishing,    :restart
   end
