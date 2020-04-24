@@ -1,0 +1,22 @@
+[
+  {
+    "name": "康居瑞景佳苑",
+    "position": 1,
+    "id": "2510713801",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "11345",
+    "age": "2005",
+    "type": "住宅",
+    "count": "236户",
+    "building_count": "5栋",
+    "lh": "35%",
+    "rj": "1.70",
+    "desc": "70年",
+    "building_type": "板塔结合",
+    "wy_price": "0.26 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

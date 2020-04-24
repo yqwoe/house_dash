@@ -1,0 +1,22 @@
+[
+  {
+    "name": "盛世港湾",
+    "position": 1,
+    "id": "2510797835",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "10385",
+    "age": "2012",
+    "type": "住宅",
+    "count": "513户",
+    "building_count": "14栋",
+    "lh": "20%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原五龙口",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "兰亭山庄",
+    "position": 1,
+    "id": "2510423345",
+    "district": "惠济",
+    "comarea": "北大学城",
+    "avePrice": "23326",
+    "age": "2008",
+    "type": "别墅",
+    "count": "52户",
+    "building_count": "31栋",
+    "lh": "0.33",
+    "rj": null,
+    "desc": "联排",
+    "building_type": "惠济北大学城",
+    "wy_price": "每家一个带自动门车库",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原公安分局家属院",
+    "position": 1,
+    "id": "2510723389",
+    "district": "中原",
+    "comarea": "帝湖",
+    "avePrice": "14525",
+    "age": "1996",
+    "type": "住宅",
+    "count": "196户",
+    "building_count": "7栋",
+    "lh": "25%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上停车位",
+    "company": "市政建设"
+  }
+]

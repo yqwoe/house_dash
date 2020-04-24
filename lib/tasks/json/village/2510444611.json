@@ -1,0 +1,22 @@
+[
+  {
+    "name": "东站小区",
+    "position": 1,
+    "id": "2510444611",
+    "district": "管城",
+    "comarea": "世纪欢乐园",
+    "avePrice": "14323",
+    "age": "2009",
+    "type": "住宅",
+    "count": "846户",
+    "building_count": "19栋",
+    "lh": "35%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "铁路物业部",
+    "tcw": "地上地下车位",
+    "company": null
+  }
+]

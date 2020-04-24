@@ -1,0 +1,42 @@
+[
+  {
+    "name": "桐淮小区",
+    "position": 1,
+    "id": "2510464545",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "12164",
+    "age": "1989",
+    "type": "住宅",
+    "count": "2085户",
+    "building_count": "34栋",
+    "lh": "15%",
+    "rj": "1.20",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "本小区有120个停车位",
+    "company": "市政建设"
+  },
+  {
+    "name": "桐淮小区",
+    "position": 2,
+    "id": "2510464545",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "12164",
+    "age": "1989",
+    "type": "住宅",
+    "count": "2085户",
+    "building_count": "34栋",
+    "lh": "15%",
+    "rj": "1.20",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "本小区有120个停车位",
+    "company": "市政建设"
+  }
+]

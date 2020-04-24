@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2510037544",
+    "area": "246",
+    "feature": "满五",
+    "title": "立体别墅区 精装立体别墅 全家具家电 满五",
+    "xiaoqu_": "专家花园",
+    "room": "5室3厅",
+    "total_price": "500",
+    "price": "20325元/㎡ ",
+    "louceng": "低层/4层",
+    "louxing": "独栋",
+    "chaoxiang": "南",
+    "zhuangxiu": "精装修",
+    "age": "2012",
+    "quyu": "经开-第三大街",
+    "shoufu": "约217.7万，月供16432元",
+    "xiaoqu": "专家花园",
+    "position": 1
+  },
+  {
+    "id": "2510037544",
+    "area": "216",
+    "feature": "满五",
+    "title": "花园，用钱卖房，叠加别墅，带大露台，朝南双阳台，采光",
+    "xiaoqu_": "专家花园",
+    "room": "4室2厅",
+    "total_price": "328",
+    "price": "15185元/㎡ ",
+    "louceng": "低层/4层",
+    "louxing": "叠加",
+    "chaoxiang": "北",
+    "zhuangxiu": "精装修",
+    "age": "2003",
+    "quyu": "经开-第三大街",
+    "shoufu": "约143.4万，月供10746元",
+    "xiaoqu": "专家花园",
+    "position": 2
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "世纪家苑",
+    "position": 1,
+    "id": "2510699991",
+    "district": "经开",
+    "comarea": "第三大街",
+    "avePrice": "17366",
+    "age": "2013",
+    "type": "住宅",
+    "count": "412户",
+    "building_count": "3栋",
+    "lh": "32%",
+    "rj": "2.90",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "1.2 元/平米/月",
+    "wy": "地上停车位和地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

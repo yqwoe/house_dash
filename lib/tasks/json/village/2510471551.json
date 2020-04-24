@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金盾小区",
+    "position": 1,
+    "id": "2510471551",
+    "district": "二七",
+    "comarea": "万客来",
+    "avePrice": "11919",
+    "age": "2004",
+    "type": "住宅",
+    "count": "276户",
+    "building_count": "8栋",
+    "lh": "35%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "河南新华物业管理有限公司",
+    "tcw": "地上车位",
+    "company": null
+  }
+]

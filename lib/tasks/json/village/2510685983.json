@@ -1,0 +1,22 @@
+[
+  {
+    "name": "经八路22号院",
+    "position": 1,
+    "id": "2510685983",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "11108",
+    "age": "1998",
+    "type": "住宅",
+    "count": "48户",
+    "building_count": "1栋",
+    "lh": "31%",
+    "rj": "2.86",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.56 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

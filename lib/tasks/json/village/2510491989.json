@@ -1,0 +1,22 @@
+[
+  {
+    "name": "汽车西站家属院",
+    "position": 1,
+    "id": "2510491989",
+    "district": "中原",
+    "comarea": "月季公园",
+    "avePrice": "10303",
+    "age": "1995",
+    "type": "住宅",
+    "count": "138户",
+    "building_count": "4栋",
+    "lh": "25%",
+    "rj": "1.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

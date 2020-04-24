@@ -1,0 +1,22 @@
+[
+  {
+    "name": "祥和花园",
+    "position": 1,
+    "id": "2510433265",
+    "district": "郑东新区",
+    "comarea": "CBD",
+    "avePrice": "26273",
+    "age": "2008",
+    "type": "住宅",
+    "count": "14户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "4.20",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "1.25 元/平米/月",
+    "wy": "中海物业管理(深圳)有限公司",
+    "tcw": "地上地下车位",
+    "company": null
+  }
+]

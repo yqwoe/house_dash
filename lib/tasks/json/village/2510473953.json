@@ -1,0 +1,22 @@
+[
+  {
+    "name": "绿云公寓",
+    "position": 1,
+    "id": "2510473953",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "12501",
+    "age": "1998",
+    "type": "住宅",
+    "count": "154户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "2.66",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.7 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

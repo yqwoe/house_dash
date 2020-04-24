@@ -1,0 +1,22 @@
+[
+  {
+    "name": "省运输公司家属院",
+    "position": 1,
+    "id": "2510468001",
+    "district": "二七",
+    "comarea": "兴华南街",
+    "avePrice": "12546",
+    "age": "2002",
+    "type": "住宅",
+    "count": "144户",
+    "building_count": "2栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

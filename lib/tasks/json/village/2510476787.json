@@ -1,0 +1,22 @@
+[
+  {
+    "name": "原田花园",
+    "position": 1,
+    "id": "2510476787",
+    "district": "金水",
+    "comarea": "科技市场",
+    "avePrice": "20287",
+    "age": "1998",
+    "type": "住宅",
+    "count": "654户",
+    "building_count": "14栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

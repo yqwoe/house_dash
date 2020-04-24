@@ -1,0 +1,22 @@
+[
+  {
+    "name": "省商专家属院",
+    "position": 1,
+    "id": "2510471845",
+    "district": "二七",
+    "comarea": "市财政局",
+    "avePrice": "16377",
+    "age": "2000",
+    "type": "住宅",
+    "count": "257户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

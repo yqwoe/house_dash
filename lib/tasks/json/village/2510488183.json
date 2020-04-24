@@ -1,0 +1,22 @@
+[
+  {
+    "name": "波奥大厦",
+    "position": 1,
+    "id": "2510488183",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "11169",
+    "age": "2001",
+    "type": "住宅",
+    "count": "75户",
+    "building_count": "1栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

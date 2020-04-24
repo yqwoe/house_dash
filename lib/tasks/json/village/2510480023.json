@@ -1,0 +1,22 @@
+[
+  {
+    "name": "思达八号院",
+    "position": 1,
+    "id": "2510480023",
+    "district": "金水",
+    "comarea": "水上乐园",
+    "avePrice": "10270",
+    "age": "2000",
+    "type": "住宅",
+    "count": "231户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

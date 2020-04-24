@@ -1,0 +1,22 @@
+[
+  {
+    "name": "煤炭医院家属院",
+    "position": 1,
+    "id": "2510476823",
+    "district": "金水",
+    "comarea": "徐寨",
+    "avePrice": "15238",
+    "age": "1994",
+    "type": "住宅",
+    "count": "165户",
+    "building_count": "4栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

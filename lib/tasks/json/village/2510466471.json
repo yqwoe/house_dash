@@ -1,0 +1,22 @@
+[
+  {
+    "name": "测绘队家属院",
+    "position": 1,
+    "id": "2510466471",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "16846",
+    "age": "2000",
+    "type": "住宅",
+    "count": "152户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原儿童公园",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文博广场交行家属院",
+    "position": 1,
+    "id": "2510474069",
+    "district": "金水",
+    "comarea": "文博广场",
+    "avePrice": "23878",
+    "age": "1999",
+    "type": "住宅",
+    "count": "160户",
+    "building_count": "5栋",
+    "lh": "21%",
+    "rj": "2.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

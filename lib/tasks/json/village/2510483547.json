@@ -1,0 +1,22 @@
+[
+  {
+    "name": "西站铁路家属院",
+    "position": 1,
+    "id": "2510483547",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "15272",
+    "age": "2000",
+    "type": "住宅",
+    "count": "84户",
+    "building_count": "2栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原五龙口",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

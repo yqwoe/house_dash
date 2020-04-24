@@ -1,0 +1,39 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  v_id: MyString
+  area: MyString
+  feature: MyString
+  title: MyString
+  xiaoqu_: MyString
+  room: MyString
+  total_price: 9.99
+  price: MyString
+  louceng: MyString
+  louxing: MyString
+  chaoxiang: MyString
+  zuhangxiu: MyString
+  age: MyString
+  quyu: MyString
+  shoufu: MyString
+  xiuqu: MyString
+  village: one
+
+two:
+  v_id: MyString
+  area: MyString
+  feature: MyString
+  title: MyString
+  xiaoqu_: MyString
+  room: MyString
+  total_price: 9.99
+  price: MyString
+  louceng: MyString
+  louxing: MyString
+  chaoxiang: MyString
+  zuhangxiu: MyString
+  age: MyString
+  quyu: MyString
+  shoufu: MyString
+  xiuqu: MyString
+  village: two

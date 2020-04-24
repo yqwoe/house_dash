@@ -1,0 +1,22 @@
+[
+  {
+    "name": "消防大队家属院",
+    "position": 1,
+    "id": "2510682673",
+    "district": "二七",
+    "comarea": "兴华南街",
+    "avePrice": "16518",
+    "age": "1995",
+    "type": "住宅",
+    "count": "210户",
+    "building_count": "5栋",
+    "lh": "35%",
+    "rj": "2.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

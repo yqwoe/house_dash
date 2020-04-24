@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新郑路126号院",
+    "position": 1,
+    "id": "2510824935",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "11527",
+    "age": "1998",
+    "type": "住宅",
+    "count": "247户",
+    "building_count": "6栋",
+    "lh": "25%",
+    "rj": "1.20",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "管城陇海汽车站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

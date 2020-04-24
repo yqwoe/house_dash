@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中储粮大厦住宅",
+    "position": 1,
+    "id": "2510711949",
+    "district": "郑东新区",
+    "comarea": "CBD",
+    "avePrice": "15569",
+    "age": "2005",
+    "type": "住宅",
+    "count": "63户",
+    "building_count": "1栋",
+    "lh": "27%",
+    "rj": "3.40",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "1.5 元/平米/月",
+    "wy": "郑州方园物业管理有限公司",
+    "tcw": "地上地下车位",
+    "company": "宏信（郑州）置业有限公司"
+  }
+]

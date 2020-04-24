@@ -1,0 +1,22 @@
+[
+  {
+    "name": "永乐家属院",
+    "position": 1,
+    "id": "2510474757",
+    "district": "金水",
+    "comarea": "富田大厦",
+    "avePrice": "12246",
+    "age": "1984",
+    "type": "住宅",
+    "count": "78户",
+    "building_count": "1栋",
+    "lh": "28%",
+    "rj": "2.40",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "领袖公寓",
+    "position": 1,
+    "id": "2510430703",
+    "district": "金水",
+    "comarea": "燕庄",
+    "avePrice": "14676",
+    "age": "2008",
+    "type": "住宅",
+    "count": "25%",
+    "building_count": "2.30",
+    "lh": null,
+    "rj": null,
+    "desc": "大产权",
+    "building_type": "塔楼",
+    "wy_price": "0.78 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

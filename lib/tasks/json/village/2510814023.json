@@ -1,0 +1,22 @@
+[
+  {
+    "name": "庆丰街44号院",
+    "position": 1,
+    "id": "2510814023",
+    "district": "二七",
+    "comarea": "古玩城",
+    "avePrice": "11978",
+    "age": "1997",
+    "type": "住宅",
+    "count": "194户",
+    "building_count": "6栋",
+    "lh": "15%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

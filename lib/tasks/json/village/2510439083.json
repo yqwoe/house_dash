@@ -1,0 +1,22 @@
+[
+  {
+    "name": "九中家属院",
+    "position": 1,
+    "id": "2510439083",
+    "district": "金水",
+    "comarea": "科技市场",
+    "avePrice": "20496",
+    "age": "1986",
+    "type": "住宅",
+    "count": "272户",
+    "building_count": "8栋",
+    "lh": "15%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

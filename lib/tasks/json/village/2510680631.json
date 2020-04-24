@@ -1,0 +1,22 @@
+[
+  {
+    "name": "品虹花园",
+    "position": 1,
+    "id": "2510680631",
+    "district": "二七",
+    "comarea": "古玩城",
+    "avePrice": "13954",
+    "age": "2003",
+    "type": "住宅",
+    "count": "72户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "1.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "加州第一城",
+    "position": 1,
+    "id": "2510143703",
+    "district": "经开",
+    "comarea": "第三大街",
+    "avePrice": "12623",
+    "age": "2007",
+    "type": "住宅",
+    "count": "1276户",
+    "building_count": "21栋",
+    "lh": "36%",
+    "rj": "1.56",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "郑州新界物业",
+    "tcw": "本小区有300个停车位",
+    "company": "商东实业"
+  }
+]

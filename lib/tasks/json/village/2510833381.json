@@ -1,0 +1,22 @@
+[
+  {
+    "name": "西中和路小区",
+    "position": 1,
+    "id": "2510833381",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "12696",
+    "age": "1981",
+    "type": "住宅",
+    "count": "36户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "二七火车站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

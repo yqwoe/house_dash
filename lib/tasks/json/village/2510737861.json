@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金汇苑",
+    "position": 1,
+    "id": "2510737861",
+    "district": "郑东新区",
+    "comarea": "CBD",
+    "avePrice": "25276",
+    "age": "2009",
+    "type": "住宅",
+    "count": "132户",
+    "building_count": "3栋",
+    "lh": "36%",
+    "rj": "1.32",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "郑东新区CBD",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

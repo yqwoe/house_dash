@@ -1,0 +1,22 @@
+[
+  {
+    "name": "管城蔬菜公司家属院",
+    "position": 1,
+    "id": "2510473257",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "11748",
+    "age": "1996",
+    "type": "住宅",
+    "count": "63户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "1.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

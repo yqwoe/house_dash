@@ -1,0 +1,22 @@
+[
+  {
+    "name": "前进路22号院",
+    "position": 1,
+    "id": "2510827983",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "11220",
+    "age": "1996",
+    "type": "住宅",
+    "count": "243户",
+    "building_count": "5栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

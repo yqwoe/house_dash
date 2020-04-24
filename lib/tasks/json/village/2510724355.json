@@ -1,0 +1,22 @@
+[
+  {
+    "name": "幸福路小区",
+    "position": 1,
+    "id": "2510724355",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "13741",
+    "age": "1998",
+    "type": "住宅",
+    "count": "1246户",
+    "building_count": "35栋",
+    "lh": "25%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "二七老郑大",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "陇海里小区",
+    "position": 1,
+    "id": "2510473975",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "10797",
+    "age": "2005",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "1.60",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "世平小区",
+    "position": 1,
+    "id": "2510224263",
+    "district": "中原",
+    "comarea": "交警二大队",
+    "avePrice": "13657",
+    "age": "1999",
+    "type": "住宅",
+    "count": "56户",
+    "building_count": "1栋",
+    "lh": "33%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "本小区有79个停车位",
+    "tcw": "世平置业有限公司",
+    "company": null
+  }
+]

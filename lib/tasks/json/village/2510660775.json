@@ -1,0 +1,22 @@
+[
+  {
+    "name": "煤仓北街5号院",
+    "position": 1,
+    "id": "2510660775",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "13432",
+    "age": "1998",
+    "type": "住宅",
+    "count": "144户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "20.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

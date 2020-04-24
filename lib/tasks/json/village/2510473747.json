@@ -1,0 +1,22 @@
+[
+  {
+    "name": "人民路小区",
+    "position": 1,
+    "id": "2510473747",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "12014",
+    "age": "1996",
+    "type": "住宅",
+    "count": "624户",
+    "building_count": "17栋",
+    "lh": "32%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

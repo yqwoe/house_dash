@@ -1,0 +1,22 @@
+[
+  {
+    "name": "银座国际",
+    "position": 1,
+    "id": "2510469987",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "10287",
+    "age": "2004",
+    "type": "住宅",
+    "count": "376户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "3.60",
+    "desc": "70年",
+    "building_type": "板塔结合",
+    "wy_price": "1.6 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

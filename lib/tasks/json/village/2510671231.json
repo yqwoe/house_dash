@@ -1,0 +1,22 @@
+[
+  {
+    "name": "华北石油局井下基地家属院",
+    "position": 1,
+    "id": "2510671231",
+    "district": "中原",
+    "comarea": "西流湖",
+    "avePrice": "13804",
+    "age": "2009",
+    "type": "住宅",
+    "count": "72户",
+    "building_count": "3栋",
+    "lh": "25%",
+    "rj": "45.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

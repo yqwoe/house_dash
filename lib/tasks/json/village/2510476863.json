@@ -1,0 +1,22 @@
+[
+  {
+    "name": "七中家属院",
+    "position": 1,
+    "id": "2510476863",
+    "district": "金水",
+    "comarea": "大石桥",
+    "avePrice": "15951",
+    "age": "1997",
+    "type": "住宅",
+    "count": "333户",
+    "building_count": "5栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上停车位",
+    "company": "市政建设"
+  }
+]

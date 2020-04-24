@@ -1,0 +1,22 @@
+[
+  {
+    "name": "陇海大厦",
+    "position": 1,
+    "id": "2510705321",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "11172",
+    "age": "1996",
+    "type": "住宅",
+    "count": "143户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "3.20",
+    "desc": "50年产权",
+    "building_type": "塔楼",
+    "wy_price": "1.05 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

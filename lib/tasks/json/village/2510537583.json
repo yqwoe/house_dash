@@ -1,0 +1,22 @@
+[
+  {
+    "name": "广龙小区",
+    "position": 1,
+    "id": "2510537583",
+    "district": "二七",
+    "comarea": "老航院",
+    "avePrice": "15124",
+    "age": "1996",
+    "type": "住宅",
+    "count": "31%",
+    "building_count": "2.30",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

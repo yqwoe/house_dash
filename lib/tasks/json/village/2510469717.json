@@ -1,0 +1,22 @@
+[
+  {
+    "name": "友爱路52号院",
+    "position": 1,
+    "id": "2510469717",
+    "district": "中原",
+    "comarea": "碧沙岗",
+    "avePrice": "11838",
+    "age": "1992",
+    "type": "住宅",
+    "count": "149户",
+    "building_count": "2栋",
+    "lh": "32%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原碧沙岗",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

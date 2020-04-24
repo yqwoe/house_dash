@@ -1,0 +1,22 @@
+[
+  {
+    "name": "西工房",
+    "position": 1,
+    "id": "2510468919",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "11564",
+    "age": "2000",
+    "type": "住宅",
+    "count": "1628户",
+    "building_count": "33栋",
+    "lh": "35%",
+    "rj": "1.90",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

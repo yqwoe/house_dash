@@ -1,0 +1,22 @@
+[
+  {
+    "name": "嵩山小区",
+    "position": 1,
+    "id": "2510739089",
+    "district": "登封",
+    "comarea": "登封",
+    "avePrice": "6106",
+    "age": "2005",
+    "type": "住宅",
+    "count": "204户",
+    "building_count": "1栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "登封登封",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

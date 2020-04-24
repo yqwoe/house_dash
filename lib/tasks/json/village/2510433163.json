@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中机四安家属院",
+    "position": 1,
+    "id": "2510433163",
+    "district": "中原",
+    "comarea": "月季公园",
+    "avePrice": "11872",
+    "age": "1998",
+    "type": "住宅",
+    "count": "224户",
+    "building_count": "4栋",
+    "lh": "21%",
+    "rj": "1.20",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

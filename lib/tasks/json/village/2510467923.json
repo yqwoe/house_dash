@@ -1,0 +1,22 @@
+[
+  {
+    "name": "东里路小区",
+    "position": 1,
+    "id": "2510467923",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "11679",
+    "age": "1983",
+    "type": "住宅",
+    "count": "196户",
+    "building_count": "3栋",
+    "lh": "23%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

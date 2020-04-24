@@ -1,0 +1,22 @@
+[
+  {
+    "name": "拖厂路小区",
+    "position": 1,
+    "id": "2510685889",
+    "district": "惠济",
+    "comarea": "刘寨",
+    "avePrice": "13871",
+    "age": "住宅",
+    "type": "10%",
+    "count": "2.60",
+    "building_count": null,
+    "lh": null,
+    "rj": null,
+    "desc": "房改房",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

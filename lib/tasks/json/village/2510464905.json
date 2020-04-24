@@ -1,0 +1,22 @@
+[
+  {
+    "name": "康乐里小区",
+    "position": 1,
+    "id": "2510464905",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13310",
+    "age": "1986",
+    "type": "住宅",
+    "count": "442户",
+    "building_count": "13栋",
+    "lh": "30%",
+    "rj": "1.90",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

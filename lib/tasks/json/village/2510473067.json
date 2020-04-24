@@ -1,0 +1,22 @@
+[
+  {
+    "name": "铁路印刷厂小区",
+    "position": 1,
+    "id": "2510473067",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "11216",
+    "age": "2002",
+    "type": "住宅",
+    "count": "276户",
+    "building_count": "4栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

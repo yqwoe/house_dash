@@ -1,0 +1,22 @@
+[
+  {
+    "name": "永兴小区",
+    "position": 1,
+    "id": "2510469701",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11001",
+    "age": "1998",
+    "type": "住宅",
+    "count": "224户",
+    "building_count": "3栋",
+    "lh": "20%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

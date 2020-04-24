@@ -1,0 +1,22 @@
+[
+  {
+    "name": "紫荆花园",
+    "position": 1,
+    "id": "2510010651",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "14176",
+    "age": "1999",
+    "type": "住宅",
+    "count": "204户",
+    "building_count": "5栋",
+    "lh": "37%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

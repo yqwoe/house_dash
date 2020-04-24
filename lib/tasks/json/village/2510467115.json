@@ -1,0 +1,22 @@
+[
+  {
+    "name": "劳动局家属院",
+    "position": 1,
+    "id": "2510467115",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "12315",
+    "age": "1990",
+    "type": "住宅",
+    "count": "80户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

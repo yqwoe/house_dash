@@ -1,0 +1,22 @@
+[
+  {
+    "name": "启明村",
+    "position": 1,
+    "id": "2510470189",
+    "district": "高新",
+    "comarea": "石佛",
+    "avePrice": "10465",
+    "age": "1992",
+    "type": "住宅",
+    "count": "476户",
+    "building_count": "11栋",
+    "lh": "2%",
+    "rj": "2.00",
+    "desc": "大产权",
+    "building_type": "板楼",
+    "wy_price": "高新石佛",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

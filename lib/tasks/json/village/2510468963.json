@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新世纪小区南院",
+    "position": 1,
+    "id": "2510468963",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "13406",
+    "age": "2002",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "2栋",
+    "lh": "25%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

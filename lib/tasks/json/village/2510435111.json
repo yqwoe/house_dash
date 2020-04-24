@@ -1,0 +1,22 @@
+[
+  {
+    "name": "融兴花园",
+    "position": 1,
+    "id": "2510435111",
+    "district": "金水",
+    "comarea": "富田大厦",
+    "avePrice": "10248",
+    "age": "2003",
+    "type": "住宅",
+    "count": "192户",
+    "building_count": "3栋",
+    "lh": "23%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

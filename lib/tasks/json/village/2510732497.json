@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新光源小区",
+    "position": 1,
+    "id": "2510732497",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "14103",
+    "age": "2005",
+    "type": "住宅",
+    "count": "84户",
+    "building_count": "2栋",
+    "lh": "35%",
+    "rj": "3.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

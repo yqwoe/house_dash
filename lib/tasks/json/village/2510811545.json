@@ -1,0 +1,22 @@
+[
+  {
+    "name": "卧龙电力小区",
+    "position": 1,
+    "id": "2510811545",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "12301",
+    "age": "2004",
+    "type": "住宅",
+    "count": "208户",
+    "building_count": "4栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原儿童公园",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

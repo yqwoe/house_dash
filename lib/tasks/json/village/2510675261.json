@@ -1,0 +1,22 @@
+[
+  {
+    "name": "红专一街小区",
+    "position": 1,
+    "id": "2510675261",
+    "district": "金水",
+    "comarea": "省人民医院",
+    "avePrice": "12724",
+    "age": "1996",
+    "type": "住宅",
+    "count": "72户",
+    "building_count": "2栋",
+    "lh": "35%",
+    "rj": "2.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

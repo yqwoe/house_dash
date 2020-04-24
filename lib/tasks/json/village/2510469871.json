@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原西路118号院",
+    "position": 1,
+    "id": "2510469871",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13648",
+    "age": "1985",
+    "type": "住宅",
+    "count": "54户",
+    "building_count": "1栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

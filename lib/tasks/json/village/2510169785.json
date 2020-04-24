@@ -1,0 +1,22 @@
+[
+  {
+    "name": "呈祥花园",
+    "position": 1,
+    "id": "2510169785",
+    "district": "金水",
+    "comarea": "汽配大世界",
+    "avePrice": "12965",
+    "age": "2006",
+    "type": "住宅",
+    "count": "378户",
+    "building_count": "8栋",
+    "lh": "35%",
+    "rj": "2.15",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "接近1:1",
+    "tcw": "河南省顺时达房地产开发有限公司",
+    "company": null
+  }
+]

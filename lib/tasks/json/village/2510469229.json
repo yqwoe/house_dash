@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中实小区",
+    "position": 1,
+    "id": "2510469229",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11939",
+    "age": "1996",
+    "type": "住宅",
+    "count": "273户",
+    "building_count": "3栋",
+    "lh": "10%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "地上停车位",
+    "company": "中实地产"
+  }
+]

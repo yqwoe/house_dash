@@ -1,0 +1,22 @@
+[
+  {
+    "name": "佳苑小区",
+    "position": 1,
+    "id": "2510466037",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "13287",
+    "age": "2000",
+    "type": "住宅",
+    "count": "592户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "本小区有260个停车位",
+    "tcw": null,
+    "company": null
+  }
+]

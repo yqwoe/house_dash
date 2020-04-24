@@ -1,0 +1,22 @@
+[
+  {
+    "name": "农业路60号院",
+    "position": 1,
+    "id": "2510827603",
+    "district": "金水",
+    "comarea": "水上乐园",
+    "avePrice": "13222",
+    "age": "1994",
+    "type": "住宅",
+    "count": "140户",
+    "building_count": "4栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "丽城花园",
+    "position": 1,
+    "id": "2510465963",
+    "district": "中原",
+    "comarea": "交警二大队",
+    "avePrice": "14090",
+    "age": "2004",
+    "type": "住宅",
+    "count": "114户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "河南丽城物业服务公司",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

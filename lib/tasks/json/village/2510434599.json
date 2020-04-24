@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原法院家属院",
+    "position": 1,
+    "id": "2510434599",
+    "district": "中原",
+    "comarea": "热电厂",
+    "avePrice": "10442",
+    "age": "2000",
+    "type": "住宅",
+    "count": "84户",
+    "building_count": "3栋",
+    "lh": "28%",
+    "rj": "1.90",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

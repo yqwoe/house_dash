@@ -1,0 +1,22 @@
+[
+  {
+    "name": "山水生态城",
+    "position": 1,
+    "id": "2510761833",
+    "district": "郑东新区",
+    "comarea": "郑州东站",
+    "avePrice": "9841",
+    "age": "2000",
+    "type": "住宅",
+    "count": "546户",
+    "building_count": "9栋",
+    "lh": "38.6%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.87 元/平米/月",
+    "wy": "1197个",
+    "tcw": null,
+    "company": null
+  }
+]

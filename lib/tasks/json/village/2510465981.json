@@ -1,0 +1,22 @@
+[
+  {
+    "name": "南关街15号院",
+    "position": 1,
+    "id": "2510465981",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "12395",
+    "age": "1996",
+    "type": "住宅",
+    "count": "15%",
+    "building_count": "1.60",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

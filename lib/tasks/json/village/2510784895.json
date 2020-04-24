@@ -1,0 +1,22 @@
+[
+  {
+    "name": "绿博半岛",
+    "position": 1,
+    "id": "2510784895",
+    "district": "中牟",
+    "comarea": "中牟",
+    "avePrice": "12567",
+    "age": "2014",
+    "type": "住宅",
+    "count": "1066户",
+    "building_count": "15栋",
+    "lh": "40%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼,塔楼",
+    "wy_price": "1 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "700个停车位",
+    "company": "河南东亚置业有限公司"
+  }
+]

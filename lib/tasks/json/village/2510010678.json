@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原天下",
+    "position": 1,
+    "id": "2510010678",
+    "district": "中原",
+    "comarea": "五一公园",
+    "avePrice": "18142",
+    "age": "2002",
+    "type": "住宅",
+    "count": "30%",
+    "building_count": "1.10",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

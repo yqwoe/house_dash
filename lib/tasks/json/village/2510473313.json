@@ -1,0 +1,22 @@
+[
+  {
+    "name": "市民新村",
+    "position": 1,
+    "id": "2510473313",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "9973",
+    "age": "1996",
+    "type": "住宅",
+    "count": "1039户",
+    "building_count": "26栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上地下车位",
+    "company": "政府监督开发"
+  }
+]

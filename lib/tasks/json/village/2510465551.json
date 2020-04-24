@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原公路局家属院",
+    "position": 1,
+    "id": "2510465551",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "13348",
+    "age": "2000",
+    "type": "住宅",
+    "count": "150户",
+    "building_count": "5栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

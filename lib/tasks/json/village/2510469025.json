@@ -1,0 +1,22 @@
+[
+  {
+    "name": "东明路金苑小区",
+    "position": 1,
+    "id": "2510469025",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "11047",
+    "age": "1992",
+    "type": "住宅",
+    "count": "791户",
+    "building_count": "17栋",
+    "lh": "35%",
+    "rj": "1.10",
+    "desc": "50年",
+    "building_type": "砖楼",
+    "wy_price": "0.25 元/平米/月",
+    "wy": "车位总数：260",
+    "tcw": "河南省亚太新宇置业有限公司",
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "科技中专家属院",
+    "position": 1,
+    "id": "2510715785",
+    "district": "金水",
+    "comarea": "徐寨",
+    "avePrice": "13172",
+    "age": "1998",
+    "type": "住宅",
+    "count": "63户",
+    "building_count": "1栋",
+    "lh": "32%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

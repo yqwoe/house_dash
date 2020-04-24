@@ -1,0 +1,22 @@
+[
+  {
+    "name": "交通路105号院",
+    "position": 1,
+    "id": "2510744527",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "12110",
+    "age": "1998",
+    "type": "住宅",
+    "count": "35户",
+    "building_count": "2栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "二七老郑大",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

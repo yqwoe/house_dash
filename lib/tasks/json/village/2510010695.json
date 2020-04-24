@@ -1,0 +1,22 @@
+[
+  {
+    "name": "嘉悦花园",
+    "position": 1,
+    "id": "2510010695",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "11572",
+    "age": "2003",
+    "type": "住宅",
+    "count": "194户",
+    "building_count": "2栋",
+    "lh": "20%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "1.05 元/平米/月",
+    "wy": "地上停车位和地下停车位",
+    "tcw": "河南嘉悦置业有限公司",
+    "company": null
+  }
+]

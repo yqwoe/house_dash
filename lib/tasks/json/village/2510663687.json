@@ -1,0 +1,42 @@
+[
+  {
+    "name": "",
+    "position": 1,
+    "id": "2510663687",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13502",
+    "age": "2003",
+    "type": "住宅",
+    "count": "360户",
+    "building_count": "8栋",
+    "lh": "35%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.56 元/平米/月",
+    "wy": "海南珠江物业酒店管理有限公司",
+    "tcw": "本小区有120个停车位",
+    "company": null
+  },
+  {
+    "name": "秦江花园",
+    "position": 2,
+    "id": "2510663687",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13502",
+    "age": "2003",
+    "type": "住宅",
+    "count": "360户",
+    "building_count": "8栋",
+    "lh": "35%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.56 元/平米/月",
+    "wy": "海南珠江物业酒店管理有限公司",
+    "tcw": "本小区有120个停车位",
+    "company": null
+  }
+]

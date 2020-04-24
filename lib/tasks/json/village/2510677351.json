@@ -1,0 +1,22 @@
+[
+  {
+    "name": "紫荆山路人行家属院",
+    "position": 1,
+    "id": "2510677351",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "10798",
+    "age": "1996",
+    "type": "住宅",
+    "count": "200户",
+    "building_count": "2栋",
+    "lh": "35%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上停车位和地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

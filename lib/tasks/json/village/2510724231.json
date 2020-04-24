@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中铁七局二段家属院",
+    "position": 1,
+    "id": "2510724231",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "15230",
+    "age": "1998",
+    "type": "住宅",
+    "count": "24户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "二七火车站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

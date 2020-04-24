@@ -1,0 +1,22 @@
+[
+  {
+    "name": "市政局家属院",
+    "position": 1,
+    "id": "2510465157",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "11702",
+    "age": "1996",
+    "type": "住宅",
+    "count": "85户",
+    "building_count": "2栋",
+    "lh": "25%",
+    "rj": "1.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

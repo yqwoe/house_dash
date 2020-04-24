@@ -1,0 +1,22 @@
+[
+  {
+    "name": "裕鸿花园",
+    "position": 1,
+    "id": "2510010621",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "12128",
+    "age": "2000",
+    "type": "住宅",
+    "count": "524户",
+    "building_count": "4栋",
+    "lh": "49%",
+    "rj": "4.00",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "地下车位",
+    "tcw": "河南裕鸿置业有限公司",
+    "company": null
+  }
+]

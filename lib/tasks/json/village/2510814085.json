@@ -1,0 +1,22 @@
+[
+  {
+    "name": "石化路51号院",
+    "position": 1,
+    "id": "2510814085",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "17080",
+    "age": "1993",
+    "type": "住宅",
+    "count": "66户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "管城管南区域",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

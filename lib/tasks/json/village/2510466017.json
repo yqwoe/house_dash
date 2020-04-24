@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金桐花园",
+    "position": 1,
+    "id": "2510466017",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "15317",
+    "age": "2005",
+    "type": "住宅",
+    "count": "208户",
+    "building_count": "5栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

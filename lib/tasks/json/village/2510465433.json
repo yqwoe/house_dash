@@ -1,0 +1,22 @@
+[
+  {
+    "name": "南阳路136号院",
+    "position": 1,
+    "id": "2510465433",
+    "district": "惠济",
+    "comarea": "刘寨",
+    "avePrice": "12962",
+    "age": "2003",
+    "type": "住宅",
+    "count": "168户",
+    "building_count": "4栋",
+    "lh": "25%",
+    "rj": "2.20",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

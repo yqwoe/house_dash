@@ -1,0 +1,22 @@
+[
+  {
+    "name": "颖河路92号院",
+    "position": 1,
+    "id": "2510829101",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "12320",
+    "age": "1999",
+    "type": "住宅",
+    "count": "120户",
+    "building_count": "4栋",
+    "lh": "26%",
+    "rj": "1.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

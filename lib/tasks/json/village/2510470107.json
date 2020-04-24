@@ -1,0 +1,22 @@
+[
+  {
+    "name": "地质家园",
+    "position": 1,
+    "id": "2510470107",
+    "district": "高新",
+    "comarea": "新郑大",
+    "avePrice": "11092",
+    "age": "2007",
+    "type": "住宅",
+    "count": "264户",
+    "building_count": "6栋",
+    "lh": "25%",
+    "rj": "2.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.6 元/平米/月",
+    "wy": "郑州祥庭物业管理公司",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

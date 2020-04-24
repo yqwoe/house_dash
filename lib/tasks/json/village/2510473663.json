@@ -1,0 +1,22 @@
+[
+  {
+    "name": "海滩街小区",
+    "position": 1,
+    "id": "2510473663",
+    "district": "金水",
+    "comarea": "大石桥",
+    "avePrice": "10529",
+    "age": "1996",
+    "type": "住宅",
+    "count": "981户",
+    "building_count": "19栋",
+    "lh": "25%",
+    "rj": "2.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

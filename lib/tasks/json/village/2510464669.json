@@ -1,0 +1,22 @@
+[
+  {
+    "name": "伏牛路121号院",
+    "position": 1,
+    "id": "2510464669",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "10522",
+    "age": "1998",
+    "type": "住宅",
+    "count": "521户",
+    "building_count": "12栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

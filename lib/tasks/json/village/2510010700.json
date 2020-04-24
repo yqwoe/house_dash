@@ -1,0 +1,22 @@
+[
+  {
+    "name": "富寓花园",
+    "position": 1,
+    "id": "2510010700",
+    "district": "二七",
+    "comarea": "鞋城",
+    "avePrice": "12779",
+    "age": "2002",
+    "type": "住宅",
+    "count": "218户",
+    "building_count": "5栋",
+    "lh": "40%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

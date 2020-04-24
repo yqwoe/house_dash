@@ -1,0 +1,22 @@
+[
+  {
+    "name": "二七南花园",
+    "position": 1,
+    "id": "2510473811",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "14854",
+    "age": "2002",
+    "type": "住宅",
+    "count": "30%",
+    "building_count": "1.30",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

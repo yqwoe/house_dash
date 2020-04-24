@@ -1,0 +1,22 @@
+[
+  {
+    "name": "南阳路工行家属院",
+    "position": 1,
+    "id": "2510438895",
+    "district": "金水",
+    "comarea": "大石桥",
+    "avePrice": "10234",
+    "age": "1997",
+    "type": "住宅",
+    "count": "350户",
+    "building_count": "7栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

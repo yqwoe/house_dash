@@ -1,0 +1,22 @@
+[
+  {
+    "name": "机械研究所家属院",
+    "position": 1,
+    "id": "2510782561",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "21761",
+    "age": "1995",
+    "type": "住宅",
+    "count": "114户",
+    "building_count": "3栋",
+    "lh": "30%",
+    "rj": "15.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "二七老郑大",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

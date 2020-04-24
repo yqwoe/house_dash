@@ -1,0 +1,22 @@
+[
+  {
+    "name": "石化路23号院",
+    "position": 1,
+    "id": "2510833011",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "18268",
+    "age": "1996",
+    "type": "住宅",
+    "count": "0.00",
+    "building_count": null,
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "管城凤凰路",
+    "wy": "中铁建设七局",
+    "tcw": null,
+    "company": null
+  }
+]

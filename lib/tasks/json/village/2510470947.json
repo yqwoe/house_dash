@@ -1,0 +1,22 @@
+[
+  {
+    "name": "启泰小区",
+    "position": 1,
+    "id": "2510470947",
+    "district": "二七",
+    "comarea": "河医立交桥",
+    "avePrice": "10922",
+    "age": "1997",
+    "type": "住宅",
+    "count": "224户",
+    "building_count": "4栋",
+    "lh": "32%",
+    "rj": "1.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.4 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

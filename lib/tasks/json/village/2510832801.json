@@ -1,0 +1,22 @@
+[
+  {
+    "name": "棉纺东路40号",
+    "position": 1,
+    "id": "2510832801",
+    "district": "二七",
+    "comarea": "河医立交桥",
+    "avePrice": "15511",
+    "age": "1991",
+    "type": "住宅",
+    "count": "15%",
+    "building_count": "1.60",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

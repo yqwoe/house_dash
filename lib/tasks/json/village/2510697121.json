@@ -1,0 +1,22 @@
+[
+  {
+    "name": "天骄名门",
+    "position": 1,
+    "id": "2510697121",
+    "district": "中牟",
+    "comarea": "中牟",
+    "avePrice": "9124",
+    "age": "2009",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "2.30",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "0.78 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

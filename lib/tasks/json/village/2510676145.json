@@ -1,0 +1,22 @@
+[
+  {
+    "name": "二七商业银行家属院",
+    "position": 1,
+    "id": "2510676145",
+    "district": "二七",
+    "comarea": "老航院",
+    "avePrice": "14737",
+    "age": "2001",
+    "type": "住宅",
+    "count": "44户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "2.40",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位、地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

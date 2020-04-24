@@ -1,0 +1,22 @@
+[
+  {
+    "name": "沙口路30号院",
+    "position": 1,
+    "id": "2510825649",
+    "district": "金水",
+    "comarea": "富田大厦",
+    "avePrice": "13290",
+    "age": "1996",
+    "type": "住宅",
+    "count": "326户",
+    "building_count": "7栋",
+    "lh": "25%",
+    "rj": "2.90",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "金水富田大厦",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

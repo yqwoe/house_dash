@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文化宫路65号院",
+    "position": 1,
+    "id": "2510468831",
+    "district": "中原",
+    "comarea": "五一公园",
+    "avePrice": "12483",
+    "age": "1998",
+    "type": "住宅",
+    "count": "70户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原五一公园",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

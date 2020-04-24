@@ -1,0 +1,22 @@
+[
+  {
+    "name": "惠工小区",
+    "position": 1,
+    "id": "2510466081",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "11607",
+    "age": "2008",
+    "type": "住宅",
+    "count": "1092户",
+    "building_count": "13栋",
+    "lh": "20%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.39 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "西彩小区",
+    "position": 1,
+    "id": "2510304201",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "9391",
+    "age": "1997",
+    "type": "住宅",
+    "count": "1568户",
+    "building_count": "18栋",
+    "lh": "30%",
+    "rj": "1.20",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.52 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

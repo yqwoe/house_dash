@@ -1,0 +1,22 @@
+[
+  {
+    "name": "郑大三附院家属院",
+    "position": 1,
+    "id": "2510469743",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "15476",
+    "age": "1998",
+    "type": "住宅",
+    "count": "98户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼,砖楼",
+    "wy_price": "二七老郑大",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

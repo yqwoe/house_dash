@@ -1,0 +1,22 @@
+[
+  {
+    "name": "恒业住宅小区",
+    "position": 1,
+    "id": "2510661161",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "9717",
+    "age": "1997",
+    "type": "住宅",
+    "count": "30%",
+    "building_count": "2.30",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

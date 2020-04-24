@@ -1,0 +1,22 @@
+[
+  {
+    "name": "卡萨",
+    "position": 1,
+    "id": "2510149663",
+    "district": "金水",
+    "comarea": "枣庄",
+    "avePrice": "14652",
+    "age": "2007",
+    "type": "住宅",
+    "count": "599户",
+    "building_count": "4栋",
+    "lh": "19%",
+    "rj": "2.27",
+    "desc": "70年产权",
+    "building_type": "板楼,塔楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "河南天祥物业管理有限公司",
+    "tcw": "本小区有100个停车位",
+    "company": null
+  }
+]

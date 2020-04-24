@@ -1,0 +1,22 @@
+[
+  {
+    "name": "邮电局家属院",
+    "position": 1,
+    "id": "2510474753",
+    "district": "金水",
+    "comarea": "财富广场",
+    "avePrice": "13219",
+    "age": "1999",
+    "type": "住宅",
+    "count": "678户",
+    "building_count": "11栋",
+    "lh": "28%",
+    "rj": "2.20",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "伊河路100号院",
+    "position": 1,
+    "id": "2510469007",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "10571",
+    "age": "1989",
+    "type": "住宅",
+    "count": "196户",
+    "building_count": "4栋",
+    "lh": "15%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

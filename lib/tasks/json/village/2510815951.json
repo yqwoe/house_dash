@@ -1,0 +1,22 @@
+[
+  {
+    "name": "郑州铁路局生活段家属楼",
+    "position": 1,
+    "id": "2510815951",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "15517",
+    "age": "1998",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "2.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "康复前街55号院",
+    "position": 1,
+    "id": "2510829221",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "13779",
+    "age": "1996",
+    "type": "住宅",
+    "count": "105户",
+    "building_count": "3栋",
+    "lh": "15%",
+    "rj": "1.60",
+    "desc": "70年产权商品房",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

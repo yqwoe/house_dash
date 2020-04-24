@@ -1,0 +1,22 @@
+[
+  {
+    "name": "热电厂家属院",
+    "position": 1,
+    "id": "2510467909",
+    "district": "中原",
+    "comarea": "热电厂",
+    "avePrice": "9886",
+    "age": "1997",
+    "type": "住宅",
+    "count": "1296户",
+    "building_count": "33栋",
+    "lh": "28%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

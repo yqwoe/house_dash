@@ -1,0 +1,42 @@
+[
+  {
+    "name": "陇海西路176号院",
+    "position": 1,
+    "id": "2510467229",
+    "district": "中原",
+    "comarea": "中原万达",
+    "avePrice": "9979",
+    "age": "1997",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "1.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原中原万达",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "陇海西路176号院",
+    "position": 2,
+    "id": "2510467229",
+    "district": "中原",
+    "comarea": "中原万达",
+    "avePrice": "9979",
+    "age": "1997",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "1.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原中原万达",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

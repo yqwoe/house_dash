@@ -1,0 +1,42 @@
+[
+  {
+    "name": "金祥时代",
+    "position": 1,
+    "id": "2510095060",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13268",
+    "age": "2006",
+    "type": "住宅",
+    "count": "144户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "5.10",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "金祥物业",
+    "tcw": "本小区有100个停车位",
+    "company": "郑州市金祥置业有限公司"
+  },
+  {
+    "name": "金祥时代",
+    "position": 2,
+    "id": "2510095060",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13268",
+    "age": "2006",
+    "type": "住宅",
+    "count": "144户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "5.10",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "金祥物业",
+    "tcw": "本小区有100个停车位",
+    "company": "郑州市金祥置业有限公司"
+  }
+]

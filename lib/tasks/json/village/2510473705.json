@@ -1,0 +1,22 @@
+[
+  {
+    "name": "河畔人家",
+    "position": 1,
+    "id": "2510473705",
+    "district": "金水",
+    "comarea": "枣庄",
+    "avePrice": "15561",
+    "age": "2005",
+    "type": "住宅",
+    "count": "334户",
+    "building_count": "5栋",
+    "lh": "28%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

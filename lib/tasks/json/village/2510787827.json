@@ -1,0 +1,22 @@
+[
+  {
+    "name": "国税小区",
+    "position": 1,
+    "id": "2510787827",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "10658",
+    "age": "1998",
+    "type": "住宅",
+    "count": "315户",
+    "building_count": "9栋",
+    "lh": "30%",
+    "rj": "3.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "金水沙口路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

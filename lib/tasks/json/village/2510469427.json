@@ -1,0 +1,22 @@
+[
+  {
+    "name": "正馨花园",
+    "position": 1,
+    "id": "2510469427",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "11627",
+    "age": "2001",
+    "type": "住宅",
+    "count": "210户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

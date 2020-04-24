@@ -1,0 +1,22 @@
+[
+  {
+    "name": "商都幸福家园",
+    "position": 1,
+    "id": "2510473475",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "12854",
+    "age": "1998",
+    "type": "住宅",
+    "count": "162户",
+    "building_count": "2栋",
+    "lh": "40%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.4 元/平米/月",
+    "wy": "50个",
+    "tcw": null,
+    "company": null
+  }
+]

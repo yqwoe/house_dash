@@ -1,0 +1,22 @@
+[
+  {
+    "name": "沁河路11号",
+    "position": 1,
+    "id": "2510469785",
+    "district": "中原",
+    "comarea": "帝湖",
+    "avePrice": "13777",
+    "age": "2001",
+    "type": "住宅",
+    "count": "148户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原帝湖",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

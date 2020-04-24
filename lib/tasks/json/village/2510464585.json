@@ -1,0 +1,22 @@
+[
+  {
+    "name": "富邦公寓",
+    "position": 1,
+    "id": "2510464585",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "10717",
+    "age": "2002",
+    "type": "住宅",
+    "count": "140户",
+    "building_count": "3栋",
+    "lh": "25%",
+    "rj": "2.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.7 元/平米/月",
+    "wy": "固定车位，有单独车库",
+    "tcw": null,
+    "company": null
+  }
+]

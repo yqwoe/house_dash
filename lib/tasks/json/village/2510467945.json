@@ -1,0 +1,22 @@
+[
+  {
+    "name": "省直三院家属院",
+    "position": 1,
+    "id": "2510467945",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "11752",
+    "age": "1985",
+    "type": "住宅",
+    "count": "200户",
+    "building_count": "6栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

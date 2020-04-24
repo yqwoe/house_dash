@@ -1,0 +1,42 @@
+[
+  {
+    "name": "桐柏路219号院",
+    "position": 1,
+    "id": "2510812779",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "10950",
+    "age": "1998",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "桐柏路219号院",
+    "position": 2,
+    "id": "2510812779",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "10950",
+    "age": "1998",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

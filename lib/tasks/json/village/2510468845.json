@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文化宫路20号院",
+    "position": 1,
+    "id": "2510468845",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "12975",
+    "age": "1986",
+    "type": "住宅",
+    "count": "41户",
+    "building_count": "1栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

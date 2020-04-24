@@ -1,0 +1,22 @@
+[
+  {
+    "name": "东三马路52号院",
+    "position": 1,
+    "id": "2510488783",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "12269",
+    "age": "1998",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "2栋",
+    "lh": "22%",
+    "rj": "1.90",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "无",
+    "tcw": "30个",
+    "company": null
+  }
+]

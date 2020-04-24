@@ -1,0 +1,22 @@
+[
+  {
+    "name": "经八路11号院",
+    "position": 1,
+    "id": "2510438805",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "10895",
+    "age": "1996",
+    "type": "住宅",
+    "count": "625户",
+    "building_count": "11栋",
+    "lh": "25%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

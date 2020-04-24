@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原监狱家属院",
+    "position": 1,
+    "id": "2510465825",
+    "district": "中原",
+    "comarea": "热电厂",
+    "avePrice": "12786",
+    "age": "1999",
+    "type": "住宅",
+    "count": "158户",
+    "building_count": "4栋",
+    "lh": "25%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原热电厂",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

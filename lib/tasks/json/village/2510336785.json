@@ -1,0 +1,22 @@
+[
+  {
+    "name": "哈佛生活馆",
+    "position": 1,
+    "id": "2510336785",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "9727",
+    "age": "2012",
+    "type": "住宅",
+    "count": "100户",
+    "building_count": "1栋",
+    "lh": "48%",
+    "rj": "2.20",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "河南邦友物业",
+    "tcw": "地下停车位",
+    "company": "河南邦友创世实业有限公司"
+  }
+]

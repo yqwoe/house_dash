@@ -1,0 +1,22 @@
+[
+  {
+    "name": "淮北街民安路小区",
+    "position": 1,
+    "id": "2510483467",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "12190",
+    "age": "1996",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "2.30",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "万翔公寓",
+    "position": 1,
+    "id": "2510473025",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "12291",
+    "age": "2007",
+    "type": "住宅",
+    "count": "254户",
+    "building_count": "1栋",
+    "lh": "20%",
+    "rj": "3.00",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.85 元/平米/月",
+    "wy": "万翔物业",
+    "tcw": "地上地下停车位",
+    "company": null
+  }
+]

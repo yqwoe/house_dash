@@ -1,0 +1,22 @@
+[
+  {
+    "name": "职工路小区",
+    "position": 1,
+    "id": "2510469281",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "13369",
+    "age": "2001",
+    "type": "住宅",
+    "count": "224户",
+    "building_count": "6栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

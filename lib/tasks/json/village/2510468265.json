@@ -1,0 +1,22 @@
+[
+  {
+    "name": "福华大厦",
+    "position": 1,
+    "id": "2510468265",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "10573",
+    "age": "2007",
+    "type": "住宅",
+    "count": "336户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "10.00",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "本小区有280个地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

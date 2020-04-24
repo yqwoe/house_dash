@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新郑祥和小区",
+    "position": 1,
+    "id": "2510147775",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "9284",
+    "age": "住宅",
+    "type": "30%",
+    "count": "1.23",
+    "building_count": null,
+    "lh": null,
+    "rj": null,
+    "desc": "板楼",
+    "building_type": "新郑新郑",
+    "wy_price": null,
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

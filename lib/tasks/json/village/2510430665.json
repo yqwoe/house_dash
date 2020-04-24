@@ -1,0 +1,22 @@
+[
+  {
+    "name": "东方桃源",
+    "position": 1,
+    "id": "2510430665",
+    "district": "经开",
+    "comarea": "第三大街",
+    "avePrice": "13234",
+    "age": "2007",
+    "type": "住宅",
+    "count": "164户",
+    "building_count": "5栋",
+    "lh": "38%",
+    "rj": "1.42",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上70个停车位",
+    "tcw": "河南东方置业有限公司",
+    "company": null
+  }
+]

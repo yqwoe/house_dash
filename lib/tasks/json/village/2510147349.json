@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中铁青年职工住宅楼",
+    "position": 1,
+    "id": "2510147349",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "13050",
+    "age": "2000",
+    "type": "住宅",
+    "count": "48户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "管城管南区域",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

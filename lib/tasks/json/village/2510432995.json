@@ -1,0 +1,22 @@
+[
+  {
+    "name": "城市西贵",
+    "position": 1,
+    "id": "2510432995",
+    "district": "中原",
+    "comarea": "五一公园",
+    "avePrice": "14266",
+    "age": "2005",
+    "type": "住宅",
+    "count": "282户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "1.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金隆小区",
+    "position": 1,
+    "id": "2510738789",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "13726",
+    "age": "2002",
+    "type": "住宅",
+    "count": "60户",
+    "building_count": "2栋",
+    "lh": "25%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原电力新村",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

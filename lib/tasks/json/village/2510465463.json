@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原工行家属院",
+    "position": 1,
+    "id": "2510465463",
+    "district": "中原",
+    "comarea": "西流湖",
+    "avePrice": "11446",
+    "age": "1995",
+    "type": "住宅",
+    "count": "91户",
+    "building_count": "3栋",
+    "lh": "24%",
+    "rj": "1.20",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

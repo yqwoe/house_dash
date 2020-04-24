@@ -1,0 +1,22 @@
+[
+  {
+    "name": "发展小区",
+    "position": 1,
+    "id": "2510434023",
+    "district": "金水",
+    "comarea": "大石桥",
+    "avePrice": "13419",
+    "age": "1998",
+    "type": "住宅",
+    "count": "168户",
+    "building_count": "4栋",
+    "lh": "31%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.8 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "本小区有380个停车位",
+    "company": null
+  }
+]

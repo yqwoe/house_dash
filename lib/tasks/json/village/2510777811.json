@@ -1,0 +1,22 @@
+[
+  {
+    "name": "铁道天润花园",
+    "position": 1,
+    "id": "2510777811",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "16035",
+    "age": "2009",
+    "type": "住宅",
+    "count": "289户",
+    "building_count": "4栋",
+    "lh": "35%",
+    "rj": "3.50",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上和地下停车位",
+    "company": "郑州铁路局置业公司"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "郑锻小区",
+    "position": 1,
+    "id": "2510465103",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "12260",
+    "age": "1998",
+    "type": "住宅",
+    "count": "294户",
+    "building_count": "8栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原五龙口",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "郑锻小区",
+    "position": 2,
+    "id": "2510465103",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "12260",
+    "age": "1998",
+    "type": "住宅",
+    "count": "294户",
+    "building_count": "8栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原五龙口",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

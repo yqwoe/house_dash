@@ -1,0 +1,22 @@
+[
+  {
+    "name": "九郡弘别墅",
+    "position": 1,
+    "id": "2510094361",
+    "district": "惠济",
+    "comarea": "北大学城",
+    "avePrice": "39482",
+    "age": "2006",
+    "type": "别墅",
+    "count": "76户",
+    "building_count": "76栋",
+    "lh": "30%",
+    "rj": "1.20",
+    "desc": "联排",
+    "building_type": "0.8 元/平米/月",
+    "wy_price": "惠济北大学城",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "张家门社区",
+    "position": 1,
+    "id": "2510469463",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "11200",
+    "age": "1995",
+    "type": "住宅",
+    "count": "609户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

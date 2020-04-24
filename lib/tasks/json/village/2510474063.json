@@ -1,0 +1,22 @@
+[
+  {
+    "name": "南阳路202号院",
+    "position": 1,
+    "id": "2510474063",
+    "district": "惠济",
+    "comarea": "刘寨",
+    "avePrice": "15072",
+    "age": "1995",
+    "type": "住宅",
+    "count": "202户",
+    "building_count": "4栋",
+    "lh": "26%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

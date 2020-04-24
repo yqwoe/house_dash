@@ -1,0 +1,22 @@
+[
+  {
+    "name": "工人路14号院",
+    "position": 1,
+    "id": "2510147235",
+    "district": "中原",
+    "comarea": "郑州晚报社",
+    "avePrice": "17358",
+    "age": "2000",
+    "type": "住宅",
+    "count": "144户",
+    "building_count": "1栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "中原郑州晚报社",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

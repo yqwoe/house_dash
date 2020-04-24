@@ -1,0 +1,22 @@
+[
+  {
+    "name": "宋砦小区北院",
+    "position": 1,
+    "id": "2510475507",
+    "district": "金水",
+    "comarea": "绿荫广场",
+    "avePrice": "14718",
+    "age": "2002",
+    "type": "住宅",
+    "count": "390户",
+    "building_count": "13栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.4 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新田小区",
+    "position": 1,
+    "id": "2510676383",
+    "district": "金水",
+    "comarea": "未来大厦",
+    "avePrice": "13327",
+    "age": "2001",
+    "type": "住宅",
+    "count": "72户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "2.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.78 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": "河南新田置业有限公司",
+    "company": null
+  }
+]

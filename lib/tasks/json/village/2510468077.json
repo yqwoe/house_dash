@@ -1,0 +1,22 @@
+[
+  {
+    "name": "市检察院家属院",
+    "position": 1,
+    "id": "2510468077",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "10748",
+    "age": "1998",
+    "type": "住宅",
+    "count": "200户",
+    "building_count": "4栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

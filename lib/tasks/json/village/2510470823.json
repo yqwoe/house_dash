@@ -1,0 +1,22 @@
+[
+  {
+    "name": "长兴大厦",
+    "position": 1,
+    "id": "2510470823",
+    "district": "惠济",
+    "comarea": "省体育中心",
+    "avePrice": "12278",
+    "age": "2006",
+    "type": "住宅",
+    "count": "126户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地下车位和地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

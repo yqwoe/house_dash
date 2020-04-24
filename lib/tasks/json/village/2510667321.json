@@ -1,0 +1,22 @@
+[
+  {
+    "name": "青年公寓",
+    "position": 1,
+    "id": "2510667321",
+    "district": "中原",
+    "comarea": "热电厂",
+    "avePrice": "18270",
+    "age": "2009",
+    "type": "住宅",
+    "count": "252户",
+    "building_count": "3栋",
+    "lh": "15%",
+    "rj": "25.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.56 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

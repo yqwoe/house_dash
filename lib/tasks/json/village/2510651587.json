@@ -1,0 +1,42 @@
+[
+  {
+    "name": "豫剧三团家属院",
+    "position": 1,
+    "id": "2510651587",
+    "district": "金水",
+    "comarea": "水上乐园",
+    "avePrice": "11019",
+    "age": "1996",
+    "type": "住宅",
+    "count": "241户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "1.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "豫剧三团家属院",
+    "position": 2,
+    "id": "2510651587",
+    "district": "金水",
+    "comarea": "水上乐园",
+    "avePrice": "11019",
+    "age": "1996",
+    "type": "住宅",
+    "count": "241户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "1.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

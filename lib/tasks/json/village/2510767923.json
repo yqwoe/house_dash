@@ -1,0 +1,22 @@
+[
+  {
+    "name": "兰馨壹号院",
+    "position": 1,
+    "id": "2510767923",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "8140",
+    "age": "2015",
+    "type": "住宅",
+    "count": "248户",
+    "building_count": "3栋",
+    "lh": "40%",
+    "rj": "2.40",
+    "desc": "住宅产权70年",
+    "building_type": "板楼",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "1:1",
+    "tcw": "河南兰馨置业有限公司",
+    "company": null
+  }
+]

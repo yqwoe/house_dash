@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金天地大厦",
+    "position": 1,
+    "id": "2510010620",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "11486",
+    "age": "2003",
+    "type": "住宅",
+    "count": "60户",
+    "building_count": "1栋",
+    "lh": "24%",
+    "rj": "2.60",
+    "desc": "50年",
+    "building_type": "塔楼",
+    "wy_price": "1.13 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

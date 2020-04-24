@@ -1,0 +1,22 @@
+[
+  {
+    "name": "煤仓街小区",
+    "position": 1,
+    "id": "2510528833",
+    "district": "中原",
+    "comarea": "热电厂",
+    "avePrice": "10780",
+    "age": "1996",
+    "type": "住宅",
+    "count": "78户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原热电厂",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

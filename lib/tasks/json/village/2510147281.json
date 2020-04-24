@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文化宫路32号院",
+    "position": 1,
+    "id": "2510147281",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "10853",
+    "age": "2000",
+    "type": "住宅",
+    "count": "36户",
+    "building_count": "1栋",
+    "lh": "10%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

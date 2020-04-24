@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文化宫路46号院",
+    "position": 1,
+    "id": "2510468851",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "15430",
+    "age": "1985",
+    "type": "住宅",
+    "count": "50户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "20.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

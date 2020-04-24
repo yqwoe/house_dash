@@ -1,0 +1,22 @@
+[
+  {
+    "name": "伊河路51号院",
+    "position": 1,
+    "id": "2510815991",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "11448",
+    "age": "1998",
+    "type": "住宅",
+    "count": "1036户",
+    "building_count": "18栋",
+    "lh": "35%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

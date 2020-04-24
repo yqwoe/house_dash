@@ -1,0 +1,22 @@
+[
+  {
+    "name": "蓝爵世家",
+    "position": 1,
+    "id": "2510697123",
+    "district": "中牟",
+    "comarea": "中牟",
+    "avePrice": "8880",
+    "age": "2010",
+    "type": "住宅",
+    "count": "66户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.7 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "供销社家属院",
+    "position": 1,
+    "id": "2510475783",
+    "district": "金水",
+    "comarea": "省人民医院",
+    "avePrice": "20610",
+    "age": "1982",
+    "type": "住宅",
+    "count": "694户",
+    "building_count": "14栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上停车位",
+    "company": "市政建设"
+  }
+]

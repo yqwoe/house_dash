@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原分局家属院",
+    "position": 1,
+    "id": "2510465971",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13654",
+    "age": "1995",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "3栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

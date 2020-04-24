@@ -1,0 +1,22 @@
+[
+  {
+    "name": "富登小区",
+    "position": 1,
+    "id": "2510515425",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "11375",
+    "age": "1998",
+    "type": "住宅",
+    "count": "30户",
+    "building_count": "2栋",
+    "lh": "32%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "沙口路115号院",
+    "position": 1,
+    "id": "2510795857",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "9885",
+    "age": "1997",
+    "type": "住宅",
+    "count": "152户",
+    "building_count": "8栋",
+    "lh": "27%",
+    "rj": "3.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.30 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

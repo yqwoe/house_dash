@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新华小区",
+    "position": 1,
+    "id": "2510739079",
+    "district": "巩义",
+    "comarea": "巩义",
+    "avePrice": "9833",
+    "age": "2006",
+    "type": "住宅",
+    "count": "12户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "巩义巩义",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

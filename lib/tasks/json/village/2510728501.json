@@ -1,0 +1,22 @@
+[
+  {
+    "name": "华尔街1号",
+    "position": 1,
+    "id": "2510728501",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "9318",
+    "age": "2014",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "4.40",
+    "lh": null,
+    "rj": null,
+    "desc": "该项目产权为50年",
+    "building_type": "板楼",
+    "wy_price": "1.8 元/平米/月",
+    "wy": "新郑市晟邦物业有限公司",
+    "tcw": "775个停车位，地下车位500个",
+    "company": "新郑市正弘房地产开发有限公司"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "印刷厂街社区",
+    "position": 1,
+    "id": "2510469953",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "11438",
+    "age": "1990",
+    "type": "住宅",
+    "count": "1624户",
+    "building_count": "35栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

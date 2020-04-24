@@ -1,0 +1,42 @@
+[
+  {
+    "name": "省军区家属院",
+    "position": 1,
+    "id": "2510822639",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "10548",
+    "age": "1998",
+    "type": "住宅",
+    "count": "15%",
+    "building_count": "0.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "金水经五路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "省军区家属院",
+    "position": 2,
+    "id": "2510822639",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "10548",
+    "age": "1998",
+    "type": "住宅",
+    "count": "15%",
+    "building_count": "0.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "金水经五路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

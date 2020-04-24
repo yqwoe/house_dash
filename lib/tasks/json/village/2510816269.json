@@ -1,0 +1,22 @@
+[
+  {
+    "name": "法院东街32号",
+    "position": 1,
+    "id": "2510816269",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11736",
+    "age": "1999",
+    "type": "住宅",
+    "count": "42户",
+    "building_count": "1栋",
+    "lh": "12%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "管城南关街",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

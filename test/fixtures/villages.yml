@@ -1,0 +1,39 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  district: MyString
+  comarea: MyString
+  ave_price: 9.99
+  age: 1
+  type_id: MyString
+  count_id: MyString
+  building_count: 1
+  lh: MyString
+  rj: MyString
+  desc: MyString
+  building_type: MyString
+  wy_price: MyString
+  wy: MyString
+  tcw: MyString
+  company: MyString
+  v_id: MyString
+
+two:
+  name: MyString
+  district: MyString
+  comarea: MyString
+  ave_price: 9.99
+  age: 1
+  type_id: MyString
+  count_id: MyString
+  building_count: 1
+  lh: MyString
+  rj: MyString
+  desc: MyString
+  building_type: MyString
+  wy_price: MyString
+  wy: MyString
+  tcw: MyString
+  company: MyString
+  v_id: MyString

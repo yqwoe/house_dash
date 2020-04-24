@@ -1,0 +1,22 @@
+[
+  {
+    "name": "大河龙城别墅",
+    "position": 1,
+    "id": "2510709979",
+    "district": "惠济",
+    "comarea": "北大学城",
+    "avePrice": "22272",
+    "age": "2010",
+    "type": "别墅",
+    "count": "140户",
+    "building_count": "55栋",
+    "lh": "53%",
+    "rj": "0.58",
+    "desc": "联排",
+    "building_type": "1.2 元/平米/月",
+    "wy_price": "惠济北大学城",
+    "wy": "独立车位",
+    "tcw": null,
+    "company": null
+  }
+]

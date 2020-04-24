@@ -1,0 +1,22 @@
+[
+  {
+    "name": "宇泰东方公寓",
+    "position": 1,
+    "id": "2510717953",
+    "district": "郑东新区",
+    "comarea": "黄河南路",
+    "avePrice": "14146",
+    "age": "2010",
+    "type": "住宅",
+    "count": "29%",
+    "building_count": "10.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.4 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

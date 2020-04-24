@@ -1,0 +1,22 @@
+[
+  {
+    "name": "林荫大道",
+    "position": 1,
+    "id": "2510434585",
+    "district": "金水",
+    "comarea": "富田大厦",
+    "avePrice": "11440",
+    "age": "2004",
+    "type": "住宅",
+    "count": "975户",
+    "building_count": "17栋",
+    "lh": "20%",
+    "rj": "1.75",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "本小区地上200个车位",
+    "tcw": "河南省城开集团",
+    "company": null
+  }
+]

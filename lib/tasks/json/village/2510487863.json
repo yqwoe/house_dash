@@ -1,0 +1,22 @@
+[
+  {
+    "name": "医学院小区",
+    "position": 1,
+    "id": "2510487863",
+    "district": "二七",
+    "comarea": "河医立交桥",
+    "avePrice": "12347",
+    "age": "1995",
+    "type": "住宅",
+    "count": "2206户",
+    "building_count": "36栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "二七河医立交桥",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

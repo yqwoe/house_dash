@@ -1,0 +1,22 @@
+[
+  {
+    "name": "三中家属院",
+    "position": 1,
+    "id": "2510473565",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "10640",
+    "age": "2004",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

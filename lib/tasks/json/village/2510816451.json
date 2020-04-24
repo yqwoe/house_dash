@@ -1,0 +1,22 @@
+[
+  {
+    "name": "工人路11号院",
+    "position": 1,
+    "id": "2510816451",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "15348",
+    "age": "2000",
+    "type": "住宅",
+    "count": "36户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "1.20",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原电力新村",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

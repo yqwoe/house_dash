@@ -1,0 +1,22 @@
+[
+  {
+    "name": "郑州晚报社家属院",
+    "position": 1,
+    "id": "2510468795",
+    "district": "中原",
+    "comarea": "郑州晚报社",
+    "avePrice": "16791",
+    "age": "1995",
+    "type": "住宅",
+    "count": "655户",
+    "building_count": "10栋",
+    "lh": "30%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

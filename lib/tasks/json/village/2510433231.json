@@ -1,0 +1,22 @@
+[
+  {
+    "name": "未来国际",
+    "position": 1,
+    "id": "2510433231",
+    "district": "郑东新区",
+    "comarea": "CBD",
+    "avePrice": "16326",
+    "age": "2004",
+    "type": "住宅",
+    "count": "425户",
+    "building_count": "3栋",
+    "lh": "26%",
+    "rj": "5.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.25 元/平米/月",
+    "wy": "本小区有128个停车位",
+    "tcw": null,
+    "company": null
+  }
+]

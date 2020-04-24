@@ -1,0 +1,22 @@
+[
+  {
+    "name": "二里岗邮局家属院",
+    "position": 1,
+    "id": "2510469673",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "12531",
+    "age": "1998",
+    "type": "住宅",
+    "count": "280户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

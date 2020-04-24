@@ -1,0 +1,22 @@
+[
+  {
+    "name": "星月小区",
+    "position": 1,
+    "id": "2510463147",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11351",
+    "age": "1998",
+    "type": "住宅",
+    "count": "718户",
+    "building_count": "10栋",
+    "lh": "20%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "郑州家园美物业管理有限公司",
+    "tcw": "本小区有150个停车位",
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "717住宅小区",
+    "position": 1,
+    "id": "2510783101",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "14891",
+    "age": "2006",
+    "type": "住宅",
+    "count": "296户",
+    "building_count": "2栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "郑州怡心物业管理有限公司",
+    "tcw": "地上地下停车位",
+    "company": null
+  }
+]

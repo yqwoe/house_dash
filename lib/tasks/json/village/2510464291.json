@@ -1,0 +1,22 @@
+[
+  {
+    "name": "电力工业学校家属院",
+    "position": 1,
+    "id": "2510464291",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "11780",
+    "age": "1996",
+    "type": "住宅",
+    "count": "796户",
+    "building_count": "22栋",
+    "lh": "25%",
+    "rj": "3.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上停车位和地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

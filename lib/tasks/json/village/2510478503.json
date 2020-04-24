@@ -1,0 +1,22 @@
+[
+  {
+    "name": "开元公寓",
+    "position": 1,
+    "id": "2510478503",
+    "district": "金水",
+    "comarea": "水上乐园",
+    "avePrice": "9748",
+    "age": "2000",
+    "type": "住宅",
+    "count": "145户",
+    "building_count": "3栋",
+    "lh": "25%",
+    "rj": "2.60",
+    "desc": "大产权",
+    "building_type": "板楼",
+    "wy_price": "1.2 元/平米/月",
+    "wy": "地上车位",
+    "tcw": "郑州开元房地产有限公司",
+    "company": null
+  }
+]

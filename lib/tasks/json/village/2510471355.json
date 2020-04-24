@@ -1,0 +1,22 @@
+[
+  {
+    "name": "二中家属院",
+    "position": 1,
+    "id": "2510471355",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "12278",
+    "age": "1993",
+    "type": "住宅",
+    "count": "81户",
+    "building_count": "3栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

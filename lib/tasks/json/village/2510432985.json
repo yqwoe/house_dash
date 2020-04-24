@@ -1,0 +1,22 @@
+[
+  {
+    "name": "长宏花苑",
+    "position": 1,
+    "id": "2510432985",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "12685",
+    "age": "2002",
+    "type": "住宅",
+    "count": "112户",
+    "building_count": "3栋",
+    "lh": "15%",
+    "rj": "2.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

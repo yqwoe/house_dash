@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中亨花园四号院",
+    "position": 1,
+    "id": "2510711667",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "9917",
+    "age": "1999",
+    "type": "住宅",
+    "count": "357户",
+    "building_count": "7栋",
+    "lh": "25%",
+    "rj": "1.90",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

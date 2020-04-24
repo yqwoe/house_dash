@@ -1,0 +1,22 @@
+[
+  {
+    "name": "翠堤嘉园",
+    "position": 1,
+    "id": "2510438897",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "11418",
+    "age": "2005",
+    "type": "住宅",
+    "count": "171户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.20",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

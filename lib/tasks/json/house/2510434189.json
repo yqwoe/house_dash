@@ -1,0 +1,41 @@
+[
+  {
+    "id": "2510434189",
+    "area": "105",
+    "feature": "满五",
+    "title": "不，限，购，花园路花园新村105平三房1楼80万起拍",
+    "xiaoqu_": "花园新村",
+    "room": "3室1厅",
+    "total_price": "100",
+    "price": "9524元/㎡ ",
+    "louceng": "低层/7层",
+    "louxing": "砖混",
+    "chaoxiang": "南北",
+    "zhuangxiu": "简装修",
+    "age": "有",
+    "quyu": "1999",
+    "": "金水-北站",
+    "shoufu": "约52.5万，月供2817元",
+    "xiaoqu": "花园新村",
+    "position": 1
+  },
+  {
+    "id": "2510434189",
+    "area": "90",
+    "feature": "满五",
+    "title": "一个点 D铁口 南北通透双气2房 农科路X学",
+    "xiaoqu_": "花园新村",
+    "room": "2室2厅",
+    "total_price": "128",
+    "price": "14222元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "南北",
+    "chaoxiang": "精装修",
+    "zhuangxiu": "有",
+    "age": "1999",
+    "quyu": "金水-北站",
+    "shoufu": "约67.4万，月供3599元",
+    "xiaoqu": "花园新村",
+    "position": 2
+  }
+]

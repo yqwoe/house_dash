@@ -1,0 +1,22 @@
+[
+  {
+    "name": "人行家属院",
+    "position": 1,
+    "id": "2510697779",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "13917",
+    "age": "1995",
+    "type": "住宅",
+    "count": "126户",
+    "building_count": "3栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "地上停车位",
+    "company": "市政建设"
+  }
+]

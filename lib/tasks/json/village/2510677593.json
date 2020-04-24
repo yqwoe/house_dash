@@ -1,0 +1,22 @@
+[
+  {
+    "name": "科技局家属院",
+    "position": 1,
+    "id": "2510677593",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "13693",
+    "age": "1996",
+    "type": "住宅",
+    "count": "262户",
+    "building_count": "9栋",
+    "lh": "35%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

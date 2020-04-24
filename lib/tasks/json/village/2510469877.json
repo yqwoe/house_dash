@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原西路76号院",
+    "position": 1,
+    "id": "2510469877",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "15364",
+    "age": "2000",
+    "type": "住宅",
+    "count": "90户",
+    "building_count": "2栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "多层",
+    "building_type": "中原汽车西站",
+    "wy_price": "",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "炼油厂家属院",
+    "position": 1,
+    "id": "2510469149",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "17246",
+    "age": "1988",
+    "type": "住宅",
+    "count": "178户",
+    "building_count": "5栋",
+    "lh": "15%",
+    "rj": "1.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

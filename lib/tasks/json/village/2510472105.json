@@ -1,0 +1,22 @@
+[
+  {
+    "name": "邮电四公司家属院",
+    "position": 1,
+    "id": "2510472105",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "15517",
+    "age": "1998",
+    "type": "住宅",
+    "count": "45户",
+    "building_count": "1栋",
+    "lh": "30%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "二七老郑大",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "郑州车务段家属院",
+    "position": 1,
+    "id": "2510469303",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "11296",
+    "age": "1991",
+    "type": "住宅",
+    "count": "40户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

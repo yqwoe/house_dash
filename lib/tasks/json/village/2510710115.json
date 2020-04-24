@@ -1,0 +1,22 @@
+[
+  {
+    "name": "铁道新景苑",
+    "position": 1,
+    "id": "2510710115",
+    "district": "管城",
+    "comarea": "世纪欢乐园",
+    "avePrice": "11493",
+    "age": "2009",
+    "type": "住宅",
+    "count": "208户",
+    "building_count": "2栋",
+    "lh": "35%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上地下车位",
+    "company": "郑州铁路局置业公司"
+  }
+]

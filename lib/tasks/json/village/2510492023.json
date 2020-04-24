@@ -1,0 +1,22 @@
+[
+  {
+    "name": "都市铭座",
+    "position": 1,
+    "id": "2510492023",
+    "district": "金水",
+    "comarea": "枣庄",
+    "avePrice": "12279",
+    "age": "2004",
+    "type": "住宅",
+    "count": "144户",
+    "building_count": "2栋",
+    "lh": "30%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.6 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

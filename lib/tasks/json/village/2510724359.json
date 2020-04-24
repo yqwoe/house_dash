@@ -1,0 +1,22 @@
+[
+  {
+    "name": "铁英街小区",
+    "position": 1,
+    "id": "2510724359",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "14607",
+    "age": "1996",
+    "type": "住宅",
+    "count": "706户",
+    "building_count": "16栋",
+    "lh": "25%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "二七老郑大",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

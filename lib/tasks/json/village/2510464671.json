@@ -1,0 +1,22 @@
+[
+  {
+    "name": "伏牛路128号院",
+    "position": 1,
+    "id": "2510464671",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13806",
+    "age": "1989",
+    "type": "住宅",
+    "count": "46户",
+    "building_count": "2栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

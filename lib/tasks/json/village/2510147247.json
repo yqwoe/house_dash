@@ -1,0 +1,22 @@
+[
+  {
+    "name": "工人路20号院",
+    "position": 1,
+    "id": "2510147247",
+    "district": "中原",
+    "comarea": "郑州晚报社",
+    "avePrice": "15462",
+    "age": "1999",
+    "type": "住宅",
+    "count": "24户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "25.00",
+    "desc": "70年产权",
+    "building_type": "砖楼",
+    "wy_price": "中原郑州晚报社",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

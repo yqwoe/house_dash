@@ -1,0 +1,22 @@
+[
+  {
+    "name": "天城苑",
+    "position": 1,
+    "id": "2510475265",
+    "district": "金水",
+    "comarea": "科技市场",
+    "avePrice": "13233",
+    "age": "1996",
+    "type": "住宅",
+    "count": "253户",
+    "building_count": "5栋",
+    "lh": "35%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼,板塔结合",
+    "wy_price": "1.2 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

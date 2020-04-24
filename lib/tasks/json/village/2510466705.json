@@ -1,0 +1,22 @@
+[
+  {
+    "name": "计划路15号院",
+    "position": 1,
+    "id": "2510466705",
+    "district": "中原",
+    "comarea": "五一公园",
+    "avePrice": "11744",
+    "age": "2000",
+    "type": "住宅",
+    "count": "130户",
+    "building_count": "3栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "多层",
+    "building_type": "中原五一公园",
+    "wy_price": null,
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

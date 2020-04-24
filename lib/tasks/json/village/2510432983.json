@@ -1,0 +1,22 @@
+[
+  {
+    "name": "科技绿苑",
+    "position": 1,
+    "id": "2510432983",
+    "district": "中原",
+    "comarea": "郑州晚报社",
+    "avePrice": "10610",
+    "age": "1996",
+    "type": "住宅",
+    "count": "544户",
+    "building_count": "10栋",
+    "lh": "35%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

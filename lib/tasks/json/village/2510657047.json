@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金馨公寓",
+    "position": 1,
+    "id": "2510657047",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "9713",
+    "age": "2001",
+    "type": "住宅",
+    "count": "133户",
+    "building_count": "3栋",
+    "lh": "32%",
+    "rj": "1.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.43 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

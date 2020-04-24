@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新浦花园",
+    "position": 1,
+    "id": "2510727117",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "16891",
+    "age": "2012",
+    "type": "住宅",
+    "count": "1014户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上地下车位",
+    "company": "郑州市人民政府中原区政府"
+  }
+]

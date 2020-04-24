@@ -1,0 +1,22 @@
+[
+  {
+    "name": "市委家属院南院",
+    "position": 1,
+    "id": "2510464907",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "13897",
+    "age": "2000",
+    "type": "住宅",
+    "count": "744户",
+    "building_count": "14栋",
+    "lh": "25%",
+    "rj": "1.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上停车位",
+    "company": "市政建设"
+  }
+]

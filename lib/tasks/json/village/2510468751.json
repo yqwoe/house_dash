@@ -1,0 +1,22 @@
+[
+  {
+    "name": "管城机械化家属院",
+    "position": 1,
+    "id": "2510468751",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "11452",
+    "age": "2006",
+    "type": "住宅",
+    "count": "259户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.6 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

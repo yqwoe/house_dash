@@ -1,0 +1,22 @@
+[
+  {
+    "name": "明苑",
+    "position": 1,
+    "id": "2510228143",
+    "district": "惠济",
+    "comarea": "省体育中心",
+    "avePrice": "12118",
+    "age": "2007",
+    "type": "住宅",
+    "count": "54户",
+    "building_count": "2栋",
+    "lh": "40%",
+    "rj": "1.80",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": "郑州大明实业有限公司",
+    "company": null
+  }
+]

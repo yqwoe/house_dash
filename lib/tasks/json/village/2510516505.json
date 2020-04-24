@@ -1,0 +1,22 @@
+[
+  {
+    "name": "铁道家园",
+    "position": 1,
+    "id": "2510516505",
+    "district": "二七",
+    "comarea": "鞋城",
+    "avePrice": "15779",
+    "age": "2003",
+    "type": "住宅",
+    "count": "1329户",
+    "building_count": "30栋",
+    "lh": "47%",
+    "rj": "4.80",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上免费停车，有地下停车场！",
+    "tcw": "政府监督开发",
+    "company": null
+  }
+]

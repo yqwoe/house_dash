@@ -1,0 +1,22 @@
+[
+  {
+    "name": "计划路13号院",
+    "position": 1,
+    "id": "2510823971",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13556",
+    "age": "1986",
+    "type": "住宅",
+    "count": "50户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "1.20",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

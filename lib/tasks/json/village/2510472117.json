@@ -1,0 +1,22 @@
+[
+  {
+    "name": "郑飞小区",
+    "position": 1,
+    "id": "2510472117",
+    "district": "二七",
+    "comarea": "兴华南街",
+    "avePrice": "12493",
+    "age": "1996",
+    "type": "住宅",
+    "count": "5592户",
+    "building_count": "110栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼,塔楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "郑飞物业",
+    "tcw": "本小区有500个停车位",
+    "company": null
+  }
+]

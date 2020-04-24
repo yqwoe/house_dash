@@ -1,0 +1,22 @@
+[
+  {
+    "name": "管城工业局家属院",
+    "position": 1,
+    "id": "2510468527",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "15083",
+    "age": "1997",
+    "type": "住宅",
+    "count": "62户",
+    "building_count": "2栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

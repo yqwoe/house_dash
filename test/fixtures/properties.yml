@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tit: MyString
+  jl: MyString
+  desc: MyString
+  village: one
+
+two:
+  tit: MyString
+  jl: MyString
+  desc: MyString
+  village: two

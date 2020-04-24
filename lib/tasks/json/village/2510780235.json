@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新郑林溪湾",
+    "position": 1,
+    "id": "2510780235",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "21313",
+    "age": "2011",
+    "type": "住宅",
+    "count": "841户",
+    "building_count": "153栋",
+    "lh": "35%",
+    "rj": "0.69",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "2.00 元/平米/月",
+    "wy": "第一太平戴维斯",
+    "tcw": "地下停车位",
+    "company": "郑州新兴置业有限公司"
+  }
+]

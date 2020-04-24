@@ -1,0 +1,22 @@
+[
+  {
+    "name": "世纪城",
+    "position": 1,
+    "id": "2510746441",
+    "district": "中牟",
+    "comarea": "中牟",
+    "avePrice": "8768",
+    "age": "2015",
+    "type": "住宅",
+    "count": "308户",
+    "building_count": "6栋",
+    "lh": "30%",
+    "rj": "4.19",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.5 元/平米/月",
+    "wy": "1130个车位，比例达到1.18:1",
+    "tcw": "郑州世纪中信置业有限公司",
+    "company": null
+  }
+]

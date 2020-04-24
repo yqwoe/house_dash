@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文新苑",
+    "position": 1,
+    "id": "2510465903",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "12642",
+    "age": "2008",
+    "type": "住宅",
+    "count": "120户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

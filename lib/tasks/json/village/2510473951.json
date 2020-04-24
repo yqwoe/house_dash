@@ -1,0 +1,22 @@
+[
+  {
+    "name": "商城路绿云公寓",
+    "position": 1,
+    "id": "2510473951",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "12545",
+    "age": "1998",
+    "type": "住宅",
+    "count": "91户",
+    "building_count": "1栋",
+    "lh": "20%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

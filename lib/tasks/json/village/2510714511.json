@@ -1,0 +1,22 @@
+[
+  {
+    "name": "豫武花园",
+    "position": 1,
+    "id": "2510714511",
+    "district": "郑东新区",
+    "comarea": "黄河南路",
+    "avePrice": "19605",
+    "age": "2002",
+    "type": "住宅",
+    "count": "120户",
+    "building_count": "3栋",
+    "lh": "28%",
+    "rj": "4.40",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": "河南立奇置业有限公司",
+    "company": null
+  }
+]

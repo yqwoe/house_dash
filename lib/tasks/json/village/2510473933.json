@@ -1,0 +1,22 @@
+[
+  {
+    "name": "铭功路小区",
+    "position": 1,
+    "id": "2510473933",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "8825",
+    "age": "1990",
+    "type": "住宅",
+    "count": "618户",
+    "building_count": "11栋",
+    "lh": "25%",
+    "rj": "1.20",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

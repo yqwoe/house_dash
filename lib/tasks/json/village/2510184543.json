@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新园住宅小区",
+    "position": 1,
+    "id": "2510184543",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "14281",
+    "age": "2005",
+    "type": "住宅",
+    "count": "280户",
+    "building_count": "12栋",
+    "lh": "23%",
+    "rj": "3.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": "河南钱塘置业有限公司",
+    "company": null
+  }
+]

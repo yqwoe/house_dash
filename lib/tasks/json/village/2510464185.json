@@ -1,0 +1,22 @@
+[
+  {
+    "name": "长城阳光新干线",
+    "position": 1,
+    "id": "2510464185",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13663",
+    "age": "2007",
+    "type": "住宅",
+    "count": "515户",
+    "building_count": "6栋",
+    "lh": "30%",
+    "rj": "3.00",
+    "desc": "大产权",
+    "building_type": "塔楼",
+    "wy_price": "中原汽车西站",
+    "wy": "地上车位：200个 地下车位：500个",
+    "tcw": null,
+    "company": null
+  }
+]

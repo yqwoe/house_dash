@@ -1,0 +1,22 @@
+[
+  {
+    "name": "原野公寓",
+    "position": 1,
+    "id": "2510474639",
+    "district": "金水",
+    "comarea": "水上乐园",
+    "avePrice": "13439",
+    "age": "1996",
+    "type": "住宅",
+    "count": "162户",
+    "building_count": "3栋",
+    "lh": "28%",
+    "rj": "2.20",
+    "desc": "大产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

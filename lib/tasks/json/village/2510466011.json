@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金盾花园",
+    "position": 1,
+    "id": "2510466011",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "10510",
+    "age": "2004",
+    "type": "住宅",
+    "count": "602户",
+    "building_count": "14栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板塔结合",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

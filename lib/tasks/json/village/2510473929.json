@@ -1,0 +1,22 @@
+[
+  {
+    "name": "木材公司家属院",
+    "position": 1,
+    "id": "2510473929",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "14187",
+    "age": "1995",
+    "type": "住宅",
+    "count": "148户",
+    "building_count": "3栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

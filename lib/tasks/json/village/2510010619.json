@@ -1,0 +1,22 @@
+[
+  {
+    "name": "太极公馆",
+    "position": 1,
+    "id": "2510010619",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "13663",
+    "age": "2002",
+    "type": "住宅",
+    "count": "423户",
+    "building_count": "6栋",
+    "lh": "35%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.39 元/平米/月",
+    "wy": "太极物业",
+    "tcw": "地上地下车位",
+    "company": "河南太极置业有限公司"
+  }
+]

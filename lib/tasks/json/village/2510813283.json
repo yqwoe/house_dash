@@ -1,0 +1,22 @@
+[
+  {
+    "name": "王鼎禧座",
+    "position": 1,
+    "id": "2510813283",
+    "district": "郑东新区",
+    "comarea": "CBD",
+    "avePrice": "17762",
+    "age": "2013",
+    "type": "住宅",
+    "count": "512户",
+    "building_count": "2栋",
+    "lh": "40%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "3.2 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

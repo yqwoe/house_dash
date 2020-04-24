@@ -1,0 +1,22 @@
+[
+  {
+    "name": "绿都广场二环里",
+    "position": 1,
+    "id": "2510147999",
+    "district": "管城",
+    "comarea": "管城",
+    "avePrice": "9826",
+    "age": "2019",
+    "type": "住宅",
+    "count": "606户",
+    "building_count": "1栋",
+    "lh": "4.00",
+    "rj": null,
+    "desc": "绿都广场二环里普通住宅产权为70年",
+    "building_type": "塔楼",
+    "wy_price": "3 元/平米/月",
+    "wy": "郑州绿都地产集团股份有限公司",
+    "tcw": null,
+    "company": null
+  }
+]

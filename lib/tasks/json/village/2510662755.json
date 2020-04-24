@@ -1,0 +1,22 @@
+[
+  {
+    "name": "苹果工社",
+    "position": 1,
+    "id": "2510662755",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "10231",
+    "age": "2006",
+    "type": "住宅",
+    "count": "72户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "2.33",
+    "desc": "70年",
+    "building_type": "板塔结合",
+    "wy_price": "1.05 元/平米/月",
+    "wy": "地上车位、地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

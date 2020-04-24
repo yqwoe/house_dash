@@ -1,0 +1,22 @@
+[
+  {
+    "name": "京广南路11号院",
+    "position": 1,
+    "id": "2510147341",
+    "district": "二七",
+    "comarea": "鞋城",
+    "avePrice": "13725",
+    "age": "1996",
+    "type": "住宅",
+    "count": "54户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "二七鞋城",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

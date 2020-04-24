@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2510438955",
+    "area": "75",
+    "feature": "满五",
+    "title": "龙亭小区多层一楼舒适三房，均价低，出入方便。",
+    "xiaoqu_": "龙亭小区",
+    "room": "3室1厅",
+    "total_price": "85",
+    "price": "11333元/㎡ ",
+    "louceng": "低层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "北",
+    "zhuangxiu": "简装修",
+    "age": "有",
+    "quyu": "1998",
+    "": "二七-古玩城",
+    "shoufu": "约45.2万，月供2347元",
+    "xiaoqu": "龙亭小区",
+    "position": 1
+  },
+  {
+    "id": "2510438955",
+    "area": "76",
+    "feature": "满五",
+    "title": "大学路政通路 龙亭小区 76平三居 采光好 中间楼层 采光好",
+    "xiaoqu_": "龙亭小区",
+    "room": "3室1厅",
+    "total_price": "85",
+    "price": "11184元/㎡ ",
+    "louceng": "高层/7层",
+    "louxing": "南北",
+    "chaoxiang": "简装修",
+    "zhuangxiu": "1999",
+    "age": "二七-古玩城",
+    "shoufu": "约45.2万，月供2347元",
+    "xiaoqu": "龙亭小区",
+    "position": 2
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "省委五区家属院",
+    "position": 1,
+    "id": "2510699569",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "22099",
+    "age": "1998",
+    "type": "住宅",
+    "count": "256户",
+    "building_count": "7栋",
+    "lh": "35%",
+    "rj": "1.80",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "颐东阳光花园",
+    "position": 1,
+    "id": "2510493985",
+    "district": "郑东新区",
+    "comarea": "黄河南路",
+    "avePrice": "19303",
+    "age": "2007",
+    "type": "住宅",
+    "count": "126户",
+    "building_count": "1栋",
+    "lh": "34%",
+    "rj": "3.18",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "1.15 元/平米/月",
+    "wy": "地下85个",
+    "tcw": "郑州市城市建设开发总公司",
+    "company": null
+  }
+]

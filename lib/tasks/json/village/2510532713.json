@@ -1,0 +1,22 @@
+[
+  {
+    "name": "卫生厅家属院",
+    "position": 1,
+    "id": "2510532713",
+    "district": "金水",
+    "comarea": "省人民医院",
+    "avePrice": "17361",
+    "age": "1995",
+    "type": "住宅",
+    "count": "379户",
+    "building_count": "13栋",
+    "lh": "25%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "陇海路宇通花园",
+    "position": 1,
+    "id": "2510667443",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "17002",
+    "age": "1998",
+    "type": "住宅",
+    "count": "240户",
+    "building_count": "6栋",
+    "lh": "30%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

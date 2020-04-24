@@ -1,0 +1,22 @@
+[
+  {
+    "name": "弓背街小区",
+    "position": 1,
+    "id": "2510468383",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11940",
+    "age": "1998",
+    "type": "住宅",
+    "count": "24户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

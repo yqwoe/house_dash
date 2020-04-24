@@ -1,0 +1,22 @@
+[
+  {
+    "name": "数码银座",
+    "position": 1,
+    "id": "2510472787",
+    "district": "金水",
+    "comarea": "科技市场",
+    "avePrice": "18968",
+    "age": "2006",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "2栋",
+    "lh": "28%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "1.05 元/平米/月",
+    "wy": "地上停车位和地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

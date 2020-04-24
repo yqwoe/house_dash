@@ -1,0 +1,22 @@
+[
+  {
+    "name": "紫辰路滨河花园",
+    "position": 1,
+    "id": "2510467411",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "13742",
+    "age": "2009",
+    "type": "住宅",
+    "count": "1152户",
+    "building_count": "26栋",
+    "lh": "50%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "郑州公建物业公司",
+    "tcw": "小区共有750个地下车位",
+    "company": null
+  }
+]

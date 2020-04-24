@@ -1,0 +1,22 @@
+[
+  {
+    "name": "货站街东明路小区",
+    "position": 1,
+    "id": "2510468741",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "14042",
+    "age": "1988",
+    "type": "住宅",
+    "count": "42户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "铁路新村",
+    "position": 1,
+    "id": "2510473069",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "11050",
+    "age": "1998",
+    "type": "住宅",
+    "count": "1040户",
+    "building_count": "17栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "本小区有250个停车位",
+    "company": "郑州铁路局置业公司"
+  }
+]

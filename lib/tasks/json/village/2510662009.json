@@ -1,0 +1,22 @@
+[
+  {
+    "name": "顺河路14号院",
+    "position": 1,
+    "id": "2510662009",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "13905",
+    "age": "1995",
+    "type": "住宅",
+    "count": "15%",
+    "building_count": "2.50",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

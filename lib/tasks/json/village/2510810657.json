@@ -1,0 +1,22 @@
+[
+  {
+    "name": "安和小区",
+    "position": 1,
+    "id": "2510810657",
+    "district": "郑东新区",
+    "comarea": "郑州东站",
+    "avePrice": "19802",
+    "age": "2014",
+    "type": "住宅",
+    "count": "124户",
+    "building_count": "2栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "郑东新区郑州东站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

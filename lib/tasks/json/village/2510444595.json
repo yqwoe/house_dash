@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金河小区",
+    "position": 1,
+    "id": "2510444595",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "10000",
+    "age": "2000",
+    "type": "住宅",
+    "count": "450户",
+    "building_count": "10栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "天成物业公司",
+    "tcw": "100个",
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "未来小区",
+    "position": 1,
+    "id": "2510489903",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "12268",
+    "age": "2008",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "2.50",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.6 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

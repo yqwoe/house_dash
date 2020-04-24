@@ -1,0 +1,22 @@
+[
+  {
+    "name": "联盟新城二期",
+    "position": 1,
+    "id": "2510660871",
+    "district": "郑东新区",
+    "comarea": "CBD",
+    "avePrice": "35033",
+    "age": "2007",
+    "type": "住宅",
+    "count": "200户",
+    "building_count": "20栋",
+    "lh": "50%",
+    "rj": "0.70",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.5 元/平米/月",
+    "wy": "建业物业管理有限公司",
+    "tcw": "235个停车位",
+    "company": "建业集团"
+  }
+]

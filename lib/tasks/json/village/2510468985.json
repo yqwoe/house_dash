@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金银村小区",
+    "position": 1,
+    "id": "2510468985",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11315",
+    "age": "1998",
+    "type": "住宅",
+    "count": "168户",
+    "building_count": "3栋",
+    "lh": "20%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

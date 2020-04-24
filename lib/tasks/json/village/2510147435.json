@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中信广场",
+    "position": 1,
+    "id": "2510147435",
+    "district": "中原",
+    "comarea": "中原",
+    "avePrice": "11758",
+    "age": "2018",
+    "type": "住宅",
+    "count": "25%",
+    "building_count": "6.49",
+    "lh": null,
+    "rj": null,
+    "desc": "中信广场普通住宅产权为70年,商住公寓产权为70年,标准写字楼产权为50年",
+    "building_type": "塔楼",
+    "wy_price": "中原中原",
+    "wy": "郑州宏略房地产开发有限公司",
+    "tcw": null,
+    "company": null
+  }
+]

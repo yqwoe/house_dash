@@ -1,0 +1,22 @@
+[
+  {
+    "name": "西昌小区",
+    "position": 1,
+    "id": "2510470585",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "9895",
+    "age": "1997",
+    "type": "住宅",
+    "count": "1224户",
+    "building_count": "10栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

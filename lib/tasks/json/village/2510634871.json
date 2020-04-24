@@ -1,0 +1,22 @@
+[
+  {
+    "name": "郑州核五院家属院北院",
+    "position": 1,
+    "id": "2510634871",
+    "district": "二七",
+    "comarea": "河医立交桥",
+    "avePrice": "15515",
+    "age": "1996",
+    "type": "住宅",
+    "count": "346户",
+    "building_count": "8栋",
+    "lh": "30%",
+    "rj": "1.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

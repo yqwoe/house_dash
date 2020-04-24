@@ -1,0 +1,22 @@
+[
+  {
+    "name": "紫藤苑",
+    "position": 1,
+    "id": "2510444623",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "15522",
+    "age": "2003",
+    "type": "住宅",
+    "count": "264户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "190个",
+    "tcw": null,
+    "company": null
+  }
+]

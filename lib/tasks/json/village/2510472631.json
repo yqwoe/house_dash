@@ -1,0 +1,22 @@
+[
+  {
+    "name": "渔场家属院",
+    "position": 1,
+    "id": "2510472631",
+    "district": "金水",
+    "comarea": "省中医院",
+    "avePrice": "14881",
+    "age": "1997",
+    "type": "住宅",
+    "count": "70户",
+    "building_count": "1栋",
+    "lh": "23%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "北站路7号院",
+    "position": 1,
+    "id": "2510812345",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "11440",
+    "age": "1994",
+    "type": "住宅",
+    "count": "180户",
+    "building_count": "6栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "金水沙口路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "经开公寓",
+    "position": 1,
+    "id": "2510735543",
+    "district": "经开",
+    "comarea": "第八大街",
+    "avePrice": "15319",
+    "age": "2015",
+    "type": "住宅",
+    "count": "0.00",
+    "building_count": null,
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "经开第八大街",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

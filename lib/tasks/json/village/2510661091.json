@@ -1,0 +1,22 @@
+[
+  {
+    "name": "交通厅家属院",
+    "position": 1,
+    "id": "2510661091",
+    "district": "经开",
+    "comarea": "第三大街",
+    "avePrice": "13190",
+    "age": "2005",
+    "type": "住宅",
+    "count": "156户",
+    "building_count": "14栋",
+    "lh": "30%",
+    "rj": "2.27",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "本小区有200个停车位",
+    "company": "东方今典"
+  }
+]

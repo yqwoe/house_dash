@@ -1,0 +1,22 @@
+[
+  {
+    "name": "粮运社区",
+    "position": 1,
+    "id": "2510465387",
+    "district": "惠济",
+    "comarea": "刘寨",
+    "avePrice": "13371",
+    "age": "1998",
+    "type": "住宅",
+    "count": "180户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "1.80",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "路通公寓",
+    "position": 1,
+    "id": "2510713213",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "14964",
+    "age": "2003",
+    "type": "住宅",
+    "count": "78户",
+    "building_count": "1栋",
+    "lh": "32%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

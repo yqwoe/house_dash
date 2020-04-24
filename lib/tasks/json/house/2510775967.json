@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2510775967",
+    "area": "95.8",
+    "feature": "满二",
+    "title": "经开区宏光合园，双气两房，环绕，",
+    "xiaoqu_": "宏光合园",
+    "room": "2室2厅",
+    "total_price": "105",
+    "price": "10960元/㎡ ",
+    "louceng": "中层/32层",
+    "louxing": "板楼",
+    "chaoxiang": "南",
+    "zhuangxiu": "精装修",
+    "age": "有",
+    "quyu": "2014",
+    "": "经开-第八大街",
+    "shoufu": "约45.9万，月供3443元",
+    "xiaoqu": "宏光合园",
+    "position": 1
+  },
+  {
+    "id": "2510775967",
+    "area": "120",
+    "feature": "满五",
+    "title": "宏光合园精装70年产权契税满两年，看房随时。采光好",
+    "xiaoqu_": "宏光合园",
+    "room": "3室1厅",
+    "total_price": "120",
+    "price": "10000元/㎡ ",
+    "louceng": "低层/16层",
+    "louxing": "板楼",
+    "chaoxiang": "南",
+    "zhuangxiu": "简装修",
+    "age": "有",
+    "quyu": "2012",
+    "": "经开-第八大街",
+    "shoufu": "约52.8万，月供3912元",
+    "xiaoqu": "宏光合园",
+    "position": 2
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "耿河小区",
+    "position": 1,
+    "id": "2510438949",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "9699",
+    "age": "1993",
+    "type": "住宅",
+    "count": "734户",
+    "building_count": "18栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

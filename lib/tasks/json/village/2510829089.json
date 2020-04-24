@@ -1,0 +1,22 @@
+[
+  {
+    "name": "伏牛路26号院",
+    "position": 1,
+    "id": "2510829089",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "15801",
+    "age": "1998",
+    "type": "住宅",
+    "count": "24户",
+    "building_count": "1栋",
+    "lh": "26%",
+    "rj": "1.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

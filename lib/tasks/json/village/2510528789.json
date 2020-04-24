@@ -1,0 +1,22 @@
+[
+  {
+    "name": "永安街35号院",
+    "position": 1,
+    "id": "2510528789",
+    "district": "二七",
+    "comarea": "古玩城",
+    "avePrice": "15275",
+    "age": "1996",
+    "type": "住宅",
+    "count": "1648户",
+    "building_count": "25栋",
+    "lh": "30%",
+    "rj": "1.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "多个地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

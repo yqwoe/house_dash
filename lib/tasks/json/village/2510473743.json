@@ -1,0 +1,22 @@
+[
+  {
+    "name": "三仓小区",
+    "position": 1,
+    "id": "2510473743",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "11758",
+    "age": "2007",
+    "type": "住宅",
+    "count": "312户",
+    "building_count": "7栋",
+    "lh": "23%",
+    "rj": "1.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

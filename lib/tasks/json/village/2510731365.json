@@ -1,0 +1,22 @@
+[
+  {
+    "name": "亚太新宇",
+    "position": 1,
+    "id": "2510731365",
+    "district": "经开",
+    "comarea": "第三大街",
+    "avePrice": "15402",
+    "age": "2000",
+    "type": "住宅",
+    "count": "360户",
+    "building_count": "3栋",
+    "lh": "25%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "经开第三大街",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

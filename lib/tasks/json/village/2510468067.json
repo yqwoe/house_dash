@@ -1,0 +1,22 @@
+[
+  {
+    "name": "市场街76号院",
+    "position": 1,
+    "id": "2510468067",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "11100",
+    "age": "1995",
+    "type": "住宅",
+    "count": "60户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "1.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "管城地税局家属院",
+    "position": 1,
+    "id": "2510467745",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "13996",
+    "age": "1998",
+    "type": "住宅",
+    "count": "70户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.2 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

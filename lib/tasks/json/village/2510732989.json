@@ -1,0 +1,22 @@
+[
+  {
+    "name": "科技厅家属院",
+    "position": 1,
+    "id": "2510732989",
+    "district": "金水",
+    "comarea": "省人民医院",
+    "avePrice": "11944",
+    "age": "2002",
+    "type": "住宅",
+    "count": "70户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "金水省人民医院",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

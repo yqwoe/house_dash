@@ -1,0 +1,22 @@
+[
+  {
+    "name": "四木家属院",
+    "position": 1,
+    "id": "2510473151",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "12525",
+    "age": "1995",
+    "type": "住宅",
+    "count": "70户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

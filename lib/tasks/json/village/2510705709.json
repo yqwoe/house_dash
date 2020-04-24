@@ -1,0 +1,22 @@
+[
+  {
+    "name": "龙湖新城",
+    "position": 1,
+    "id": "2510705709",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "23523",
+    "age": "2010",
+    "type": "别墅",
+    "count": "42户",
+    "building_count": "3栋",
+    "lh": "55%",
+    "rj": "1.90",
+    "desc": "联排",
+    "building_type": "1.2 元/平米/月",
+    "wy_price": "新郑新郑",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

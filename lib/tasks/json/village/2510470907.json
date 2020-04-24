@@ -1,0 +1,22 @@
+[
+  {
+    "name": "教工小区",
+    "position": 1,
+    "id": "2510470907",
+    "district": "惠济",
+    "comarea": "省体育中心",
+    "avePrice": "14341",
+    "age": "1998",
+    "type": "住宅",
+    "count": "238户",
+    "building_count": "5栋",
+    "lh": "40%",
+    "rj": "1.80",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

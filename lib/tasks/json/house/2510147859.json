@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2510147859",
+    "area": "97",
+    "feature": "",
+    "title": "正弘青云筑 高新区地铁口改善楼盘 可公积金 单价14XXX",
+    "xiaoqu_": "保利文化广场",
+    "room": "3室2厅",
+    "total_price": "140",
+    "price": "14433元/㎡ ",
+    "louceng": "中层/31层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "毛坯",
+    "age": "有",
+    "quyu": "2019",
+    "": "高新-高新",
+    "shoufu": "约61.2万，月供4590元",
+    "xiaoqu": "保利文化广场",
+    "position": 1
+  },
+  {
+    "id": "2510147859",
+    "area": "52",
+    "feature": "满五",
+    "title": "精装公寓 准现房 双地铁 科学大道",
+    "xiaoqu_": "保利文化广场",
+    "room": "2室1厅",
+    "total_price": "64",
+    "price": "12308元/㎡ ",
+    "louceng": "中层/22层",
+    "louxing": "钢混",
+    "chaoxiang": "南",
+    "zhuangxiu": "精装修",
+    "age": "有",
+    "quyu": "有",
+    "": "高新-高新",
+    "shoufu": "保利文化广场",
+    "xiaoqu": null,
+    "position": 2
+  }
+]

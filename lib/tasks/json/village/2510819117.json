@@ -1,0 +1,22 @@
+[
+  {
+    "name": "德济路9号院",
+    "position": 1,
+    "id": "2510819117",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11863",
+    "age": "1999",
+    "type": "住宅",
+    "count": "232户",
+    "building_count": "3栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "管城南关街",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

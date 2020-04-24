@@ -1,0 +1,22 @@
+[
+  {
+    "name": "园田小区",
+    "position": 1,
+    "id": "2510434343",
+    "district": "金水",
+    "comarea": "科技市场",
+    "avePrice": "11775",
+    "age": "1997",
+    "type": "住宅",
+    "count": "385户",
+    "building_count": "11栋",
+    "lh": "35%",
+    "rj": "3.42",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "1.08 元/平米/月",
+    "wy": "地上地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

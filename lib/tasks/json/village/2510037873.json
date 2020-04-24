@@ -1,0 +1,22 @@
+[
+  {
+    "name": "和风细宇",
+    "position": 1,
+    "id": "2510037873",
+    "district": "金水",
+    "comarea": "富田大厦",
+    "avePrice": "12669",
+    "age": "2007",
+    "type": "住宅",
+    "count": "306户",
+    "building_count": "7栋",
+    "lh": "30%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "1.05 元/平米/月",
+    "wy": "地上停车位和地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

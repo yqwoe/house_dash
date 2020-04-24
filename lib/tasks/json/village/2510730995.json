@@ -1,0 +1,22 @@
+[
+  {
+    "name": "高新区化工家属院",
+    "position": 1,
+    "id": "2510730995",
+    "district": "高新",
+    "comarea": "石佛",
+    "avePrice": "11338",
+    "age": "1998",
+    "type": "住宅",
+    "count": "592户",
+    "building_count": "16栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.87 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

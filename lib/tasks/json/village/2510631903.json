@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金沙小区",
+    "position": 1,
+    "id": "2510631903",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "10985",
+    "age": "1995",
+    "type": "住宅",
+    "count": "336户",
+    "building_count": "7栋",
+    "lh": "30%",
+    "rj": "1.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.6 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

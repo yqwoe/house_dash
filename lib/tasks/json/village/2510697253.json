@@ -1,0 +1,22 @@
+[
+  {
+    "name": "郑大东生活区",
+    "position": 1,
+    "id": "2510697253",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "16168",
+    "age": "1998",
+    "type": "住宅",
+    "count": "846户",
+    "building_count": "15栋",
+    "lh": "35%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

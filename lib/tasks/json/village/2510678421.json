@@ -1,0 +1,22 @@
+[
+  {
+    "name": "注协大厦住宅楼",
+    "position": 1,
+    "id": "2510678421",
+    "district": "金水",
+    "comarea": "北站",
+    "avePrice": "14992",
+    "age": "2005",
+    "type": "住宅",
+    "count": "160户",
+    "building_count": "2栋",
+    "lh": "35%",
+    "rj": "25.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "1.12 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": "郑州豫东置业有限公司",
+    "company": null
+  }
+]

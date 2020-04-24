@@ -1,0 +1,22 @@
+[
+  {
+    "name": "陇东小区",
+    "position": 1,
+    "id": "2510444627",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "13798",
+    "age": "1998",
+    "type": "住宅",
+    "count": "1993户",
+    "building_count": "44栋",
+    "lh": "20%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "280个",
+    "tcw": null,
+    "company": null
+  }
+]

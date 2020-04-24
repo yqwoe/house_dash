@@ -1,0 +1,22 @@
+[
+  {
+    "name": "国合家属院",
+    "position": 1,
+    "id": "2510468575",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "12261",
+    "age": "1989",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "3栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "紫荆苑",
+    "position": 1,
+    "id": "2510483663",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "12163",
+    "age": "2013",
+    "type": "住宅",
+    "count": "1980户",
+    "building_count": "13栋",
+    "lh": "36%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "本小区有1000个停车位",
+    "tcw": "郑州鸿基置业有限公司",
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "应天公寓",
+    "position": 1,
+    "id": "2510474759",
+    "district": "金水",
+    "comarea": "陈寨",
+    "avePrice": "12472",
+    "age": "2006",
+    "type": "住宅",
+    "count": "191户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.60",
+    "desc": "大产权",
+    "building_type": "板楼",
+    "wy_price": "0.36 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

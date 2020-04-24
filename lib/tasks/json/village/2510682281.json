@@ -1,0 +1,22 @@
+[
+  {
+    "name": "星光汇",
+    "position": 1,
+    "id": "2510682281",
+    "district": "中原",
+    "comarea": "中原",
+    "avePrice": "18400",
+    "age": "2017",
+    "type": "住宅",
+    "count": "140户",
+    "building_count": "1栋",
+    "lh": "30%",
+    "rj": "6.60",
+    "desc": "星光汇商住公寓产权为40年,普通住宅产权为70年",
+    "building_type": "塔楼",
+    "wy_price": "1.8 元/平米/月",
+    "wy": "地下停车位共1600个",
+    "tcw": "河南中林置业有限公司",
+    "company": null
+  }
+]

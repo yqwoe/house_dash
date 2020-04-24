@@ -1,0 +1,22 @@
+[
+  {
+    "name": "青藤苑",
+    "position": 1,
+    "id": "2510741943",
+    "district": "金水",
+    "comarea": "科技市场",
+    "avePrice": "12169",
+    "age": "2014",
+    "type": "住宅",
+    "count": "54户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "4.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "大同路3号院",
+    "position": 1,
+    "id": "2510731241",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "11698",
+    "age": "1996",
+    "type": "住宅",
+    "count": "112户",
+    "building_count": "3栋",
+    "lh": "21%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "二七火车站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

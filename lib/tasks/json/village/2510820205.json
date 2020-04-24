@@ -1,0 +1,22 @@
+[
+  {
+    "name": "经八路21号院",
+    "position": 1,
+    "id": "2510820205",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "10027",
+    "age": "1998",
+    "type": "住宅",
+    "count": "50户",
+    "building_count": "2栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "金水经五路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "农资公司家属院",
+    "position": 1,
+    "id": "2510476387",
+    "district": "金水",
+    "comarea": "财富广场",
+    "avePrice": "13727",
+    "age": "1999",
+    "type": "住宅",
+    "count": "84户",
+    "building_count": "2栋",
+    "lh": "23%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

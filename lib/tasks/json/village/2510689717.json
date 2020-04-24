@@ -1,0 +1,22 @@
+[
+  {
+    "name": "欧洲花园",
+    "position": 1,
+    "id": "2510689717",
+    "district": "金水",
+    "comarea": "科技市场",
+    "avePrice": "23055",
+    "age": "2001",
+    "type": "住宅",
+    "count": "182户",
+    "building_count": "5栋",
+    "lh": "31%",
+    "rj": "2.90",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

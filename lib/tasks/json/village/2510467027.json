@@ -1,0 +1,22 @@
+[
+  {
+    "name": "21世纪大厦",
+    "position": 1,
+    "id": "2510467027",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "10666",
+    "age": "2004",
+    "type": "住宅",
+    "count": "901户",
+    "building_count": "1栋",
+    "lh": "23%",
+    "rj": "2.40",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "1.3 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

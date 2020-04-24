@@ -1,0 +1,22 @@
+[
+  {
+    "name": "市中心医院家属院",
+    "position": 1,
+    "id": "2510666157",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13744",
+    "age": "1995",
+    "type": "住宅",
+    "count": "180户",
+    "building_count": "4栋",
+    "lh": "15%",
+    "rj": "1.90",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "地上停车位",
+    "company": "市政建设"
+  }
+]

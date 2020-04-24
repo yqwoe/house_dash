@@ -1,0 +1,22 @@
+[
+  {
+    "name": "南建中街小区",
+    "position": 1,
+    "id": "2510741129",
+    "district": "二七",
+    "comarea": "古玩城",
+    "avePrice": "12285",
+    "age": "1996",
+    "type": "住宅",
+    "count": "406户",
+    "building_count": "10栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "二七古玩城",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

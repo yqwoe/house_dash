@@ -1,0 +1,22 @@
+[
+  {
+    "name": "经三路军安小区",
+    "position": 1,
+    "id": "2510686635",
+    "district": "金水",
+    "comarea": "枣庄",
+    "avePrice": "14600",
+    "age": "1996",
+    "type": "住宅",
+    "count": "48户",
+    "building_count": "2栋",
+    "lh": "21%",
+    "rj": "2.11",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.8 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

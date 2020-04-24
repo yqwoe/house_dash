@@ -1,0 +1,22 @@
+[
+  {
+    "name": "石桥西里8号",
+    "position": 1,
+    "id": "2510815963",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "11897",
+    "age": "1998",
+    "type": "住宅",
+    "count": "49户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

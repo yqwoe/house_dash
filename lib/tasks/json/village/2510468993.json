@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金誉花园",
+    "position": 1,
+    "id": "2510468993",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "10278",
+    "age": "2001",
+    "type": "住宅",
+    "count": "210户",
+    "building_count": "4栋",
+    "lh": "20%",
+    "rj": "1.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "金誉物业公司",
+    "tcw": "本小区有50个停车位",
+    "company": null
+  }
+]

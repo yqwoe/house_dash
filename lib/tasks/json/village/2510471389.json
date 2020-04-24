@@ -1,0 +1,22 @@
+[
+  {
+    "name": "富华新苑",
+    "position": 1,
+    "id": "2510471389",
+    "district": "二七",
+    "comarea": "老航院",
+    "avePrice": "11269",
+    "age": "2001",
+    "type": "住宅",
+    "count": "208户",
+    "building_count": "7栋",
+    "lh": "35%",
+    "rj": "1.70",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

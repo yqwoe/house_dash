@@ -1,0 +1,22 @@
+[
+  {
+    "name": "都市芳邻",
+    "position": 1,
+    "id": "2510096020",
+    "district": "二七",
+    "comarea": "兴华南街",
+    "avePrice": "12836",
+    "age": "2005",
+    "type": "住宅",
+    "count": "375户",
+    "building_count": "8栋",
+    "lh": "37%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

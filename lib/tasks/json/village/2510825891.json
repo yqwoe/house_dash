@@ -1,0 +1,22 @@
+[
+  {
+    "name": "桐柏路189号院",
+    "position": 1,
+    "id": "2510825891",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "11703",
+    "age": "1998",
+    "type": "住宅",
+    "count": "40户",
+    "building_count": "2栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

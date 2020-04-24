@@ -1,0 +1,22 @@
+[
+  {
+    "name": "第九人民医院家属院",
+    "position": 1,
+    "id": "2510473321",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "14406",
+    "age": "1987",
+    "type": "住宅",
+    "count": "561户",
+    "building_count": "12栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "嘉佰丽园",
+    "position": 1,
+    "id": "2510010683",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "14730",
+    "age": "2003",
+    "type": "住宅",
+    "count": "276户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上停车位和地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

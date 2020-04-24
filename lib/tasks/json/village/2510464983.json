@@ -1,0 +1,22 @@
+[
+  {
+    "name": "环保局家属院",
+    "position": 1,
+    "id": "2510464983",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "12865",
+    "age": "1998",
+    "type": "住宅",
+    "count": "117户",
+    "building_count": "3栋",
+    "lh": "25%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

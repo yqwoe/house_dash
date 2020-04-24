@@ -1,0 +1,22 @@
+[
+  {
+    "name": "计生委家属院",
+    "position": 1,
+    "id": "2510465991",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "15392",
+    "age": "1988",
+    "type": "住宅",
+    "count": "25户",
+    "building_count": "1栋",
+    "lh": "20%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原电力新村",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "绿东村小区",
+    "position": 1,
+    "id": "2510467235",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "11169",
+    "age": "1992",
+    "type": "住宅",
+    "count": "804户",
+    "building_count": "19栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原郑州一中",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

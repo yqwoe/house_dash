@@ -1,0 +1,22 @@
+[
+  {
+    "name": "货栈北街23号院",
+    "position": 1,
+    "id": "2510732525",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "15633",
+    "age": "1997",
+    "type": "住宅",
+    "count": "145户",
+    "building_count": "4栋",
+    "lh": "20%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "管城凤凰路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

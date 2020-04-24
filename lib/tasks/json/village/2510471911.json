@@ -1,0 +1,22 @@
+[
+  {
+    "name": "台胞小区",
+    "position": 1,
+    "id": "2510471911",
+    "district": "二七",
+    "comarea": "老航院",
+    "avePrice": "10948",
+    "age": "1997",
+    "type": "住宅",
+    "count": "684户",
+    "building_count": "27栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "鑫苑物业服务有限公司",
+    "tcw": "本小区有200个停车位",
+    "company": "正商地产"
+  }
+]

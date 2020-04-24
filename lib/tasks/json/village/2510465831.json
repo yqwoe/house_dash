@@ -1,0 +1,42 @@
+[
+  {
+    "name": "郑上路小学家属院",
+    "position": 1,
+    "id": "2510465831",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13505",
+    "age": "1998",
+    "type": "住宅",
+    "count": "36户",
+    "building_count": "2栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "郑上路小学家属院",
+    "position": 2,
+    "id": "2510465831",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13505",
+    "age": "1998",
+    "type": "住宅",
+    "count": "36户",
+    "building_count": "2栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

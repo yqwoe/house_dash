@@ -1,0 +1,22 @@
+[
+  {
+    "name": "郑煤小区",
+    "position": 1,
+    "id": "2510739065",
+    "district": "新密",
+    "comarea": "新密",
+    "avePrice": "7719",
+    "age": "2001",
+    "type": "住宅",
+    "count": "62户",
+    "building_count": "4栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "新密新密",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

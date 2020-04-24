@@ -1,0 +1,22 @@
+[
+  {
+    "name": "客运三公司家属院",
+    "position": 1,
+    "id": "2510799895",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "12423",
+    "age": "2001",
+    "type": "住宅",
+    "count": "475户",
+    "building_count": "12栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

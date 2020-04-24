@@ -1,0 +1,22 @@
+[
+  {
+    "name": "伏牛路102号院",
+    "position": 1,
+    "id": "2510464663",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "11783",
+    "age": "1992",
+    "type": "住宅",
+    "count": "497户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

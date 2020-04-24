@@ -1,0 +1,22 @@
+[
+  {
+    "name": "郑州中学家属院",
+    "position": 1,
+    "id": "2510470149",
+    "district": "高新",
+    "comarea": "石佛",
+    "avePrice": "12321",
+    "age": "2004",
+    "type": "住宅",
+    "count": "112户",
+    "building_count": "2栋",
+    "lh": "20%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "高新石佛",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

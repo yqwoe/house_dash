@@ -1,0 +1,22 @@
+[
+  {
+    "name": "东三马路18号院",
+    "position": 1,
+    "id": "2510468017",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "11060",
+    "age": "2005",
+    "type": "住宅",
+    "count": "25%",
+    "building_count": "2.30",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "无",
+    "tcw": "23个",
+    "company": null
+  }
+]

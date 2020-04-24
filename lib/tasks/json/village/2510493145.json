@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原制药厂家属院",
+    "position": 1,
+    "id": "2510493145",
+    "district": "高新",
+    "comarea": "石佛",
+    "avePrice": "10000",
+    "age": "1996",
+    "type": "住宅",
+    "count": "1229户",
+    "building_count": "27栋",
+    "lh": "20%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

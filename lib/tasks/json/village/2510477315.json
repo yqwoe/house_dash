@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金水区政府家属院",
+    "position": 1,
+    "id": "2510477315",
+    "district": "金水",
+    "comarea": "文博广场",
+    "avePrice": "16223",
+    "age": "1998",
+    "type": "住宅",
+    "count": "54户",
+    "building_count": "4栋",
+    "lh": "25%",
+    "rj": "2.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上停车位",
+    "company": "市政建设"
+  }
+]

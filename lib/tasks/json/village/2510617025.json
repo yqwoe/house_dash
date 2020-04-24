@@ -1,0 +1,22 @@
+[
+  {
+    "name": "热力公司家属院",
+    "position": 1,
+    "id": "2510617025",
+    "district": "金水",
+    "comarea": "枣庄",
+    "avePrice": "14935",
+    "age": "1997",
+    "type": "住宅",
+    "count": "168户",
+    "building_count": "3栋",
+    "lh": "30%",
+    "rj": "1.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

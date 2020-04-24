@@ -1,0 +1,22 @@
+[
+  {
+    "name": "前进路57号院",
+    "position": 1,
+    "id": "2510465997",
+    "district": "中原",
+    "comarea": "五一公园",
+    "avePrice": "14361",
+    "age": "1997",
+    "type": "住宅",
+    "count": "25%",
+    "building_count": "1.20",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原五一公园",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中牟县清华园",
+    "position": 1,
+    "id": "2510714737",
+    "district": "中牟",
+    "comarea": "中牟",
+    "avePrice": "10982",
+    "age": "2007",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "2.10",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

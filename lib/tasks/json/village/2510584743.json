@@ -1,0 +1,22 @@
+[
+  {
+    "name": "西里小区",
+    "position": 1,
+    "id": "2510584743",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "11398",
+    "age": "1998",
+    "type": "住宅",
+    "count": "491户",
+    "building_count": "13栋",
+    "lh": "30%",
+    "rj": "1.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

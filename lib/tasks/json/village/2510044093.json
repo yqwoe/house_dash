@@ -1,0 +1,22 @@
+[
+  {
+    "name": "东城花园",
+    "position": 1,
+    "id": "2510044093",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "13805",
+    "age": "住宅",
+    "type": "126户",
+    "count": "1栋",
+    "building_count": "20%",
+    "lh": "8.80",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "1.05 元/平米/月",
+    "wy": "地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

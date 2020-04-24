@@ -1,0 +1,22 @@
+[
+  {
+    "name": "康华苑小区",
+    "position": 1,
+    "id": "2510468725",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "15169",
+    "age": "1998",
+    "type": "住宅",
+    "count": "63户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

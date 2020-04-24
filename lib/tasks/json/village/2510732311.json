@@ -1,0 +1,22 @@
+[
+  {
+    "name": "森林里",
+    "position": 1,
+    "id": "2510732311",
+    "district": "中牟",
+    "comarea": "中牟",
+    "avePrice": "10051",
+    "age": "2014",
+    "type": "住宅",
+    "count": "132户",
+    "building_count": "11栋",
+    "lh": "37%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.2 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "335个停车位",
+    "company": "郑州牟园置业有限公司"
+  }
+]

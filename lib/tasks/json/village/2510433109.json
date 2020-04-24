@@ -1,0 +1,22 @@
+[
+  {
+    "name": "一钢家属院",
+    "position": 1,
+    "id": "2510433109",
+    "district": "中原",
+    "comarea": "热电厂",
+    "avePrice": "11076",
+    "age": "1994",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

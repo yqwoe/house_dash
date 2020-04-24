@@ -1,0 +1,42 @@
+[
+  {
+    "name": "国鑫小时代",
+    "position": 1,
+    "id": "2510785005",
+    "district": "二七",
+    "comarea": "万客来",
+    "avePrice": "11253",
+    "age": "2016",
+    "type": "住宅",
+    "count": "144户",
+    "building_count": "1栋",
+    "lh": "30.06%",
+    "rj": "2.80",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.8 元/平米/月",
+    "wy": "郑州商易物业管理有限公司",
+    "tcw": "地上地下停车位",
+    "company": "郑州国鑫置业有限公司"
+  },
+  {
+    "name": "国鑫小时代",
+    "position": 2,
+    "id": "2510785005",
+    "district": "二七",
+    "comarea": "万客来",
+    "avePrice": "11253",
+    "age": "2016",
+    "type": "住宅",
+    "count": "144户",
+    "building_count": "1栋",
+    "lh": "30.06%",
+    "rj": "2.80",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.8 元/平米/月",
+    "wy": "郑州商易物业管理有限公司",
+    "tcw": "地上地下停车位",
+    "company": "郑州国鑫置业有限公司"
+  }
+]

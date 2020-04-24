@@ -1,0 +1,22 @@
+[
+  {
+    "name": "地震局家属院",
+    "position": 1,
+    "id": "2510464237",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "14875",
+    "age": "1999",
+    "type": "住宅",
+    "count": "24户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原电力新村",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

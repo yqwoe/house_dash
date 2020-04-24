@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金玉园公寓",
+    "position": 1,
+    "id": "2510430863",
+    "district": "金水",
+    "comarea": "燕庄",
+    "avePrice": "12763",
+    "age": "2005",
+    "type": "住宅",
+    "count": "239户",
+    "building_count": "1栋",
+    "lh": "21%",
+    "rj": "3.20",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.15 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

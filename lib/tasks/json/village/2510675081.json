@@ -1,0 +1,22 @@
+[
+  {
+    "name": "二七土地局家属院",
+    "position": 1,
+    "id": "2510675081",
+    "district": "二七",
+    "comarea": "兴华南街",
+    "avePrice": "15123",
+    "age": "1995",
+    "type": "住宅",
+    "count": "56户",
+    "building_count": "2栋",
+    "lh": "32%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

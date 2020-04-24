@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文隆小区",
+    "position": 1,
+    "id": "2510438969",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "12624",
+    "age": "1997",
+    "type": "住宅",
+    "count": "518户",
+    "building_count": "11栋",
+    "lh": "35%",
+    "rj": "1.37",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "河南省迅捷物业服务有限公司",
+    "tcw": "河南昭元置业有限公司",
+    "company": null
+  }
+]

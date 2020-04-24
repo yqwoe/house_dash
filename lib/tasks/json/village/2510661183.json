@@ -1,0 +1,22 @@
+[
+  {
+    "name": "恒熙花园",
+    "position": 1,
+    "id": "2510661183",
+    "district": "金水",
+    "comarea": "北站",
+    "avePrice": "21434",
+    "age": "2008",
+    "type": "住宅",
+    "count": "36户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "本小区有120个停车位",
+    "tcw": null,
+    "company": null
+  }
+]

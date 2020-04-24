@@ -1,0 +1,42 @@
+[
+  {
+    "name": "中原区教师住宅小区",
+    "position": 1,
+    "id": "2510469833",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "12578",
+    "age": "2000",
+    "type": "住宅",
+    "count": "308户",
+    "building_count": "6栋",
+    "lh": "25%",
+    "rj": "1.70",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "中原区教师住宅小区",
+    "position": 2,
+    "id": "2510469833",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "12578",
+    "age": "2000",
+    "type": "住宅",
+    "count": "308户",
+    "building_count": "6栋",
+    "lh": "25%",
+    "rj": "1.70",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

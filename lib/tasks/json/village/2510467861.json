@@ -1,0 +1,22 @@
+[
+  {
+    "name": "康居东晖",
+    "position": 1,
+    "id": "2510467861",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "13424",
+    "age": "2004",
+    "type": "住宅",
+    "count": "348户",
+    "building_count": "7栋",
+    "lh": "48%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,409 @@
+[
+  {
+    "data": [
+      {
+        "name": "区域",
+        "url": "https://zz.lianjia.com/ershoufang/",
+        "path": "/ershoufang/",
+        "key": "/ershoufang/"
+      },
+      {
+        "name": "地铁线",
+        "url": "https://zz.lianjia.com/ditiefang/",
+        "path": "/ditiefang/",
+        "key": "/ditiefang/"
+      },
+      {
+        "name": "二七",
+        "url": "https://zz.lianjia.com/ershoufang/erqi/",
+        "path": "/ershoufang/erqi/",
+        "key": "/ershoufang/erqi/"
+      },
+      {
+        "name": "郑东新区",
+        "url": "https://zz.lianjia.com/ershoufang/zhengdongxinqu/",
+        "path": "/ershoufang/zhengdongxinqu/",
+        "key": "/ershoufang/zhengdongxinqu/"
+      },
+      {
+        "name": "荥阳市",
+        "url": "https://zz.lianjia.com/ershoufang/xingyangshi/",
+        "path": "/ershoufang/xingyangshi/",
+        "key": "/ershoufang/xingyangshi/"
+      },
+      {
+        "name": "新郑市",
+        "url": "https://zz.lianjia.com/ershoufang/xinzhengshi/",
+        "path": "/ershoufang/xinzhengshi/",
+        "key": "/ershoufang/xinzhengshi/"
+      },
+      {
+        "name": "上街区",
+        "url": "https://zz.lianjia.com/ershoufang/shangjiequ/",
+        "path": "/ershoufang/shangjiequ/",
+        "key": "/ershoufang/shangjiequ/"
+      },
+      {
+        "name": "巩义市",
+        "url": "https://zz.lianjia.com/ershoufang/gongyishi/",
+        "path": "/ershoufang/gongyishi/",
+        "key": "/ershoufang/gongyishi/"
+      },
+      {
+        "name": "新密市",
+        "url": "https://zz.lianjia.com/ershoufang/xinmishi/",
+        "path": "/ershoufang/xinmishi/",
+        "key": "/ershoufang/xinmishi/"
+      },
+      {
+        "name": "登封市",
+        "url": "https://zz.lianjia.com/ershoufang/dengfengshi/",
+        "path": "/ershoufang/dengfengshi/",
+        "key": "/ershoufang/dengfengshi/"
+      },
+      {
+        "name": "中牟县",
+        "url": "https://zz.lianjia.com/ershoufang/zhongmuxian/",
+        "path": "/ershoufang/zhongmuxian/",
+        "key": "/ershoufang/zhongmuxian/"
+      },
+      {
+        "name": "经开区",
+        "url": "https://zz.lianjia.com/ershoufang/jingkaiqu/",
+        "path": "/ershoufang/jingkaiqu/",
+        "key": "/ershoufang/jingkaiqu/"
+      },
+      {
+        "name": "高新",
+        "url": "https://zz.lianjia.com/ershoufang/gaoxin9/",
+        "path": "/ershoufang/gaoxin9/",
+        "key": "/ershoufang/gaoxin9/"
+      },
+      {
+        "name": "航空港区",
+        "url": "https://zz.lianjia.com/ershoufang/hangkonggangqu/",
+        "path": "/ershoufang/hangkonggangqu/",
+        "key": "/ershoufang/hangkonggangqu/"
+      },
+      {
+        "name": "中原",
+        "url": "https://zz.lianjia.com/ershoufang/zhongyuan/",
+        "path": "/ershoufang/zhongyuan/",
+        "key": "/ershoufang/zhongyuan/"
+      },
+      {
+        "name": "管城回族区",
+        "url": "https://zz.lianjia.com/ershoufang/guanchenghuizuqu/",
+        "path": "/ershoufang/guanchenghuizuqu/",
+        "key": "/ershoufang/guanchenghuizuqu/"
+      },
+      {
+        "name": "惠济",
+        "url": "https://zz.lianjia.com/ershoufang/huiji/",
+        "path": "/ershoufang/huiji/",
+        "key": "/ershoufang/huiji/"
+      },
+      {
+        "name": "金水",
+        "url": "https://zz.lianjia.com/ershoufang/jinshui/",
+        "path": "/ershoufang/jinshui/",
+        "key": "/ershoufang/jinshui/"
+      },
+      {
+        "name": "1号线",
+        "url": "https://zz.lianjia.com/ditiefang/li110460711/",
+        "path": "/ditiefang/li110460711/",
+        "key": "/ditiefang/li110460711/"
+      },
+      {
+        "name": "2号线",
+        "url": "https://zz.lianjia.com/ditiefang/li3320024450997451/",
+        "path": "/ditiefang/li3320024450997451/",
+        "key": "/ditiefang/li3320024450997451/"
+      },
+      {
+        "name": "城郊线",
+        "url": "https://zz.lianjia.com/ditiefang/li3320036303547541/",
+        "path": "/ditiefang/li3320036303547541/",
+        "key": "/ditiefang/li3320036303547541/"
+      },
+      {
+        "name": "5号线",
+        "url": "https://zz.lianjia.com/ditiefang/li3320040850402580/",
+        "path": "/ditiefang/li3320040850402580/",
+        "key": "/ditiefang/li3320040850402580/"
+      },
+      {
+        "name": "14号线",
+        "url": "https://zz.lianjia.com/ditiefang/li33000001548624/",
+        "path": "/ditiefang/li33000001548624/",
+        "key": "/ditiefang/li33000001548624/"
+      },
+      {
+        "name": "60万以下",
+        "url": "https://zz.lianjia.com/ershoufang/p1/",
+        "path": "/ershoufang/p1/",
+        "key": "/ershoufang/p1/"
+      },
+      {
+        "name": "60-80万",
+        "url": "https://zz.lianjia.com/ershoufang/p2/",
+        "path": "/ershoufang/p2/",
+        "key": "/ershoufang/p2/"
+      },
+      {
+        "name": "80-100万",
+        "url": "https://zz.lianjia.com/ershoufang/p3/",
+        "path": "/ershoufang/p3/",
+        "key": "/ershoufang/p3/"
+      },
+      {
+        "name": "100-150万",
+        "url": "https://zz.lianjia.com/ershoufang/p4/",
+        "path": "/ershoufang/p4/",
+        "key": "/ershoufang/p4/"
+      },
+      {
+        "name": "150-200万",
+        "url": "https://zz.lianjia.com/ershoufang/p5/",
+        "path": "/ershoufang/p5/",
+        "key": "/ershoufang/p5/"
+      },
+      {
+        "name": "200-300万",
+        "url": "https://zz.lianjia.com/ershoufang/p6/",
+        "path": "/ershoufang/p6/",
+        "key": "/ershoufang/p6/"
+      },
+      {
+        "name": "300-400万",
+        "url": "https://zz.lianjia.com/ershoufang/p7/",
+        "path": "/ershoufang/p7/",
+        "key": "/ershoufang/p7/"
+      },
+      {
+        "name": "400万以上",
+        "url": "https://zz.lianjia.com/ershoufang/p8/",
+        "path": "/ershoufang/p8/",
+        "key": "/ershoufang/p8/"
+      },
+      {
+        "name": "一室",
+        "url": "https://zz.lianjia.com/ershoufang/l1/",
+        "path": "/ershoufang/l1/",
+        "key": "/ershoufang/l1/"
+      },
+      {
+        "name": "二室",
+        "url": "https://zz.lianjia.com/ershoufang/l2/",
+        "path": "/ershoufang/l2/",
+        "key": "/ershoufang/l2/"
+      },
+      {
+        "name": "三室",
+        "url": "https://zz.lianjia.com/ershoufang/l3/",
+        "path": "/ershoufang/l3/",
+        "key": "/ershoufang/l3/"
+      },
+      {
+        "name": "四室",
+        "url": "https://zz.lianjia.com/ershoufang/l4/",
+        "path": "/ershoufang/l4/",
+        "key": "/ershoufang/l4/"
+      },
+      {
+        "name": "五室",
+        "url": "https://zz.lianjia.com/ershoufang/l5/",
+        "path": "/ershoufang/l5/",
+        "key": "/ershoufang/l5/"
+      },
+      {
+        "name": "五室以上",
+        "url": "https://zz.lianjia.com/ershoufang/l6/",
+        "path": "/ershoufang/l6/",
+        "key": "/ershoufang/l6/"
+      },
+      {
+        "name": "50㎡以下",
+        "url": "https://zz.lianjia.com/ershoufang/a1/",
+        "path": "/ershoufang/a1/",
+        "key": "/ershoufang/a1/"
+      },
+      {
+        "name": "50-70㎡",
+        "url": "https://zz.lianjia.com/ershoufang/a2/",
+        "path": "/ershoufang/a2/",
+        "key": "/ershoufang/a2/"
+      },
+      {
+        "name": "70-90㎡",
+        "url": "https://zz.lianjia.com/ershoufang/a3/",
+        "path": "/ershoufang/a3/",
+        "key": "/ershoufang/a3/"
+      },
+      {
+        "name": "90-110㎡",
+        "url": "https://zz.lianjia.com/ershoufang/a4/",
+        "path": "/ershoufang/a4/",
+        "key": "/ershoufang/a4/"
+      },
+      {
+        "name": "110-130㎡",
+        "url": "https://zz.lianjia.com/ershoufang/a5/",
+        "path": "/ershoufang/a5/",
+        "key": "/ershoufang/a5/"
+      },
+      {
+        "name": "130-150㎡",
+        "url": "https://zz.lianjia.com/ershoufang/a6/",
+        "path": "/ershoufang/a6/",
+        "key": "/ershoufang/a6/"
+      },
+      {
+        "name": "150-200㎡",
+        "url": "https://zz.lianjia.com/ershoufang/a7/",
+        "path": "/ershoufang/a7/",
+        "key": "/ershoufang/a7/"
+      },
+      {
+        "name": "200㎡以上",
+        "url": "https://zz.lianjia.com/ershoufang/a8/",
+        "path": "/ershoufang/a8/",
+        "key": "/ershoufang/a8/"
+      },
+      {
+        "name": "必看好房",
+        "url": "https://zz.lianjia.com/ershoufang/tt9/",
+        "path": "/ershoufang/tt9/",
+        "key": "/ershoufang/tt9/"
+      },
+      {
+        "name": "满五年",
+        "url": "https://zz.lianjia.com/ershoufang/mw1/",
+        "path": "/ershoufang/mw1/",
+        "key": "/ershoufang/mw1/"
+      },
+      {
+        "name": "满两年",
+        "url": "https://zz.lianjia.com/ershoufang/ty1/",
+        "path": "/ershoufang/ty1/",
+        "key": "/ershoufang/ty1/"
+      },
+      {
+        "name": "VR房源",
+        "url": "https://zz.lianjia.com/ershoufang/tt8/",
+        "path": "/ershoufang/tt8/",
+        "key": "/ershoufang/tt8/"
+      },
+      {
+        "name": "7日新上",
+        "url": "https://zz.lianjia.com/ershoufang/tt2/",
+        "path": "/ershoufang/tt2/",
+        "key": "/ershoufang/tt2/"
+      },
+      {
+        "name": "随时看房",
+        "url": "https://zz.lianjia.com/ershoufang/tt4/",
+        "path": "/ershoufang/tt4/",
+        "key": "/ershoufang/tt4/"
+      },
+      {
+        "name": "南北",
+        "url": "https://zz.lianjia.com/ershoufang/f5/",
+        "path": "/ershoufang/f5/",
+        "key": "/ershoufang/f5/"
+      },
+      {
+        "name": "朝南",
+        "url": "https://zz.lianjia.com/ershoufang/f2/",
+        "path": "/ershoufang/f2/",
+        "key": "/ershoufang/f2/"
+      },
+      {
+        "name": "朝东",
+        "url": "https://zz.lianjia.com/ershoufang/f1/",
+        "path": "/ershoufang/f1/",
+        "key": "/ershoufang/f1/"
+      },
+      {
+        "name": "朝北",
+        "url": "https://zz.lianjia.com/ershoufang/f4/",
+        "path": "/ershoufang/f4/",
+        "key": "/ershoufang/f4/"
+      },
+      {
+        "name": "朝西",
+        "url": "https://zz.lianjia.com/ershoufang/f3/",
+        "path": "/ershoufang/f3/",
+        "key": "/ershoufang/f3/"
+      },
+      {
+        "name": "低楼层",
+        "url": "https://zz.lianjia.com/ershoufang/lc1/",
+        "path": "/ershoufang/lc1/",
+        "key": "/ershoufang/lc1/"
+      },
+      {
+        "name": "中楼层",
+        "url": "https://zz.lianjia.com/ershoufang/lc2/",
+        "path": "/ershoufang/lc2/",
+        "key": "/ershoufang/lc2/"
+      },
+      {
+        "name": "高楼层",
+        "url": "https://zz.lianjia.com/ershoufang/lc3/",
+        "path": "/ershoufang/lc3/",
+        "key": "/ershoufang/lc3/"
+      },
+      {
+        "name": "普通住宅",
+        "url": "https://zz.lianjia.com/ershoufang/sf1/",
+        "path": "/ershoufang/sf1/",
+        "key": "/ershoufang/sf1/"
+      },
+      {
+        "name": "商业类",
+        "url": "https://zz.lianjia.com/ershoufang/sf2/",
+        "path": "/ershoufang/sf2/",
+        "key": "/ershoufang/sf2/"
+      },
+      {
+        "name": "别墅",
+        "url": "https://zz.lianjia.com/ershoufang/sf3/",
+        "path": "/ershoufang/sf3/",
+        "key": "/ershoufang/sf3/"
+      },
+      {
+        "name": "四合院",
+        "url": "https://zz.lianjia.com/ershoufang/sf4/",
+        "path": "/ershoufang/sf4/",
+        "key": "/ershoufang/sf4/"
+      },
+      {
+        "name": "车位",
+        "url": "https://zz.lianjia.com/ershoufang/sf6/",
+        "path": "/ershoufang/sf6/",
+        "key": "/ershoufang/sf6/"
+      },
+      {
+        "name": "其他",
+        "url": "https://zz.lianjia.com/ershoufang/sf5/",
+        "path": "/ershoufang/sf5/",
+        "key": "/ershoufang/sf5/"
+      },
+      {
+        "name": "集体供暖",
+        "url": "https://zz.lianjia.com/ershoufang/hy1/",
+        "path": "/ershoufang/hy1/",
+        "key": "/ershoufang/hy1/"
+      },
+      {
+        "name": "自供暖",
+        "url": "https://zz.lianjia.com/ershoufang/hy2/",
+        "path": "/ershoufang/hy2/",
+        "key": "/ershoufang/hy2/"
+      }
+    ],
+    "position": 1
+  }
+]

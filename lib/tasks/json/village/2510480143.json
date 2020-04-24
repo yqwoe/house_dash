@@ -1,0 +1,22 @@
+[
+  {
+    "name": "东韩寨小区",
+    "position": 1,
+    "id": "2510480143",
+    "district": "金水",
+    "comarea": "省人民医院",
+    "avePrice": "14277",
+    "age": "1992",
+    "type": "住宅",
+    "count": "1065户",
+    "building_count": "29栋",
+    "lh": "25%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼,塔楼",
+    "wy_price": "0.8 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

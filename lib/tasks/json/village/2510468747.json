@@ -1,0 +1,22 @@
+[
+  {
+    "name": "货站北街货站街小区",
+    "position": 1,
+    "id": "2510468747",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "16968",
+    "age": "1994",
+    "type": "住宅",
+    "count": "15%",
+    "building_count": "2.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

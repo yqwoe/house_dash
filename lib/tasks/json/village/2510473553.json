@@ -1,0 +1,22 @@
+[
+  {
+    "name": "商城东路151号院",
+    "position": 1,
+    "id": "2510473553",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "12248",
+    "age": "1997",
+    "type": "住宅",
+    "count": "98户",
+    "building_count": "1栋",
+    "lh": "23%",
+    "rj": "4.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

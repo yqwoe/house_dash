@@ -1,0 +1,41 @@
+[
+  {
+    "id": "2510689105",
+    "area": "88.72",
+    "feature": "满五",
+    "title": "郑东新区 新芒果和郡 精装三房 中高楼层 采光充足",
+    "xiaoqu_": "新芒果和郡",
+    "room": "3室2厅",
+    "total_price": "228",
+    "price": "25699元/㎡ ",
+    "louceng": "高层/26层",
+    "louxing": "板楼",
+    "chaoxiang": "南",
+    "zhuangxiu": "精装修",
+    "age": "2012",
+    "quyu": "郑东新区-郑州东站",
+    "shoufu": "约98.9万，月供7460元",
+    "xiaoqu": "新芒果和郡",
+    "position": 1
+  },
+  {
+    "id": "2510689105",
+    "area": "105",
+    "feature": "满五",
+    "title": "满五年 采光无忧 业主诚心出售 看房方便",
+    "xiaoqu_": "新芒果和郡",
+    "room": "2室2厅",
+    "total_price": "215",
+    "price": "20476元/㎡ ",
+    "louceng": "中层/30层",
+    "louxing": "板楼",
+    "chaoxiang": "南",
+    "zhuangxiu": "精装修",
+    "age": "有",
+    "quyu": "有",
+    "": "郑东新区-郑州东站",
+    "shoufu": "约94.1万，月供7042元",
+    "xiaoqu": "新芒果和郡",
+    "position": 2
+  }
+]

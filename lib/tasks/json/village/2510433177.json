@@ -1,0 +1,22 @@
+[
+  {
+    "name": "火电二公司家属院",
+    "position": 1,
+    "id": "2510433177",
+    "district": "中原",
+    "comarea": "热电厂",
+    "avePrice": "10968",
+    "age": "1980",
+    "type": "住宅",
+    "count": "836户",
+    "building_count": "15栋",
+    "lh": "25%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

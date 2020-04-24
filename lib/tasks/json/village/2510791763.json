@@ -1,0 +1,22 @@
+[
+  {
+    "name": "景明街2号院",
+    "position": 1,
+    "id": "2510791763",
+    "district": "金水",
+    "comarea": "北站",
+    "avePrice": "13070",
+    "age": "1998",
+    "type": "住宅",
+    "count": "60户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

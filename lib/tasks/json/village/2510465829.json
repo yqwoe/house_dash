@@ -1,0 +1,22 @@
+[
+  {
+    "name": "梦园公寓",
+    "position": 1,
+    "id": "2510465829",
+    "district": "中原",
+    "comarea": "交警二大队",
+    "avePrice": "13410",
+    "age": "1998",
+    "type": "住宅",
+    "count": "168户",
+    "building_count": "2栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "大产权",
+    "building_type": "塔楼",
+    "wy_price": "中原交警二大队",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

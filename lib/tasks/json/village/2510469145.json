@@ -1,0 +1,22 @@
+[
+  {
+    "name": "丽水人家",
+    "position": 1,
+    "id": "2510469145",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11804",
+    "age": "2003",
+    "type": "住宅",
+    "count": "152户",
+    "building_count": "4栋",
+    "lh": "35%",
+    "rj": "3.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "90个",
+    "tcw": null,
+    "company": null
+  }
+]

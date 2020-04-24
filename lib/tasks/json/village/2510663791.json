@@ -1,0 +1,22 @@
+[
+  {
+    "name": "楠桦小区",
+    "position": 1,
+    "id": "2510663791",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "9903",
+    "age": "1995",
+    "type": "住宅",
+    "count": "490户",
+    "building_count": "3栋",
+    "lh": "15%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

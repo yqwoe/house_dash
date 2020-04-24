@@ -1,0 +1,22 @@
+[
+  {
+    "name": "杜岭街人民路小区",
+    "position": 1,
+    "id": "2510468081",
+    "district": "金水",
+    "comarea": "紫荆山",
+    "avePrice": "10195",
+    "age": "1997",
+    "type": "住宅",
+    "count": "25%",
+    "building_count": "2.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

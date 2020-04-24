@@ -1,0 +1,22 @@
+[
+  {
+    "name": "国土资源厅家属院",
+    "position": 1,
+    "id": "2510438839",
+    "district": "金水",
+    "comarea": "文博广场",
+    "avePrice": "12114",
+    "age": "2007",
+    "type": "住宅",
+    "count": "132户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "锦绣中原",
+    "position": 1,
+    "id": "2510465943",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "13463",
+    "age": "2002",
+    "type": "住宅",
+    "count": "250户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "郑州正大物业管理有限公司",
+    "tcw": "地上停车位和地下停车位",
+    "company": null
+  }
+]

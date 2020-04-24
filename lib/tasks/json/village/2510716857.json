@@ -1,0 +1,22 @@
+[
+  {
+    "name": "帝湖别墅",
+    "position": 1,
+    "id": "2510716857",
+    "district": "中原",
+    "comarea": "帝湖",
+    "avePrice": "27117",
+    "age": "2005",
+    "type": "别墅",
+    "count": "23户",
+    "building_count": "23栋",
+    "lh": "42%",
+    "rj": "1.20",
+    "desc": "联排,独栋",
+    "building_type": "1.2 元/平米/月",
+    "wy_price": "中原帝湖",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

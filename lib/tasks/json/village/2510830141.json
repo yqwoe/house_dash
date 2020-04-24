@@ -1,0 +1,22 @@
+[
+  {
+    "name": "黄河路20号院",
+    "position": 1,
+    "id": "2510830141",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "12354",
+    "age": "1993",
+    "type": "住宅",
+    "count": "10户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "1.20",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "金水经五路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

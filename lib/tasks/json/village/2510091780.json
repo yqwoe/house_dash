@@ -1,0 +1,22 @@
+[
+  {
+    "name": "龙源新城",
+    "position": 1,
+    "id": "2510091780",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "18589",
+    "age": "2006",
+    "type": "住宅",
+    "count": "341户",
+    "building_count": "9栋",
+    "lh": "15%",
+    "rj": "20.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "河南中州酒店管理公司",
+    "tcw": "200个",
+    "company": "河南龙源光明置业有限公司"
+  }
+]

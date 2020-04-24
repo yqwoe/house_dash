@@ -1,0 +1,22 @@
+[
+  {
+    "name": "前进路50号院",
+    "position": 1,
+    "id": "2510465999",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "15076",
+    "age": "1982",
+    "type": "住宅",
+    "count": "377户",
+    "building_count": "11栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

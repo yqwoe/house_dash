@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中医学院小区",
+    "position": 1,
+    "id": "2510037617",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "11271",
+    "age": "2000",
+    "type": "住宅",
+    "count": "258户",
+    "building_count": "5栋",
+    "lh": "35%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

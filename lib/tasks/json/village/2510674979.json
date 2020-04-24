@@ -1,0 +1,22 @@
+[
+  {
+    "name": "农科路小区",
+    "position": 1,
+    "id": "2510674979",
+    "district": "金水",
+    "comarea": "枣庄",
+    "avePrice": "18920",
+    "age": "1998",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "2.30",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.49 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

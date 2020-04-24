@@ -1,0 +1,22 @@
+[
+  {
+    "name": "代书胡同社区",
+    "position": 1,
+    "id": "2510467703",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11574",
+    "age": "1995",
+    "type": "住宅",
+    "count": "713户",
+    "building_count": "14栋",
+    "lh": "28%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "100个地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

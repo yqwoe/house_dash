@@ -1,0 +1,22 @@
+[
+  {
+    "name": "亨利小区",
+    "position": 1,
+    "id": "2510699571",
+    "district": "金水",
+    "comarea": "水上乐园",
+    "avePrice": "11108",
+    "age": "1998",
+    "type": "住宅",
+    "count": "518户",
+    "building_count": "12栋",
+    "lh": "45%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

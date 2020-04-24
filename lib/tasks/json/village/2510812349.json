@@ -1,0 +1,22 @@
+[
+  {
+    "name": "市第一人民医院家属院",
+    "position": 1,
+    "id": "2510812349",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "12106",
+    "age": "1997",
+    "type": "住宅",
+    "count": "404户",
+    "building_count": "10栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "管城南关街",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

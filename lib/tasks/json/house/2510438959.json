@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2510438959",
+    "area": "80.1",
+    "feature": "满五",
+    "title": "汇鑫小区 房子满五年 业主诚心出售 随时可看",
+    "xiaoqu_": "汇鑫小区",
+    "room": "2室2厅",
+    "total_price": "93",
+    "price": "11610元/㎡ ",
+    "louceng": "高层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "西",
+    "zhuangxiu": "中装修",
+    "age": "2006",
+    "quyu": "二七-兴华南街",
+    "shoufu": "约40.7万，月供3026元",
+    "xiaoqu": "汇鑫小区",
+    "position": 1
+  },
+  {
+    "id": "2510438959",
+    "area": "89.84",
+    "feature": "满五,小区中心",
+    "title": "万达旁口汇鑫小区，多层1楼，南北通透，满五",
+    "xiaoqu_": "汇鑫小区",
+    "room": "2室2厅",
+    "total_price": "106",
+    "price": "11799元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "简装修",
+    "age": "2007",
+    "quyu": "二七-兴华南街",
+    "shoufu": "约46.5万，月供3443元",
+    "xiaoqu": "汇鑫小区",
+    "position": 2
+  }
+]

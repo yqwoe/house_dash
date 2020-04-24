@@ -1,0 +1,22 @@
+[
+  {
+    "name": "自来水公司家属院",
+    "position": 1,
+    "id": "2510464587",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "11334",
+    "age": "2000",
+    "type": "住宅",
+    "count": "84户",
+    "building_count": "4栋",
+    "lh": "32%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原儿童公园",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

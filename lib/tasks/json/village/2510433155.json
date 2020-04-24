@@ -1,0 +1,22 @@
+[
+  {
+    "name": "水工厂家属院",
+    "position": 1,
+    "id": "2510433155",
+    "district": "中原",
+    "comarea": "月季公园",
+    "avePrice": "12700",
+    "age": "1988",
+    "type": "住宅",
+    "count": "428户",
+    "building_count": "9栋",
+    "lh": "35%",
+    "rj": "1.70",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

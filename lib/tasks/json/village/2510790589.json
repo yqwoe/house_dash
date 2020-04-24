@@ -1,0 +1,22 @@
+[
+  {
+    "name": "宜居苑",
+    "position": 1,
+    "id": "2510790589",
+    "district": "郑东新区",
+    "comarea": "黄河南路",
+    "avePrice": "20014",
+    "age": "2003",
+    "type": "住宅",
+    "count": "432户",
+    "building_count": "4栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "郑东新区黄河南路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

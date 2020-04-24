@@ -1,0 +1,22 @@
+[
+  {
+    "name": "南阳路209号院",
+    "position": 1,
+    "id": "2510462869",
+    "district": "金水",
+    "comarea": "富田大厦",
+    "avePrice": "14649",
+    "age": "2004",
+    "type": "住宅",
+    "count": "331户",
+    "building_count": "8栋",
+    "lh": "30%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.2 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

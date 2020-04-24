@@ -1,0 +1,22 @@
+[
+  {
+    "name": "人劳局家属院",
+    "position": 1,
+    "id": "2510476067",
+    "district": "金水",
+    "comarea": "省中医院",
+    "avePrice": "12038",
+    "age": "1996",
+    "type": "住宅",
+    "count": "70户",
+    "building_count": "1栋",
+    "lh": "23%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "桃源南街4号院",
+    "position": 1,
+    "id": "2510668467",
+    "district": "二七",
+    "comarea": "老郑大",
+    "avePrice": "12222",
+    "age": "1995",
+    "type": "住宅",
+    "count": "28户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

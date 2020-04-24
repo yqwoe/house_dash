@@ -1,0 +1,22 @@
+[
+  {
+    "name": "曲梁服装工业园住宅区",
+    "position": 1,
+    "id": "2510818759",
+    "district": "新密",
+    "comarea": "新密",
+    "avePrice": "6425",
+    "age": "2017",
+    "type": "住宅",
+    "count": "36户",
+    "building_count": "1栋",
+    "lh": "1.70",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.5 元/平米/月",
+    "wy": "新都物业",
+    "tcw": "地上地下停车位",
+    "company": "新都集团"
+  }
+]

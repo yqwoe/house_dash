@@ -1,0 +1,22 @@
+[
+  {
+    "name": "交通技校家属院",
+    "position": 1,
+    "id": "2510517983",
+    "district": "惠济",
+    "comarea": "刘寨",
+    "avePrice": "13156",
+    "age": "2000",
+    "type": "住宅",
+    "count": "48户",
+    "building_count": "1栋",
+    "lh": "32%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

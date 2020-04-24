@@ -1,0 +1,22 @@
+[
+  {
+    "name": "瑞丰苑",
+    "position": 1,
+    "id": "2510815995",
+    "district": "金水",
+    "comarea": "燕庄",
+    "avePrice": "22377",
+    "age": "2014",
+    "type": "住宅",
+    "count": "153户",
+    "building_count": "1栋",
+    "lh": "31%",
+    "rj": "4.43",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地下地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

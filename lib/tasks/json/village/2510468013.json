@@ -1,0 +1,22 @@
+[
+  {
+    "name": "东三马路小区",
+    "position": 1,
+    "id": "2510468013",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "12267",
+    "age": "1995",
+    "type": "住宅",
+    "count": "490户",
+    "building_count": "6栋",
+    "lh": "35%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "无",
+    "tcw": "20个地上",
+    "company": null
+  }
+]

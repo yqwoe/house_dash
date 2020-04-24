@@ -1,0 +1,22 @@
+[
+  {
+    "name": "工人路183号",
+    "position": 1,
+    "id": "2510463985",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "14319",
+    "age": "1998",
+    "type": "住宅",
+    "count": "105户",
+    "building_count": "4栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

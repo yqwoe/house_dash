@@ -1,0 +1,22 @@
+[
+  {
+    "name": "豫法东苑",
+    "position": 1,
+    "id": "2510507905",
+    "district": "郑东新区",
+    "comarea": "黄河南路",
+    "avePrice": "24758",
+    "age": "2008",
+    "type": "住宅",
+    "count": "506户",
+    "building_count": "8栋",
+    "lh": "36%",
+    "rj": "2.08",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "河南联合物业",
+    "tcw": "200个",
+    "company": "郑州联合置业有限公司"
+  }
+]

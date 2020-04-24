@@ -1,0 +1,22 @@
+[
+  {
+    "name": "岗杜街2号院",
+    "position": 1,
+    "id": "2510827865",
+    "district": "金水",
+    "comarea": "大石桥",
+    "avePrice": "9815",
+    "age": "1998",
+    "type": "住宅",
+    "count": "147户",
+    "building_count": "4栋",
+    "lh": "15%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "金水大石桥",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

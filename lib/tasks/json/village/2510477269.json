@@ -1,0 +1,22 @@
+[
+  {
+    "name": "聚贤苑",
+    "position": 1,
+    "id": "2510477269",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "10614",
+    "age": "2004",
+    "type": "住宅",
+    "count": "224户",
+    "building_count": "6栋",
+    "lh": "35%",
+    "rj": "3.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.8 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

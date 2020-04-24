@@ -1,0 +1,22 @@
+[
+  {
+    "name": "原生墅",
+    "position": 1,
+    "id": "2510784863",
+    "district": "中牟",
+    "comarea": "中牟",
+    "avePrice": "10983",
+    "age": "2009",
+    "type": "住宅",
+    "count": "3户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "3.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中牟中牟",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

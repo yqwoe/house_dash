@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2510087518",
+    "area": "80",
+    "feature": "满二",
+    "title": "快乐e家 2室2厅 南 北",
+    "xiaoqu_": "快乐e家",
+    "room": "2室2厅",
+    "total_price": "105",
+    "price": "13125元/㎡ ",
+    "louceng": "高层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "简装修",
+    "age": "2006",
+    "quyu": "高新-石佛",
+    "shoufu": "约45.4万，月供3443元",
+    "xiaoqu": "快乐e家",
+    "position": 1
+  },
+  {
+    "id": "2510087518",
+    "area": "130",
+    "feature": "满五",
+    "title": "睿达广场旁 南北通透大三房 低价急售",
+    "xiaoqu_": "快乐e家",
+    "room": "3室2厅",
+    "total_price": "149",
+    "price": "11462元/㎡ ",
+    "louceng": "高层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南",
+    "zhuangxiu": "中装修",
+    "age": "2020",
+    "quyu": "高新-石佛",
+    "shoufu": "约65.7万，月供4851元",
+    "xiaoqu": "快乐e家",
+    "position": 2
+  }
+]

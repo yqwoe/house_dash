@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2510434225",
+    "area": "77",
+    "feature": "满五",
+    "title": "农科路北部，四十七中，多层二楼，低价两房，带地下室",
+    "xiaoqu_": "东文雅小区",
+    "room": "2室1厅",
+    "total_price": "105",
+    "price": "13636元/㎡ ",
+    "louceng": "低层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "简装修",
+    "age": "2000",
+    "quyu": "金水-北站",
+    "shoufu": "约45.4万，月供3443元",
+    "xiaoqu": "东文雅小区",
+    "position": 1
+  },
+  {
+    "id": "2510434225",
+    "area": "151",
+    "feature": "满五",
+    "title": "经三路与陈旭路，151平大平层，140万，诚心出售",
+    "xiaoqu_": "东文雅小区",
+    "room": "4室2厅",
+    "total_price": "140",
+    "price": "9272元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "南",
+    "chaoxiang": "金水-北站",
+    "shoufu": "东文雅小区",
+    "xiaoqu": null,
+    "position": 2
+  }
+]

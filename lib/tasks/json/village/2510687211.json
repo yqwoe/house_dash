@@ -1,0 +1,22 @@
+[
+  {
+    "name": "建强公寓",
+    "position": 1,
+    "id": "2510687211",
+    "district": "二七",
+    "comarea": "兴华南街",
+    "avePrice": "13715",
+    "age": "2001",
+    "type": "住宅",
+    "count": "112户",
+    "building_count": "2栋",
+    "lh": "10%",
+    "rj": "2.99",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.7 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

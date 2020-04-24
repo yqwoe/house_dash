@@ -1,0 +1,22 @@
+[
+  {
+    "name": "国家安全厅家属院",
+    "position": 1,
+    "id": "2510473589",
+    "district": "金水",
+    "comarea": "北站",
+    "avePrice": "13503",
+    "age": "1998",
+    "type": "住宅",
+    "count": "203户",
+    "building_count": "4栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

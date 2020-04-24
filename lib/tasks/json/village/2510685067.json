@@ -1,0 +1,22 @@
+[
+  {
+    "name": "大成小区",
+    "position": 1,
+    "id": "2510685067",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "14777",
+    "age": "1998",
+    "type": "住宅",
+    "count": "171户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.2 元/平米/月",
+    "wy": "地上车位，停车位100，出租率约66%",
+    "tcw": null,
+    "company": null
+  }
+]

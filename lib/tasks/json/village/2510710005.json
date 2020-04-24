@@ -1,0 +1,22 @@
+[
+  {
+    "name": "同馨园",
+    "position": 1,
+    "id": "2510710005",
+    "district": "经开",
+    "comarea": "第八大街",
+    "avePrice": "15142",
+    "age": "2008",
+    "type": "住宅",
+    "count": "386户",
+    "building_count": "5栋",
+    "lh": "35%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "板塔结合",
+    "wy_price": "1.2 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

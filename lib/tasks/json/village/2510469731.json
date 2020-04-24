@@ -1,0 +1,42 @@
+[
+  {
+    "name": "赵庄街小区",
+    "position": 1,
+    "id": "2510469731",
+    "district": "中原",
+    "comarea": "帝湖",
+    "avePrice": "12160",
+    "age": "1994",
+    "type": "住宅",
+    "count": "14户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "大产权",
+    "building_type": "板楼",
+    "wy_price": "中原帝湖",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "赵庄街小区",
+    "position": 2,
+    "id": "2510469731",
+    "district": "中原",
+    "comarea": "帝湖",
+    "avePrice": "12160",
+    "age": "1994",
+    "type": "住宅",
+    "count": "14户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "大产权",
+    "building_type": "板楼",
+    "wy_price": "中原帝湖",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

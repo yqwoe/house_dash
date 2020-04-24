@@ -1,0 +1,22 @@
+[
+  {
+    "name": "土地局家属院",
+    "position": 1,
+    "id": "2510468789",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "14029",
+    "age": "2000",
+    "type": "住宅",
+    "count": "15%",
+    "building_count": "2.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": "地上停车位",
+    "tcw": "市政建设",
+    "company": null
+  }
+]

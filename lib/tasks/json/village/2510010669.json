@@ -1,0 +1,22 @@
+[
+  {
+    "name": "怡馨苑",
+    "position": 1,
+    "id": "2510010669",
+    "district": "中原",
+    "comarea": "月季公园",
+    "avePrice": "13911",
+    "age": "1999",
+    "type": "住宅",
+    "count": "576户",
+    "building_count": "12栋",
+    "lh": "35%",
+    "rj": "2.60",
+    "desc": "70年产权",
+    "building_type": "板楼,塔楼",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

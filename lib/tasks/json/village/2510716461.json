@@ -1,0 +1,22 @@
+[
+  {
+    "name": "经纬公寓",
+    "position": 1,
+    "id": "2510716461",
+    "district": "金水",
+    "comarea": "省人民医院",
+    "avePrice": "16207",
+    "age": "2000",
+    "type": "住宅",
+    "count": "70户",
+    "building_count": "2栋",
+    "lh": "32%",
+    "rj": "3.10",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.9 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2510438897",
+    "area": "87.53",
+    "feature": "满五",
+    "title": "真实在售，金水一环内，翠堤嘉园，精装大2房，05年多层，停车方",
+    "xiaoqu_": "翠堤嘉园",
+    "room": "2室2厅",
+    "total_price": "93",
+    "price": "10625元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "钢混",
+    "chaoxiang": "南北",
+    "zhuangxiu": "精装修",
+    "age": "2005",
+    "quyu": "金水-沙口路",
+    "shoufu": "约40.7万，月供3026元",
+    "xiaoqu": "翠堤嘉园",
+    "position": 1
+  },
+  {
+    "id": "2510438897",
+    "area": "87.32",
+    "feature": "满五",
+    "title": "真，金水路一环内，精装大2房，05年多层，南北通透，停车方便",
+    "xiaoqu_": "翠堤嘉园",
+    "room": "2室2厅",
+    "total_price": "92",
+    "price": "10536元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "砖混",
+    "chaoxiang": "南",
+    "zhuangxiu": "精装修",
+    "age": "2005",
+    "quyu": "金水-沙口路",
+    "shoufu": "约40.6万，月供2973元",
+    "xiaoqu": "翠堤嘉园",
+    "position": 2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "金海怡景苑",
+    "position": 1,
+    "id": "2510465983",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "11227",
+    "age": "2002",
+    "type": "住宅",
+    "count": "308户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "1.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "郑州建海物业管理有限公司",
+    "tcw": "本小区有100个停车位",
+    "company": "郑州建海置业有限公司"
+  },
+  {
+    "name": "金海怡景苑",
+    "position": 2,
+    "id": "2510465983",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "11227",
+    "age": "2002",
+    "type": "住宅",
+    "count": "308户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "1.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "郑州建海物业管理有限公司",
+    "tcw": "本小区有100个停车位",
+    "company": "郑州建海置业有限公司"
+  }
+]

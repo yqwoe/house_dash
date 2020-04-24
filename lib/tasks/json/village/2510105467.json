@@ -1,0 +1,22 @@
+[
+  {
+    "name": "鸿森蓝岛",
+    "position": 1,
+    "id": "2510105467",
+    "district": "高新",
+    "comarea": "石佛",
+    "avePrice": "12267",
+    "age": "2010",
+    "type": "住宅",
+    "count": "570户",
+    "building_count": "2栋",
+    "lh": "30%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "1.05 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": "郑州鸿森实业有限公司",
+    "company": null
+  }
+]

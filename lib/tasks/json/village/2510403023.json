@@ -1,0 +1,22 @@
+[
+  {
+    "name": "西城佳苑",
+    "position": 1,
+    "id": "2510403023",
+    "district": "中原",
+    "comarea": "西流湖",
+    "avePrice": "14089",
+    "age": "2002",
+    "type": "住宅",
+    "count": "23%",
+    "building_count": "2.30",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

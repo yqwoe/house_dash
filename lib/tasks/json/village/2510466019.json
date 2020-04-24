@@ -1,0 +1,22 @@
+[
+  {
+    "name": "六冶家属院",
+    "position": 1,
+    "id": "2510466019",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "12561",
+    "age": "1990",
+    "type": "住宅",
+    "count": "1541户",
+    "building_count": "26栋",
+    "lh": "25%",
+    "rj": "1.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.15 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

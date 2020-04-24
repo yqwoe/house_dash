@@ -1,0 +1,22 @@
+[
+  {
+    "name": "紫藤家园",
+    "position": 1,
+    "id": "2510706607",
+    "district": "中牟",
+    "comarea": "中牟",
+    "avePrice": "9476",
+    "age": "2007",
+    "type": "住宅",
+    "count": "24户",
+    "building_count": "2栋",
+    "lh": "45%",
+    "rj": "2.70",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

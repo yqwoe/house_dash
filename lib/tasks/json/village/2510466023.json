@@ -1,0 +1,22 @@
+[
+  {
+    "name": "技师学校家属院",
+    "position": 1,
+    "id": "2510466023",
+    "district": "中原",
+    "comarea": "郑州晚报社",
+    "avePrice": "18550",
+    "age": "1985",
+    "type": "住宅",
+    "count": "530户",
+    "building_count": "14栋",
+    "lh": "30%",
+    "rj": "1.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

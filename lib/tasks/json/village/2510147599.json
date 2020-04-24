@@ -1,0 +1,22 @@
+[
+  {
+    "name": "桃花园小区",
+    "position": 1,
+    "id": "2510147599",
+    "district": "荥阳",
+    "comarea": "荥阳",
+    "avePrice": "7418",
+    "age": "2011",
+    "type": "住宅",
+    "count": "370户",
+    "building_count": "9栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "个人产权",
+    "building_type": "板楼,塔楼",
+    "wy_price": "荥阳荥阳",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

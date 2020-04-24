@@ -1,0 +1,22 @@
+[
+  {
+    "name": "泰和苑",
+    "position": 1,
+    "id": "2510698005",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "12623",
+    "age": "2010",
+    "type": "住宅",
+    "count": "392户",
+    "building_count": "4栋",
+    "lh": "32%",
+    "rj": "2.55",
+    "desc": "70年",
+    "building_type": "板塔结合",
+    "wy_price": "1.2 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "城建技校家属院",
+    "position": 1,
+    "id": "2510433165",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "14656",
+    "age": "1986",
+    "type": "住宅",
+    "count": "71户",
+    "building_count": "3栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "金水沙口路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

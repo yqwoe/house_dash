@@ -1,0 +1,22 @@
+[
+  {
+    "name": "南学街1号院",
+    "position": 1,
+    "id": "2510678669",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11635",
+    "age": "1996",
+    "type": "住宅",
+    "count": "433户",
+    "building_count": "6栋",
+    "lh": "35%",
+    "rj": "25.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

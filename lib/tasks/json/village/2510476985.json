@@ -1,0 +1,22 @@
+[
+  {
+    "name": "肿瘤医院家属院",
+    "position": 1,
+    "id": "2510476985",
+    "district": "金水",
+    "comarea": "省人民医院",
+    "avePrice": "14880",
+    "age": "1996",
+    "type": "住宅",
+    "count": "564户",
+    "building_count": "14栋",
+    "lh": "30%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "免费停车",
+    "tcw": null,
+    "company": null
+  }
+]

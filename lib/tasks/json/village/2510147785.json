@@ -1,0 +1,22 @@
+[
+  {
+    "name": "航海东路345号",
+    "position": 1,
+    "id": "2510147785",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "12749",
+    "age": "住宅",
+    "type": "30%",
+    "count": "1.50",
+    "building_count": null,
+    "lh": null,
+    "rj": null,
+    "desc": "板楼",
+    "building_type": "管城管南区域",
+    "wy_price": null,
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "管城联运公司家属院",
+    "position": 1,
+    "id": "2510469147",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "14437",
+    "age": "1999",
+    "type": "住宅",
+    "count": "60户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

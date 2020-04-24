@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中亨都市花园",
+    "position": 1,
+    "id": "2510304199",
+    "district": "金水",
+    "comarea": "北站",
+    "avePrice": "14957",
+    "age": "2004",
+    "type": "住宅",
+    "count": "1076户",
+    "building_count": "24栋",
+    "lh": "40%",
+    "rj": "2.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.8 元/平米/月",
+    "wy": "小区共有停车位1200个",
+    "tcw": "中亨集团河南华正置业有限公司",
+    "company": null
+  }
+]

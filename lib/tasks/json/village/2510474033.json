@@ -1,0 +1,22 @@
+[
+  {
+    "name": "建新街小区",
+    "position": 1,
+    "id": "2510474033",
+    "district": "二七",
+    "comarea": "河医立交桥",
+    "avePrice": "10683",
+    "age": "2000",
+    "type": "住宅",
+    "count": "707户",
+    "building_count": "17栋",
+    "lh": "25%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

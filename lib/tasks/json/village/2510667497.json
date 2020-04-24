@@ -1,0 +1,22 @@
+[
+  {
+    "name": "绿纺小区",
+    "position": 1,
+    "id": "2510667497",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "14698",
+    "age": "1992",
+    "type": "住宅",
+    "count": "240户",
+    "building_count": "5栋",
+    "lh": "28%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "茂鑫公寓",
+    "position": 1,
+    "id": "2510720905",
+    "district": "金水",
+    "comarea": "沙口路",
+    "avePrice": "10662",
+    "age": "2002",
+    "type": "住宅",
+    "count": "288户",
+    "building_count": "2栋",
+    "lh": "15%",
+    "rj": "3.00",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "本小区有300个停车位",
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金铭苑",
+    "position": 1,
+    "id": "2510037596",
+    "district": "二七",
+    "comarea": "火车站",
+    "avePrice": "9925",
+    "age": "2002",
+    "type": "住宅",
+    "count": "119户",
+    "building_count": "2栋",
+    "lh": "30%",
+    "rj": "2.45",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "福华苑",
+    "position": 1,
+    "id": "2510471387",
+    "district": "二七",
+    "comarea": "古玩城",
+    "avePrice": "16380",
+    "age": "2003",
+    "type": "住宅",
+    "count": "120户",
+    "building_count": "5栋",
+    "lh": "25%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

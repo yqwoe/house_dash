@@ -1,0 +1,22 @@
+[
+  {
+    "name": "陇兴花园",
+    "position": 1,
+    "id": "2510473965",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "12378",
+    "age": "2003",
+    "type": "住宅",
+    "count": "165户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

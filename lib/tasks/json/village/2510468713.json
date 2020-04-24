@@ -1,0 +1,22 @@
+[
+  {
+    "name": "黄家门小区",
+    "position": 1,
+    "id": "2510468713",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "15341",
+    "age": "1998",
+    "type": "住宅",
+    "count": "721户",
+    "building_count": "8栋",
+    "lh": "15%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

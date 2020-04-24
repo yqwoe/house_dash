@@ -1,0 +1,22 @@
+[
+  {
+    "name": "玉兰苑",
+    "position": 1,
+    "id": "2510593623",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11525",
+    "age": "2000",
+    "type": "住宅",
+    "count": "20户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "1.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.6 元/平米/月",
+    "wy": "中凯物业",
+    "tcw": "多个",
+    "company": null
+  }
+]

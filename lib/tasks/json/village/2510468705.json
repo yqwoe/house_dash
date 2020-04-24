@@ -1,0 +1,22 @@
+[
+  {
+    "name": "华庭公寓",
+    "position": 1,
+    "id": "2510468705",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "10751",
+    "age": "2004",
+    "type": "住宅",
+    "count": "504户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "1.0 元/平米/月",
+    "wy": "华庭物业",
+    "tcw": "本小区有50个停车位",
+    "company": null
+  }
+]

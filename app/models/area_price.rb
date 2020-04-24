@@ -1,0 +1,2 @@
+class AreaPrice < ApplicationRecord
+end

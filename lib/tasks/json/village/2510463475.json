@@ -1,0 +1,22 @@
+[
+  {
+    "name": "同乐小区南院",
+    "position": 1,
+    "id": "2510463475",
+    "district": "金水",
+    "comarea": "富田大厦",
+    "avePrice": "11056",
+    "age": "1994",
+    "type": "住宅",
+    "count": "1108户",
+    "building_count": "32栋",
+    "lh": "25%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "金水富田大厦",
+    "wy": "地上停车位",
+    "tcw": "毛纺厂单位住房",
+    "company": null
+  }
+]

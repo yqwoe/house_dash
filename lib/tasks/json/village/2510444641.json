@@ -1,0 +1,22 @@
+[
+  {
+    "name": "地质勘察院家属院",
+    "position": 1,
+    "id": "2510444641",
+    "district": "金水",
+    "comarea": "徐寨",
+    "avePrice": "15240",
+    "age": "1997",
+    "type": "住宅",
+    "count": "612户",
+    "building_count": "13栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

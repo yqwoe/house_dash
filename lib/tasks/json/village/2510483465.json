@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SOHO世纪城",
+    "position": 1,
+    "id": "2510483465",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "12068",
+    "age": "2002",
+    "type": "住宅",
+    "count": "176户",
+    "building_count": "2栋",
+    "lh": "28%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上停车位和地下停车位",
+    "tcw": "市政建设",
+    "company": null
+  }
+]

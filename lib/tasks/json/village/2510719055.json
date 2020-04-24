@@ -1,0 +1,22 @@
+[
+  {
+    "name": "上林苑",
+    "position": 1,
+    "id": "2510719055",
+    "district": "郑东新区",
+    "comarea": "黄河南路",
+    "avePrice": "16646",
+    "age": "2012",
+    "type": "住宅",
+    "count": "60户",
+    "building_count": "1栋",
+    "lh": "30%",
+    "rj": "2.40",
+    "desc": "70年",
+    "building_type": "板楼,塔楼,板塔结合",
+    "wy_price": "郑东新区黄河南路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

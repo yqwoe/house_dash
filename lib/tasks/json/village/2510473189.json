@@ -1,0 +1,22 @@
+[
+  {
+    "name": "大桥局家属院",
+    "position": 1,
+    "id": "2510473189",
+    "district": "金水",
+    "comarea": "富田大厦",
+    "avePrice": "11001",
+    "age": "1992",
+    "type": "住宅",
+    "count": "1656户",
+    "building_count": "35栋",
+    "lh": "32%",
+    "rj": "1.80",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

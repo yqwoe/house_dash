@@ -1,0 +1,41 @@
+[
+  {
+    "id": "2510724355",
+    "area": "60.8",
+    "feature": "满五",
+    "title": "上幸福路 距离50米 随时看房 看上房价位可小刀",
+    "xiaoqu_": "幸福路7号院",
+    "room": "2室1厅",
+    "total_price": "78",
+    "price": "12829元/㎡ ",
+    "louceng": "高层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "简装修",
+    "age": "有",
+    "quyu": "有",
+    "": "二七-老郑大",
+    "shoufu": "约40.7万，月供2191元",
+    "xiaoqu": "幸福路7号院",
+    "position": 1
+  },
+  {
+    "id": "2510724355",
+    "area": "67.34",
+    "feature": "满五",
+    "title": "幸福路9号院 南北通透三房 配套齐全",
+    "xiaoqu_": "幸福路9号院",
+    "room": "3室1厅",
+    "total_price": "80",
+    "price": "11880元/㎡ ",
+    "louceng": "中层/5层",
+    "louxing": "砖混",
+    "chaoxiang": "南北",
+    "zhuangxiu": "中装修",
+    "age": "1983",
+    "quyu": "二七-老郑大",
+    "shoufu": "",
+    "xiaoqu": "幸福路9号院",
+    "position": 2
+  }
+]

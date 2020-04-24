@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2510113280",
+    "area": "133",
+    "feature": "满二",
+    "title": "千年一遇 城南路佳河园 近地铁 近公园 居住舒适 交通方便",
+    "xiaoqu_": "佳河园",
+    "room": "3室2厅",
+    "total_price": "170",
+    "price": "12782元/㎡ ",
+    "louceng": "低层/6层",
+    "louxing": "钢混",
+    "chaoxiang": "南北",
+    "zhuangxiu": "精装修",
+    "age": "2007",
+    "quyu": "管城-陇海汽车站",
+    "shoufu": "约74.1万，月供5582元",
+    "xiaoqu": "佳河园",
+    "position": 1
+  },
+  {
+    "id": "2510113280",
+    "area": "90",
+    "feature": "满五",
+    "title": "城南路地铁口 公园旁 上创新街 精致2房 双气地暖",
+    "xiaoqu_": "佳河园",
+    "room": "2室2厅",
+    "total_price": "112",
+    "price": "12444元/㎡ ",
+    "louceng": "低层/6层",
+    "louxing": "砖混",
+    "chaoxiang": "南北",
+    "zhuangxiu": "中装修",
+    "age": "2007",
+    "quyu": "管城-陇海汽车站",
+    "shoufu": "约49.3万，月供3652元",
+    "xiaoqu": "佳河园",
+    "position": 2
+  }
+]

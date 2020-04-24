@@ -1,0 +1,22 @@
+[
+  {
+    "name": "材料厂小区",
+    "position": 1,
+    "id": "2510718089",
+    "district": "二七",
+    "comarea": "鞋城",
+    "avePrice": "11538",
+    "age": "1999",
+    "type": "住宅",
+    "count": "875户",
+    "building_count": "20栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "二七鞋城",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

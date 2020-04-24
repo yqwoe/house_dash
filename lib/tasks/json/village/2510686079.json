@@ -1,0 +1,22 @@
+[
+  {
+    "name": "棉纺路人行家属院",
+    "position": 1,
+    "id": "2510686079",
+    "district": "二七",
+    "comarea": "河医立交桥",
+    "avePrice": "11870",
+    "age": "1995",
+    "type": "住宅",
+    "count": "216户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "2.91",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

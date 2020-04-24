@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2510488785",
+    "area": "77",
+    "feature": "",
+    "title": "小区周边丰富，房子格局方正，户型南北通透",
+    "xiaoqu_": "春晖小区",
+    "room": "2室1厅",
+    "total_price": "89",
+    "price": "11558元/㎡ ",
+    "louceng": "中层/6层",
+    "louxing": "板楼",
+    "chaoxiang": "西南",
+    "zhuangxiu": "简装修",
+    "age": "1996",
+    "quyu": "二七-万客来",
+    "shoufu": "约46.4万，月供2504元",
+    "xiaoqu": "春晖小区",
+    "position": 1
+  },
+  {
+    "id": "2510488785",
+    "area": "68",
+    "feature": "",
+    "title": "小户型，好住好租，解决您的后顾之忧",
+    "xiaoqu_": "春晖小区",
+    "room": "2室1厅",
+    "total_price": "80",
+    "price": "11765元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南",
+    "zhuangxiu": "简装修",
+    "age": "1996",
+    "quyu": "二七-万客来",
+    "shoufu": "约41.9万，月供2243元",
+    "xiaoqu": "春晖小区",
+    "position": 2
+  }
+]

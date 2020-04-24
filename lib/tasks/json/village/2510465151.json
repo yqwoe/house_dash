@@ -1,0 +1,22 @@
+[
+  {
+    "name": "岗坡路小区",
+    "position": 1,
+    "id": "2510465151",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "14086",
+    "age": "1998",
+    "type": "住宅",
+    "count": "84户",
+    "building_count": "2栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "中原汽车西站",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

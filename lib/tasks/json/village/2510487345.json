@@ -1,0 +1,22 @@
+[
+  {
+    "name": "审计厅家属院",
+    "position": 1,
+    "id": "2510487345",
+    "district": "金水",
+    "comarea": "省人民医院",
+    "avePrice": "18878",
+    "age": "1996",
+    "type": "住宅",
+    "count": "36户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "1.60",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "开发商自持",
+    "tcw": "地上车位",
+    "company": "市政建设"
+  }
+]

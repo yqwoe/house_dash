@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文化路111号院",
+    "position": 1,
+    "id": "2510829225",
+    "district": "金水",
+    "comarea": "大石桥",
+    "avePrice": "10765",
+    "age": "1986",
+    "type": "住宅",
+    "count": "286户",
+    "building_count": "6栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

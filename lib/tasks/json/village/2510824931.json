@@ -1,0 +1,22 @@
+[
+  {
+    "name": "建华街11号院",
+    "position": 1,
+    "id": "2510824931",
+    "district": "二七",
+    "comarea": "古玩城",
+    "avePrice": "12112",
+    "age": "1998",
+    "type": "住宅",
+    "count": "140户",
+    "building_count": "3栋",
+    "lh": "25%",
+    "rj": "1.20",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "二七古玩城",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

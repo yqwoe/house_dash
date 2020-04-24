@@ -1,0 +1,22 @@
+[
+  {
+    "name": "国税局家属院",
+    "position": 1,
+    "id": "2510682483",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "14911",
+    "age": "1995",
+    "type": "住宅",
+    "count": "156户",
+    "building_count": "5栋",
+    "lh": "35%",
+    "rj": "2.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

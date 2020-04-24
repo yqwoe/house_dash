@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中原国税局家属院",
+    "position": 1,
+    "id": "2510466463",
+    "district": "中原",
+    "comarea": "西流湖",
+    "avePrice": "11464",
+    "age": "1982",
+    "type": "住宅",
+    "count": "28户",
+    "building_count": "1栋",
+    "lh": "30%",
+    "rj": "1.30",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

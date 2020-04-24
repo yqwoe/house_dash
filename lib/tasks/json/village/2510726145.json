@@ -1,0 +1,22 @@
+[
+  {
+    "name": "公园大地",
+    "position": 1,
+    "id": "2510726145",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "8191",
+    "age": "2013",
+    "type": "住宅",
+    "count": "144户",
+    "building_count": "1栋",
+    "lh": "31.6%",
+    "rj": "2.45",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.6 元/平米/月",
+    "wy": "新郑市威远物业管理有限公司",
+    "tcw": "车位集中地下，部分临街地上车位",
+    "company": null
+  }
+]

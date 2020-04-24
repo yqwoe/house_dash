@@ -1,0 +1,22 @@
+[
+  {
+    "name": "冯庄小区",
+    "position": 1,
+    "id": "2510462989",
+    "district": "二七",
+    "comarea": "万客来",
+    "avePrice": "11522",
+    "age": "1993",
+    "type": "住宅",
+    "count": "1099户",
+    "building_count": "24栋",
+    "lh": "40%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.4 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

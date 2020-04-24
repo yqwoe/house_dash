@@ -1,0 +1,22 @@
+[
+  {
+    "name": "营门街小区",
+    "position": 1,
+    "id": "2510488065",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "11807",
+    "age": "1996",
+    "type": "住宅",
+    "count": "14户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "二里岗街小区",
+    "position": 1,
+    "id": "2510468091",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "12036",
+    "age": "1988",
+    "type": "住宅",
+    "count": "740户",
+    "building_count": "15栋",
+    "lh": "25%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

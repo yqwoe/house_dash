@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2510795097",
+    "area": "89.3",
+    "feature": "满五",
+    "title": "真实在售，均价10000，黄河路东三街，精装双气大2房，停车方便",
+    "xiaoqu_": "贸易厅1号院",
+    "room": "2室2厅",
+    "total_price": "92",
+    "price": "10302元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "精装修",
+    "age": "有",
+    "quyu": "金水-大石桥",
+    "shoufu": "贸易厅1号院",
+    "xiaoqu": null,
+    "position": 1
+  },
+  {
+    "id": "2510795097",
+    "area": "86",
+    "feature": "满五",
+    "title": "儿童医院旁，双气3居室，黄河路，小区停车方便，可贷款",
+    "xiaoqu_": "贸易厅1号院",
+    "room": "3室2厅",
+    "total_price": "100",
+    "price": "11628元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "精装修",
+    "age": "1999",
+    "quyu": "金水-大石桥",
+    "shoufu": "约52.1万，月供2817元",
+    "xiaoqu": "贸易厅1号院",
+    "position": 2
+  }
+]

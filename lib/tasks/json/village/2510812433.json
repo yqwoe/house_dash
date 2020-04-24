@@ -1,0 +1,42 @@
+[
+  {
+    "name": "西十里铺南路18号院",
+    "position": 1,
+    "id": "2510812433",
+    "district": "中原",
+    "comarea": "月季公园",
+    "avePrice": "18260",
+    "age": "1998",
+    "type": "住宅",
+    "count": "120户",
+    "building_count": "3栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原月季公园",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "西十里铺南路18号院",
+    "position": 2,
+    "id": "2510812433",
+    "district": "中原",
+    "comarea": "月季公园",
+    "avePrice": "18260",
+    "age": "1998",
+    "type": "住宅",
+    "count": "120户",
+    "building_count": "3栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原月季公园",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

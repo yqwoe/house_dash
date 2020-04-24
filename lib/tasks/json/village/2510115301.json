@@ -1,0 +1,22 @@
+[
+  {
+    "name": "远东咖啡公寓",
+    "position": 1,
+    "id": "2510115301",
+    "district": "中原",
+    "comarea": "月季公园",
+    "avePrice": "11877",
+    "age": "2007",
+    "type": "住宅",
+    "count": "128户",
+    "building_count": "1栋",
+    "lh": "30%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": "郑州远东置业有限公司",
+    "company": null
+  }
+]

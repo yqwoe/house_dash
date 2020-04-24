@@ -1,0 +1,22 @@
+[
+  {
+    "name": "数码公寓",
+    "position": 1,
+    "id": "2510185143",
+    "district": "金水",
+    "comarea": "文博广场",
+    "avePrice": "16558",
+    "age": "2010",
+    "type": "住宅",
+    "count": "3520户",
+    "building_count": "5栋",
+    "lh": "40%",
+    "rj": "5.19",
+    "desc": "50年产权",
+    "building_type": "塔楼",
+    "wy_price": "1.92 元/平米/月",
+    "wy": "本小区有900个地下停车位",
+    "tcw": "金基不动产（郑州）有限公司",
+    "company": null
+  }
+]

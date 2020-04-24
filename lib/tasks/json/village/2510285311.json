@@ -1,0 +1,42 @@
+[
+  {
+    "name": "华山名郡",
+    "position": 1,
+    "id": "2510285311",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "14094",
+    "age": "2009",
+    "type": "住宅",
+    "count": "304户",
+    "building_count": "2栋",
+    "lh": "35%",
+    "rj": "3.50",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "长城物业管理公司",
+    "tcw": "智能停车位，高六米，分三层",
+    "company": "郑州市长城房屋开发集团有限公司"
+  },
+  {
+    "name": "华山名郡",
+    "position": 2,
+    "id": "2510285311",
+    "district": "中原",
+    "comarea": "汽车西站",
+    "avePrice": "14094",
+    "age": "2009",
+    "type": "住宅",
+    "count": "304户",
+    "building_count": "2栋",
+    "lh": "35%",
+    "rj": "3.50",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "长城物业管理公司",
+    "tcw": "智能停车位，高六米，分三层",
+    "company": "郑州市长城房屋开发集团有限公司"
+  }
+]

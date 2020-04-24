@@ -1,0 +1,22 @@
+[
+  {
+    "name": "丁香苑",
+    "position": 1,
+    "id": "2510469263",
+    "district": "管城",
+    "comarea": "南关街",
+    "avePrice": "10755",
+    "age": "2002",
+    "type": "住宅",
+    "count": "72户",
+    "building_count": "2栋",
+    "lh": "10%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.6 元/平米/月",
+    "wy": "中凯物业",
+    "tcw": "180个停车位",
+    "company": null
+  }
+]

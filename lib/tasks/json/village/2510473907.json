@@ -1,0 +1,22 @@
+[
+  {
+    "name": "黄河北街红旗路小区",
+    "position": 1,
+    "id": "2510473907",
+    "district": "金水",
+    "comarea": "水上乐园",
+    "avePrice": "10888",
+    "age": "1988",
+    "type": "住宅",
+    "count": "15%",
+    "building_count": "2.00",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

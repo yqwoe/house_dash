@@ -1,0 +1,22 @@
+[
+  {
+    "name": "燕庄小区",
+    "position": 1,
+    "id": "2510660837",
+    "district": "金水",
+    "comarea": "燕庄",
+    "avePrice": "14173",
+    "age": "2008",
+    "type": "住宅",
+    "count": "3104户",
+    "building_count": "13栋",
+    "lh": "30%",
+    "rj": "2.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

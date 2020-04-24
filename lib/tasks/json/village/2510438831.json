@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文博名门",
+    "position": 1,
+    "id": "2510438831",
+    "district": "金水",
+    "comarea": "经五路",
+    "avePrice": "13494",
+    "age": "2002",
+    "type": "住宅",
+    "count": "256户",
+    "building_count": "4栋",
+    "lh": "15%",
+    "rj": "3.20",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "1.0 元/平米/月",
+    "wy": "地下车位198个、地上车位36个",
+    "tcw": null,
+    "company": null
+  }
+]

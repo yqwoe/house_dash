@@ -1,0 +1,22 @@
+[
+  {
+    "name": "佳河园",
+    "position": 1,
+    "id": "2510113280",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "13038",
+    "age": "2007",
+    "type": "住宅",
+    "count": "253户",
+    "building_count": "6栋",
+    "lh": "30%",
+    "rj": "2.50",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "0.48 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": "郑州中通实业发展有限公司",
+    "company": null
+  }
+]

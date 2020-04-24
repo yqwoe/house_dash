@@ -1,0 +1,22 @@
+[
+  {
+    "name": "城东路135号院",
+    "position": 1,
+    "id": "2510467553",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "12108",
+    "age": "2000",
+    "type": "住宅",
+    "count": "25%",
+    "building_count": "1.20",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "管城商代遗址",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

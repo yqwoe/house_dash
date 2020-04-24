@@ -1,0 +1,42 @@
+[
+  {
+    "name": "康桥溪桂园",
+    "position": 1,
+    "id": "2510731431",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "12014",
+    "age": "2015",
+    "type": "住宅",
+    "count": "201户",
+    "building_count": "3栋",
+    "lh": "35.26%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "2.0 元/平米/月",
+    "wy": "河南太平世家物业管理公司",
+    "tcw": "地下停车位273个",
+    "company": "郑州双湖置业有限公司"
+  },
+  {
+    "name": "康桥溪桂园",
+    "position": 2,
+    "id": "2510731431",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "12014",
+    "age": "2015",
+    "type": "住宅",
+    "count": "201户",
+    "building_count": "3栋",
+    "lh": "35.26%",
+    "rj": "2.50",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "2.0 元/平米/月",
+    "wy": "河南太平世家物业管理公司",
+    "tcw": "地下停车位273个",
+    "company": "郑州双湖置业有限公司"
+  }
+]

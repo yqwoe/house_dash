@@ -1,0 +1,22 @@
+[
+  {
+    "name": "城东路郑百家属院",
+    "position": 1,
+    "id": "2510469423",
+    "district": "管城",
+    "comarea": "商代遗址",
+    "avePrice": "15028",
+    "age": "1998",
+    "type": "住宅",
+    "count": "468户",
+    "building_count": "8栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.35 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

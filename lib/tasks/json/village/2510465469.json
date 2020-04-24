@@ -1,0 +1,22 @@
+[
+  {
+    "name": "三北小区",
+    "position": 1,
+    "id": "2510465469",
+    "district": "金水",
+    "comarea": "富田大厦",
+    "avePrice": "10177",
+    "age": "1990",
+    "type": "住宅",
+    "count": "2446户",
+    "building_count": "61栋",
+    "lh": "25%",
+    "rj": "2.40",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

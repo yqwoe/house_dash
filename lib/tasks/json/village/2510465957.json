@@ -1,0 +1,22 @@
+[
+  {
+    "name": "裕达公寓",
+    "position": 1,
+    "id": "2510465957",
+    "district": "中原",
+    "comarea": "郑州晚报社",
+    "avePrice": "19126",
+    "age": "1998",
+    "type": "住宅",
+    "count": "118户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "3.10",
+    "desc": "70年产权",
+    "building_type": "板塔结合",
+    "wy_price": "0.9 元/平米/月",
+    "wy": "地上停车位和地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

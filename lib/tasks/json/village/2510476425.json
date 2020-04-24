@@ -1,0 +1,22 @@
+[
+  {
+    "name": "农业厅家属院",
+    "position": 1,
+    "id": "2510476425",
+    "district": "金水",
+    "comarea": "科技市场",
+    "avePrice": "12805",
+    "age": "2000",
+    "type": "住宅",
+    "count": "716户",
+    "building_count": "10栋",
+    "lh": "23%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

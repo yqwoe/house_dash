@@ -1,0 +1,22 @@
+[
+  {
+    "name": "卫生路35号院",
+    "position": 1,
+    "id": "2510816509",
+    "district": "金水",
+    "comarea": "大石桥",
+    "avePrice": "9413",
+    "age": "1998",
+    "type": "住宅",
+    "count": "212户",
+    "building_count": "4栋",
+    "lh": "15%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上停车位",
+    "tcw": null,
+    "company": null
+  }
+]

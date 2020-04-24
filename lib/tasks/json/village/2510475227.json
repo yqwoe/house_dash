@@ -1,0 +1,22 @@
+[
+  {
+    "name": "外商公寓",
+    "position": 1,
+    "id": "2510475227",
+    "district": "金水",
+    "comarea": "枣庄",
+    "avePrice": "12543",
+    "age": "2001",
+    "type": "住宅",
+    "count": "464户",
+    "building_count": "11栋",
+    "lh": "22%",
+    "rj": "2.05",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.6 元/平米/月",
+    "wy": "本小区有60个停车位",
+    "tcw": null,
+    "company": null
+  }
+]

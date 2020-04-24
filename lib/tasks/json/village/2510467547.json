@@ -1,0 +1,22 @@
+[
+  {
+    "name": "城东南路128号院",
+    "position": 1,
+    "id": "2510467547",
+    "district": "管城",
+    "comarea": "二里岗",
+    "avePrice": "12516",
+    "age": "1991",
+    "type": "住宅",
+    "count": "48户",
+    "building_count": "1栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "管城二里岗",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

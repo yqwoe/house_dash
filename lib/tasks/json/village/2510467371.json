@@ -1,0 +1,42 @@
+[
+  {
+    "name": "农业局家属院",
+    "position": 1,
+    "id": "2510467371",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "17646",
+    "age": "1996",
+    "type": "住宅",
+    "count": "70户",
+    "building_count": "2栋",
+    "lh": "34%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "农业局家属院",
+    "position": 2,
+    "id": "2510467371",
+    "district": "中原",
+    "comarea": "儿童公园",
+    "avePrice": "17646",
+    "age": "1996",
+    "type": "住宅",
+    "count": "70户",
+    "building_count": "2栋",
+    "lh": "34%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.32 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

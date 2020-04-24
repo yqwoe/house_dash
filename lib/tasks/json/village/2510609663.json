@@ -1,0 +1,22 @@
+[
+  {
+    "name": "金水商业银行家属院",
+    "position": 1,
+    "id": "2510609663",
+    "district": "金水",
+    "comarea": "枣庄",
+    "avePrice": "11381",
+    "age": "2000",
+    "type": "住宅",
+    "count": "96户",
+    "building_count": "2栋",
+    "lh": "30%",
+    "rj": "1.30",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

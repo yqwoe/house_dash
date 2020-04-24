@@ -1,0 +1,22 @@
+[
+  {
+    "name": "开平小区",
+    "position": 1,
+    "id": "2510729261",
+    "district": "郑东新区",
+    "comarea": "CBD",
+    "avePrice": "36272",
+    "age": "2012",
+    "type": "住宅",
+    "count": "292户",
+    "building_count": "8栋",
+    "lh": "35%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "1.3 元/平米/月",
+    "wy": "本小区有660个停车位",
+    "tcw": null,
+    "company": null
+  }
+]

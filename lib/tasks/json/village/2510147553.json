@@ -1,0 +1,42 @@
+[
+  {
+    "name": "电厂路1号院",
+    "position": 1,
+    "id": "2510147553",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "13427",
+    "age": "1990",
+    "type": "住宅",
+    "count": "14户",
+    "building_count": "1栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原五龙口",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "电厂路1号院",
+    "position": 2,
+    "id": "2510147553",
+    "district": "中原",
+    "comarea": "五龙口",
+    "avePrice": "13427",
+    "age": "1990",
+    "type": "住宅",
+    "count": "14户",
+    "building_count": "1栋",
+    "lh": "0.00",
+    "rj": null,
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "中原五龙口",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

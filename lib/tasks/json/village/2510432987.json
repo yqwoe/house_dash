@@ -1,0 +1,22 @@
+[
+  {
+    "name": "伊河园",
+    "position": 1,
+    "id": "2510432987",
+    "district": "中原",
+    "comarea": "郑州一中",
+    "avePrice": "11449",
+    "age": "2000",
+    "type": "住宅",
+    "count": "112户",
+    "building_count": "3栋",
+    "lh": "28%",
+    "rj": "1.50",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.6 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

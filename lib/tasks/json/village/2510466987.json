@@ -1,0 +1,22 @@
+[
+  {
+    "name": "省交通规划勘察设计院家属院",
+    "position": 1,
+    "id": "2510466987",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "11544",
+    "age": "1998",
+    "type": "住宅",
+    "count": "140户",
+    "building_count": "4栋",
+    "lh": "35%",
+    "rj": "1.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

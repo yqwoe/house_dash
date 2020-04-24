@@ -1,0 +1,22 @@
+[
+  {
+    "name": "前进路26号院",
+    "position": 1,
+    "id": "2510467403",
+    "district": "中原",
+    "comarea": "五一公园",
+    "avePrice": "11964",
+    "age": "1993",
+    "type": "住宅",
+    "count": "78户",
+    "building_count": "3栋",
+    "lh": "15%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

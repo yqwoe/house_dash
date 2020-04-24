@@ -1,0 +1,22 @@
+[
+  {
+    "name": "文化宫路18号院",
+    "position": 1,
+    "id": "2510468841",
+    "district": "中原",
+    "comarea": "凯旋门",
+    "avePrice": "18048",
+    "age": "1983",
+    "type": "住宅",
+    "count": "35%",
+    "building_count": "1.00",
+    "lh": null,
+    "rj": null,
+    "desc": "中原凯旋门",
+    "building_type": "地上车位",
+    "wy_price": null,
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

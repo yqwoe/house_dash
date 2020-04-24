@@ -1,0 +1,22 @@
+[
+  {
+    "name": "沁园馨城",
+    "position": 1,
+    "id": "2510790351",
+    "district": "中牟",
+    "comarea": "中牟",
+    "avePrice": "9181",
+    "age": "2011",
+    "type": "住宅",
+    "count": "42户",
+    "building_count": "2栋",
+    "lh": "37%",
+    "rj": "2.15",
+    "desc": "50年",
+    "building_type": "板楼",
+    "wy_price": "0.9 元/平米/月",
+    "wy": "500",
+    "tcw": null,
+    "company": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "兴商公寓",
+    "position": 1,
+    "id": "2510434265",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "12624",
+    "age": "2000",
+    "type": "住宅",
+    "count": "216户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "2.50",
+    "desc": "大产权",
+    "building_type": "塔楼",
+    "wy_price": "1.05 元/平米/月",
+    "wy": "兴商物业",
+    "tcw": "地上地下车位",
+    "company": null
+  }
+]

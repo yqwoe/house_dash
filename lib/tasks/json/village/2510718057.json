@@ -1,0 +1,22 @@
+[
+  {
+    "name": "华健公寓",
+    "position": 1,
+    "id": "2510718057",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "12516",
+    "age": "2009",
+    "type": "住宅",
+    "count": "124户",
+    "building_count": "1栋",
+    "lh": "29%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "0.38 元/平米/月",
+    "wy": "地上和地下停车位",
+    "tcw": null,
+    "company": null
+  }
+]

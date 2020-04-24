@@ -1,0 +1,22 @@
+[
+  {
+    "name": "同乐路小区",
+    "position": 1,
+    "id": "2510514143",
+    "district": "金水",
+    "comarea": "大石桥",
+    "avePrice": "11230",
+    "age": "1996",
+    "type": "住宅",
+    "count": "120户",
+    "building_count": "2栋",
+    "lh": "35%",
+    "rj": "1.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "社区居委会",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

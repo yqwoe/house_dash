@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中央名邸",
+    "position": 1,
+    "id": "2510788133",
+    "district": "上街",
+    "comarea": "上街",
+    "avePrice": "5398",
+    "age": "2014",
+    "type": "住宅",
+    "count": "0.00",
+    "building_count": null,
+    "lh": null,
+    "rj": null,
+    "desc": "商品房",
+    "building_type": "塔楼",
+    "wy_price": "上街上街",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

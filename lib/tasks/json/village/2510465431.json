@@ -1,0 +1,22 @@
+[
+  {
+    "name": "运输公司家属院",
+    "position": 1,
+    "id": "2510465431",
+    "district": "惠济",
+    "comarea": "刘寨",
+    "avePrice": "13440",
+    "age": "1997",
+    "type": "住宅",
+    "count": "108户",
+    "building_count": "2栋",
+    "lh": "32%",
+    "rj": "1.60",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.42 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

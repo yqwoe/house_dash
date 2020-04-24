@@ -1,0 +1,22 @@
+[
+  {
+    "name": "新圃西街1号院",
+    "position": 1,
+    "id": "2510809863",
+    "district": "二七",
+    "comarea": "鞋城",
+    "avePrice": "10363",
+    "age": "2000",
+    "type": "住宅",
+    "count": "616户",
+    "building_count": "13栋",
+    "lh": "15%",
+    "rj": "0.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "二七鞋城",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

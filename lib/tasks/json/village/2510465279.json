@@ -1,0 +1,22 @@
+[
+  {
+    "name": "中华园",
+    "position": 1,
+    "id": "2510465279",
+    "district": "惠济",
+    "comarea": "刘寨",
+    "avePrice": "12105",
+    "age": "2000",
+    "type": "住宅",
+    "count": "376户",
+    "building_count": "9栋",
+    "lh": "25%",
+    "rj": "2.10",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "中华园物业",
+    "tcw": "地上地下车位",
+    "company": "郑州中华园置业"
+  }
+]

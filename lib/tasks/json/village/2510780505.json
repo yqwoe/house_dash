@@ -1,0 +1,22 @@
+[
+  {
+    "name": "龙湖学府花园",
+    "position": 1,
+    "id": "2510780505",
+    "district": "新郑",
+    "comarea": "新郑",
+    "avePrice": "10520",
+    "age": "2007",
+    "type": "住宅",
+    "count": "14户",
+    "building_count": "1栋",
+    "lh": "35%",
+    "rj": "1.19",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "新郑新郑",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]

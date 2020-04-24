@@ -1,0 +1,22 @@
+[
+  {
+    "name": "石化路小区",
+    "position": 1,
+    "id": "2510705439",
+    "district": "管城",
+    "comarea": "管南区域",
+    "avePrice": "14316",
+    "age": "1998",
+    "type": "住宅",
+    "count": "32%",
+    "building_count": "2.60",
+    "lh": null,
+    "rj": null,
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.45 元/平米/月",
+    "wy": "地上地下车位",
+    "tcw": null,
+    "company": null
+  }
+]

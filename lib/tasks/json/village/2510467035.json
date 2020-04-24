@@ -1,0 +1,22 @@
+[
+  {
+    "name": "省安全厅家属院",
+    "position": 1,
+    "id": "2510467035",
+    "district": "金水",
+    "comarea": "燕庄",
+    "avePrice": "14501",
+    "age": "2001",
+    "type": "住宅",
+    "count": "14户",
+    "building_count": "1栋",
+    "lh": "15%",
+    "rj": "2.10",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "0.3 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

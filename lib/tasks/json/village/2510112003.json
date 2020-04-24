@@ -1,0 +1,42 @@
+[
+  {
+    "name": "仟禧37°",
+    "position": 1,
+    "id": "2510112003",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "12938",
+    "age": "2005",
+    "type": "住宅",
+    "count": "110户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "1.50",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  },
+  {
+    "name": "仟禧37°",
+    "position": 2,
+    "id": "2510112003",
+    "district": "中原",
+    "comarea": "电力新村",
+    "avePrice": "12938",
+    "age": "2005",
+    "type": "住宅",
+    "count": "110户",
+    "building_count": "3栋",
+    "lh": "35%",
+    "rj": "1.50",
+    "desc": "70年",
+    "building_type": "塔楼",
+    "wy_price": "1.1 元/平米/月",
+    "wy": "地上车位",
+    "tcw": null,
+    "company": null
+  }
+]

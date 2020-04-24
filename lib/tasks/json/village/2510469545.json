@@ -1,0 +1,22 @@
+[
+  {
+    "name": "豫丰小区",
+    "position": 1,
+    "id": "2510469545",
+    "district": "管城",
+    "comarea": "陇海汽车站",
+    "avePrice": "9809",
+    "age": "1995",
+    "type": "住宅",
+    "count": "1857户",
+    "building_count": "48栋",
+    "lh": "29%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "板楼",
+    "wy_price": "0.5 元/平米/月",
+    "wy": "河南忠实物业管理部",
+    "tcw": "地上停车位",
+    "company": null
+  }
+]

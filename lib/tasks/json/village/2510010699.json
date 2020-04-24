@@ -1,0 +1,42 @@
+[
+  {
+    "name": "长城花苑",
+    "position": 1,
+    "id": "2510010699",
+    "district": "中原",
+    "comarea": "碧沙岗",
+    "avePrice": "11874",
+    "age": "2002",
+    "type": "住宅",
+    "count": "120户",
+    "building_count": "1栋",
+    "lh": "36%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "1.2 元/平米/月",
+    "wy": "长城物业有限公司",
+    "tcw": "本小区有60个停车位",
+    "company": "郑州长城房地产有限公司"
+  },
+  {
+    "name": "长城花苑",
+    "position": 2,
+    "id": "2510010699",
+    "district": "中原",
+    "comarea": "碧沙岗",
+    "avePrice": "11874",
+    "age": "2002",
+    "type": "住宅",
+    "count": "120户",
+    "building_count": "1栋",
+    "lh": "36%",
+    "rj": "2.00",
+    "desc": "70年产权",
+    "building_type": "塔楼",
+    "wy_price": "1.2 元/平米/月",
+    "wy": "长城物业有限公司",
+    "tcw": "本小区有60个停车位",
+    "company": "郑州长城房地产有限公司"
+  }
+]

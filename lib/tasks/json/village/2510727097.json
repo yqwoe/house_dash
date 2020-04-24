@@ -1,0 +1,22 @@
+[
+  {
+    "name": "管城公路局家属院",
+    "position": 1,
+    "id": "2510727097",
+    "district": "管城",
+    "comarea": "凤凰路",
+    "avePrice": "15166",
+    "age": "1995",
+    "type": "住宅",
+    "count": "48户",
+    "building_count": "3栋",
+    "lh": "10%",
+    "rj": "2.00",
+    "desc": "70年",
+    "building_type": "板楼",
+    "wy_price": "管城凤凰路",
+    "wy": null,
+    "tcw": null,
+    "company": null
+  }
+]
