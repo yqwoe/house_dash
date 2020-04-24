@@ -86,10 +86,8 @@ namespace :puma do
 
     task :build_react do
       on roles(:app) do
-        within release_path do
-          sh "cd house_dashboard && yarn build"
-          sh "cp ./dist ../public/"
-        end
+        execute " cd #{current_path}/house_dashboard && /usr/bin/yarn build"
+          execute " cp ./dist ../public/"
       end
     end
   
@@ -110,7 +108,7 @@ namespace :puma do
   
     before :starting,     :check_revision
 
-    before :starting,     :build_react
+    after :finishing,     :build_react
     after  :finishing,    :cleanup
     after  :finishing,    :restart
   end

@@ -1,14 +1,35 @@
 [
   {
     "id": "2510473437",
-    "area": "78.2",
+    "area": "95.32",
     "feature": "满五",
-    "title": "养老一楼，单价一万，精装修，上南阳路2小，首付19万",
+    "title": "均价9000，农业路丰乐路，精装小3房，南北通透，拎包入住，急售",
     "xiaoqu_": "丰乐路23号院",
-    "room": "2室2厅",
-    "total_price": "78",
-    "url": "http://m.fang.com/esf/zz/JHAGT_180755196_17547615x2510473437_163498804.html",
-    "price": "9974元/㎡ ",
+    "room": "3室1厅",
+    "total_price": "92",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180874125_17672255x2510473437_165771754.html",
+    "price": "9652元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "砖混",
+    "chaoxiang": "南",
+    "zhuangxiu": "简装修",
+    "age": "有",
+    "quyu": "1998",
+    "": "金水-水上乐园",
+    "shoufu": "",
+    "xiaoqu": "丰乐路23号院",
+    "position": 1
+  },
+  {
+    "id": "2510473437",
+    "area": "112.2",
+    "feature": "满五",
+    "title": "急售！单价9000，首付12万精装3楼3房，三卧南，全明通透",
+    "xiaoqu_": "丰乐路23号院",
+    "room": "3室2厅",
+    "total_price": "103",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180853854_17655321x2510473437_163498804.html",
+    "price": "9180元/㎡ ",
     "louceng": "低层/7层",
     "louxing": "南北",
     "chaoxiang": "精装修",
@@ -16,6 +37,6 @@
     "age": "金水-水上乐园",
     "shoufu": "",
     "xiaoqu": "丰乐路23号院",
-    "position": 1
+    "position": 2
   }
 ]
