@@ -87,7 +87,7 @@ namespace :puma do
     task :build_react do
       on roles(:app) do
         within release_path do
-          sh "cd house_dash && yarn build"
+          sh "cd house_dashboard && yarn build"
           sh "cp ./dist ../public/"
         end
       end
