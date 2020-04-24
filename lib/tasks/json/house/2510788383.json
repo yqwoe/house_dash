@@ -1,31 +1,13 @@
 [
   {
     "id": "2510788383",
-    "area": "301",
-    "feature": "满五",
-    "title": "联排别墅，中间户，前后带花园，上下带阁楼地下室",
-    "xiaoqu_": "伍号院别墅",
-    "room": "5室3厅",
-    "total_price": "900",
-    "price": "29900元/㎡ ",
-    "louceng": "低层/3层",
-    "louxing": "独栋",
-    "chaoxiang": "南",
-    "zhuangxiu": "精装修",
-    "age": "2015",
-    "quyu": "二七-万客来",
-    "shoufu": "约391.8万，月供29577元",
-    "xiaoqu": "伍号院别墅",
-    "position": 1
-  },
-  {
-    "id": "2510788383",
     "area": "306",
     "feature": "满五",
     "title": "南三环 橄榄城五号院 全新联排别墅 南北花园 双车位",
     "xiaoqu_": "伍号院别墅",
     "room": "5室3厅",
     "total_price": "1200",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180868252_17558144x2510788383_166014152.html",
     "price": "39216元/㎡ ",
     "louceng": "低层/3层",
     "louxing": "独栋",
@@ -33,9 +15,9 @@
     "zhuangxiu": "毛坯",
     "age": "2014",
     "quyu": "二七-万客来",
-    "shoufu": "约522.4万，月供39437元",
+    "shoufu": "",
     "xiaoqu": "伍号院别墅",
-    "position": 2
+    "position": 1
   },
   {
     "id": "2510788383",
@@ -45,6 +27,7 @@
     "xiaoqu_": "伍号院别墅",
     "room": "5室3厅",
     "total_price": "1300",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180843279_17558151x2510788383_165735832.html",
     "price": "43333元/㎡ ",
     "louceng": "低层/4层",
     "louxing": "独栋",
@@ -52,8 +35,8 @@
     "zhuangxiu": "简装修",
     "age": "2015",
     "quyu": "二七-万客来",
-    "shoufu": "约566万，月供42723元",
+    "shoufu": "",
     "xiaoqu": "伍号院别墅",
-    "position": 3
+    "position": 2
   }
 ]

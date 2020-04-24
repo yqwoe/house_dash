@@ -7,6 +7,7 @@
     "xiaoqu_": "清清佳苑",
     "room": "1室1厅",
     "total_price": "65",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180669943_17424509x2510042955_163498344.html",
     "price": "12500元/㎡ ",
     "louceng": "低层/16层",
     "louxing": "板楼",
@@ -15,29 +16,9 @@
     "age": "有",
     "quyu": "有",
     "": "金水-徐寨",
-    "shoufu": "约29万，月供2087元",
+    "shoufu": "",
     "xiaoqu": "清清佳苑",
     "position": 1
-  },
-  {
-    "id": "2510042955",
-    "area": "62.3",
-    "feature": "满五",
-    "title": "清清佳苑 满五不，两居室，采光好，价格低",
-    "xiaoqu_": "清清佳苑",
-    "room": "2室1厅",
-    "total_price": "68",
-    "price": "10915元/㎡ ",
-    "louceng": "高层/16层",
-    "louxing": "板楼",
-    "chaoxiang": "北",
-    "zhuangxiu": "简装修",
-    "age": "有",
-    "quyu": "有",
-    "": "金水-徐寨",
-    "shoufu": "约30.1万，月供2191元",
-    "xiaoqu": "清清佳苑",
-    "position": 2
   },
   {
     "id": "2510042955",
@@ -47,6 +28,7 @@
     "xiaoqu_": "清清佳苑",
     "room": "1室1厅",
     "total_price": "65",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180669959_17424508x2510042955_163498344.html",
     "price": "12037元/㎡ ",
     "louceng": "高层/16层",
     "louxing": "塔楼",
@@ -55,8 +37,8 @@
     "age": "有",
     "quyu": "有",
     "": "金水-徐寨",
-    "shoufu": "约29万，月供2087元",
+    "shoufu": "",
     "xiaoqu": "清清佳苑",
-    "position": 3
+    "position": 2
   }
 ]

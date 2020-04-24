@@ -1,52 +1,13 @@
 [
   {
     "id": "2510172943",
-    "area": "83.53",
-    "feature": "满五",
-    "title": "纯南双气两室 采光好 3号线 配套完善 低首付",
-    "xiaoqu_": "朝阳御景",
-    "room": "2室1厅",
-    "total_price": "128",
-    "price": "15324元/㎡ ",
-    "louceng": "低层/31层",
-    "louxing": "板楼",
-    "chaoxiang": "南",
-    "zhuangxiu": "简装修",
-    "age": "有",
-    "quyu": "有",
-    "": "管城-凤凰路",
-    "shoufu": "约55.8万，月供4173元",
-    "xiaoqu": "朝阳御景",
-    "position": 1
-  },
-  {
-    "id": "2510172943",
-    "area": "72",
-    "feature": "满五",
-    "title": "货站北街凤凰路，朝阳御景一楼，精装两房，低于市场15万",
-    "xiaoqu_": "朝阳御景",
-    "room": "2室1厅",
-    "total_price": "104",
-    "price": "14444元/㎡ ",
-    "louceng": "低层/31层",
-    "louxing": "塔楼",
-    "chaoxiang": "南",
-    "zhuangxiu": "精装修",
-    "age": "有",
-    "quyu": "2008",
-    "": "管城-凤凰路",
-    "shoufu": "约45.3万，月供3391元",
-    "xiaoqu": "朝阳御景",
-    "position": 2
-  },
-  {
-    "id": "2510172943",
     "area": "85",
     "feature": "满五",
     "title": "货站北街凤凰路，朝南两房，采光好，精装修便宜两房",
     "xiaoqu_": "朝阳御景",
     "room": "2室2厅",
     "total_price": "125",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180791355_17592542x2510172943_166262561.html",
     "price": "14706元/㎡ ",
     "louceng": "低层/22层",
     "louxing": "塔楼",
@@ -55,9 +16,9 @@
     "age": "有",
     "quyu": "2008",
     "": "管城-凤凰路",
-    "shoufu": "约54.6万，月供4069元",
+    "shoufu": "",
     "xiaoqu": "朝阳御景",
-    "position": 3
+    "position": 1
   },
   {
     "id": "2510172943",
@@ -67,6 +28,7 @@
     "xiaoqu_": "朝阳御景",
     "room": "3室1厅",
     "total_price": "160",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180791425_17592684x2510172943_166262561.html",
     "price": "16667元/㎡ ",
     "louceng": "高层/31层",
     "louxing": "塔楼",
@@ -75,8 +37,8 @@
     "age": "有",
     "quyu": "2008",
     "": "管城-凤凰路",
-    "shoufu": "约70.5万，月供5216元",
+    "shoufu": "",
     "xiaoqu": "朝阳御景",
-    "position": 4
+    "position": 2
   }
 ]

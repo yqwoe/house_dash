@@ -7,6 +7,7 @@
     "xiaoqu_": "淮南街小区",
     "room": "3室2厅",
     "total_price": "175",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180283567_17192690x2510471481_165136620.html",
     "price": "12967元/㎡ ",
     "louceng": "中层/7层",
     "louxing": "南北",
@@ -18,5 +19,26 @@
     "shoufu": "约92.4万，月供4903元",
     "xiaoqu": "淮南街小区",
     "position": 1
+  },
+  {
+    "id": "2510471481",
+    "area": "134",
+    "feature": "满五",
+    "title": "二七公安分局家属院 急卖161万急卖 便宜10万 客厅南 两卧南",
+    "xiaoqu_": "淮南街四号院",
+    "room": "3室2厅",
+    "total_price": "169",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180829043_17635388x2510471481_160609054.html",
+    "price": "12612元/㎡ ",
+    "louceng": "低层/7层",
+    "louxing": "砖混",
+    "chaoxiang": "南北",
+    "zhuangxiu": "中装修",
+    "age": "有",
+    "quyu": "1999",
+    "": "二七-古玩城",
+    "shoufu": "约89万，月供4747元",
+    "xiaoqu": "淮南街四号院",
+    "position": 2
   }
 ]

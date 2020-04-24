@@ -7,6 +7,7 @@
     "xiaoqu_": "红专路124号",
     "room": "3室2厅",
     "total_price": "168",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180810383_16851850x2510487347_164663682.html",
     "price": "11507元/㎡ ",
     "louceng": "高层/7层",
     "louxing": "板楼",
@@ -20,32 +21,13 @@
   },
   {
     "id": "2510487347",
-    "area": "104",
-    "feature": "满五",
-    "title": "疫情无情人有情，买个房有个自己的家，让我们共抗疫情中国加油！",
-    "xiaoqu_": "服装公司家属院",
-    "room": "3室2厅",
-    "total_price": "114",
-    "price": "10962元/㎡ ",
-    "louceng": "高层/7层",
-    "louxing": "板楼",
-    "chaoxiang": "南北",
-    "zhuangxiu": "精装修",
-    "age": "有",
-    "quyu": "有",
-    "": "金水-财富广场",
-    "shoufu": "约60.5万，月供3182元",
-    "xiaoqu": "服装公司家属院",
-    "position": 2
-  },
-  {
-    "id": "2510487347",
     "area": "126",
     "feature": "满五",
     "title": "省医附近，东明路红专路附近，单位家属院，免费停车，看房随时",
     "xiaoqu_": "红专路124号",
     "room": "3室2厅",
     "total_price": "148",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180810230_15605634x2510487347_164663682.html",
     "price": "11746元/㎡ ",
     "louceng": "高层/7层",
     "louxing": "板楼",
@@ -55,7 +37,7 @@
     "quyu": "金水-财富广场",
     "shoufu": "约78.7万，月供4121元",
     "xiaoqu": "红专路124号",
-    "position": 3
+    "position": 2
   },
   {
     "id": "2510487347",
@@ -65,6 +47,7 @@
     "xiaoqu_": "服装公司家属院",
     "room": "3室2厅",
     "total_price": "114",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180879180_17376717x2510487347_166799959.html",
     "price": "11400元/㎡ ",
     "louceng": "低层/7层",
     "louxing": "南北",
@@ -73,6 +56,6 @@
     "age": "金水-财富广场",
     "shoufu": "约60.5万，月供3182元",
     "xiaoqu": "服装公司家属院",
-    "position": 4
+    "position": 3
   }
 ]

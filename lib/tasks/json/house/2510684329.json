@@ -1,32 +1,13 @@
 [
   {
     "id": "2510684329",
-    "area": "188",
-    "feature": "",
-    "title": "特区错层大四房 户型漂亮 观景房 急变现 契税1.5",
-    "xiaoqu_": "中央特区万禧苑",
-    "room": "3室3厅",
-    "total_price": "420",
-    "price": "22340元/㎡ ",
-    "louceng": "高层/11层",
-    "louxing": "板楼",
-    "chaoxiang": "南北",
-    "zhuangxiu": "精装修",
-    "age": "有",
-    "quyu": "有",
-    "": "郑东新区-黄河南路",
-    "shoufu": "约183.5万，月供13771元",
-    "xiaoqu": "中央特区万禧苑",
-    "position": 1
-  },
-  {
-    "id": "2510684329",
     "area": "175",
     "feature": "满二",
     "title": "特区万禧苑 大四房 带入户花园 自住精装修",
     "xiaoqu_": "中央特区万禧苑",
     "room": "4室2厅",
     "total_price": "460",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180878493_16824500x2510684329_163854005.html",
     "price": "26286元/㎡ ",
     "louceng": "低层/18层",
     "louxing": "板楼",
@@ -35,27 +16,8 @@
     "age": "有",
     "quyu": "2006",
     "": "郑东新区-黄河南路",
-    "shoufu": "约201.1万，月供15076元",
+    "shoufu": "",
     "xiaoqu": "中央特区万禧苑",
-    "position": 2
-  },
-  {
-    "id": "2510684329",
-    "area": "140",
-    "feature": "满二",
-    "title": "特区万禧苑 精装刷卡入户三房 满五年 低于市场价 可随时看房",
-    "xiaoqu_": "中央特区万禧苑",
-    "room": "3室2厅",
-    "total_price": "330",
-    "price": "23571元/㎡ ",
-    "louceng": "中层/11层",
-    "louxing": "板楼",
-    "chaoxiang": "南北",
-    "zhuangxiu": "中装修",
-    "age": "2006",
-    "quyu": "郑东新区-黄河南路",
-    "shoufu": "约144.6万，月供10798元",
-    "xiaoqu": "中央特区万禧苑",
-    "position": 3
+    "position": 1
   }
 ]

@@ -7,6 +7,7 @@
     "xiaoqu_": "歌舞剧院家属院",
     "room": "3室1厅",
     "total_price": "138",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180811156_17618497x2510468269_166262561.html",
     "price": "14526元/㎡ ",
     "louceng": "低层/7层",
     "louxing": "板楼",
@@ -14,8 +15,29 @@
     "zhuangxiu": "简装修",
     "age": "1996",
     "quyu": "金水-紫荆山",
-    "shoufu": "约73万，月供3860元",
+    "shoufu": "",
     "xiaoqu": "歌舞剧院家属院",
     "position": 1
+  },
+  {
+    "id": "2510468269",
+    "area": "100",
+    "feature": "满五",
+    "title": "紫荆山路城北路！歌舞剧院家属院！边户精装，小区能停车！",
+    "xiaoqu_": "歌舞剧院家属院",
+    "room": "3室2厅",
+    "total_price": "120",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180813334_17538485x2510468269_162240837.html",
+    "price": "12000元/㎡ ",
+    "louceng": "低层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "精装修",
+    "age": "有",
+    "quyu": "1998",
+    "": "金水-紫荆山",
+    "shoufu": "",
+    "xiaoqu": "歌舞剧院家属院",
+    "position": 2
   }
 ]

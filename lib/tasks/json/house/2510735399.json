@@ -7,6 +7,7 @@
     "xiaoqu_": "银河丹堤别墅",
     "room": "4室2厅",
     "total_price": "950",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180844746_17536390x2510735399_166267126.html",
     "price": "49882元/㎡ ",
     "louceng": "低层/8层",
     "louxing": "独栋",
@@ -14,8 +15,28 @@
     "zhuangxiu": "毛坯",
     "age": "2012",
     "quyu": "郑东新区-CBD",
-    "shoufu": "约414.1万，月供31195元",
+    "shoufu": "",
     "xiaoqu": "银河丹堤别墅",
     "position": 1
+  },
+  {
+    "id": "2510735399",
+    "area": "196",
+    "feature": "满五",
+    "title": "银河丹堤 花园社区 临河观景 精装修 78楼送9楼",
+    "xiaoqu_": "银河丹堤别墅",
+    "room": "4室2厅",
+    "total_price": "880",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180888091_16589309x2510735399_166529981.html",
+    "price": "44898元/㎡ ",
+    "louceng": "低层/8层",
+    "louxing": "独栋",
+    "chaoxiang": "南",
+    "zhuangxiu": "精装修",
+    "age": "2011",
+    "quyu": "郑东新区-CBD",
+    "shoufu": "",
+    "xiaoqu": "银河丹堤别墅",
+    "position": 2
   }
 ]

@@ -7,6 +7,7 @@
     "xiaoqu_": "民航新村",
     "room": "3室1厅",
     "total_price": "145",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180873704_15476452x2510430877_166068645.html",
     "price": "15934元/㎡ ",
     "louceng": "高层/7层",
     "louxing": "板楼",
@@ -26,6 +27,7 @@
     "xiaoqu_": "民航新村",
     "room": "3室2厅",
     "total_price": "161",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180785206_16985858x2510430877_166628005.html",
     "price": "17889元/㎡ ",
     "louceng": "高层/6层",
     "louxing": "板楼",
@@ -45,6 +47,7 @@
     "xiaoqu_": "民航新村",
     "room": "3室2厅",
     "total_price": "160",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180810246_17170121x2510430877_164663682.html",
     "price": "16842元/㎡ ",
     "louceng": "高层/6层",
     "louxing": "板楼",
@@ -58,12 +61,33 @@
   },
   {
     "id": "2510430877",
+    "area": "93",
+    "feature": "",
+    "title": "东明路丰产路，单位家属院，精装双气小区，停车方便，看房随时！",
+    "xiaoqu_": "民航新村",
+    "room": "3室2厅",
+    "total_price": "176",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180790310_17242077x2510430877_164663682.html",
+    "price": "18925元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南",
+    "zhuangxiu": "精装修",
+    "age": "2014",
+    "quyu": "金水-财富广场",
+    "shoufu": "约77.5万，月供5738元",
+    "xiaoqu": "民航新村",
+    "position": 4
+  },
+  {
+    "id": "2510430877",
     "area": "94",
     "feature": "满五",
     "title": "必看好房 品质小区 双气 民航家属院 多层一楼三室 诚心出售",
     "xiaoqu_": "民航新村",
     "room": "3室2厅",
     "total_price": "165",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180838474_16026931x2510430877_166818273.html",
     "price": "17553元/㎡ ",
     "louceng": "低层/6层",
     "louxing": "板楼",
@@ -73,7 +97,7 @@
     "quyu": "金水-财富广场",
     "shoufu": "约72.8万，月供5373元",
     "xiaoqu": "民航新村",
-    "position": 4
+    "position": 5
   },
   {
     "id": "2510430877",
@@ -83,6 +107,7 @@
     "xiaoqu_": "民航新村",
     "room": "3室2厅",
     "total_price": "155",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180847699_17044984x2510430877_166818021.html",
     "price": "17222元/㎡ ",
     "louceng": "中层/7层",
     "louxing": "板楼",
@@ -92,7 +117,7 @@
     "quyu": "金水-财富广场",
     "shoufu": "约68.1万，月供5060元",
     "xiaoqu": "民航新村",
-    "position": 5
+    "position": 6
   },
   {
     "id": "2510430877",
@@ -102,6 +127,7 @@
     "xiaoqu_": "民航新村",
     "room": "3室2厅",
     "total_price": "190",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180832394_17536561x2510430877_166376565.html",
     "price": "17593元/㎡ ",
     "louceng": "中层/6层",
     "louxing": "板楼",
@@ -112,7 +138,7 @@
     "": "金水-财富广场",
     "shoufu": "约83.4万，月供6208元",
     "xiaoqu": "民航新村",
-    "position": 6
+    "position": 7
   },
   {
     "id": "2510430877",
@@ -122,6 +148,7 @@
     "xiaoqu_": "民航新村",
     "room": "3室2厅",
     "total_price": "145",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180835555_17300089x2510430877_166818021.html",
     "price": "15591元/㎡ ",
     "louceng": "高层/7层",
     "louxing": "板楼",
@@ -131,6 +158,6 @@
     "quyu": "金水-财富广场",
     "shoufu": "约63.5万，月供4747元",
     "xiaoqu": "民航新村",
-    "position": 7
+    "position": 8
   }
 ]

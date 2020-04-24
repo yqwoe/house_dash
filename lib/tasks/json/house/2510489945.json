@@ -1,32 +1,13 @@
 [
   {
     "id": "2510489945",
-    "area": "110",
-    "feature": "满五",
-    "title": "淮河路淮南街二七分局家属院双气精装阔气大两房上政通路--小-",
-    "xiaoqu_": "淮南街6号院",
-    "room": "2室2厅",
-    "total_price": "152",
-    "price": "13818元/㎡ ",
-    "louceng": "中层/7层",
-    "louxing": "板楼",
-    "chaoxiang": "南北",
-    "zhuangxiu": "豪华装修",
-    "age": "有",
-    "quyu": "有",
-    "": "二七-市财政局",
-    "shoufu": "约79.9万，月供4278元",
-    "xiaoqu": "淮南街6号院",
-    "position": 1
-  },
-  {
-    "id": "2510489945",
     "area": "108",
     "feature": "满五",
     "title": "淮南街二七分局家属院，三楼双气，9米长阳台，全明，我有钥匙",
     "xiaoqu_": "二七公安局家属院",
     "room": "3室2厅",
     "total_price": "133",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180794560_17210753x2510489945_165307257.html",
     "price": "12315元/㎡ ",
     "louceng": "中层/7层",
     "louxing": "板楼",
@@ -36,7 +17,7 @@
     "quyu": "二七-市财政局",
     "shoufu": "约58.7万，月供4330元",
     "xiaoqu": "二七公安局家属院",
-    "position": 2
+    "position": 1
   },
   {
     "id": "2510489945",
@@ -46,6 +27,7 @@
     "xiaoqu_": "二七公安局家属院",
     "room": "3室2厅",
     "total_price": "140",
+    "url": "http://m.fang.com/esf/zz/JHAGT_179244097_17181254x2510489945_133072860.html",
     "price": "13084元/㎡ ",
     "louceng": "中层/7层",
     "louxing": "板楼",
@@ -56,26 +38,7 @@
     "": "二七-市财政局",
     "shoufu": "约74.2万，月供3912元",
     "xiaoqu": "二七公安局家属院",
-    "position": 3
-  },
-  {
-    "id": "2510489945",
-    "area": "134",
-    "feature": "满五",
-    "title": "单位家属院双气3楼免物业管费免费停车客厅南户型特好",
-    "xiaoqu_": "二七公安局家属院",
-    "room": "3室2厅",
-    "total_price": "166",
-    "price": "12388元/㎡ ",
-    "louceng": "低层/7层",
-    "louxing": "南北",
-    "chaoxiang": "中装修",
-    "zhuangxiu": "有",
-    "age": "2000",
-    "quyu": "二七-市财政局",
-    "shoufu": "约72.8万，月供5425元",
-    "xiaoqu": "二七公安局家属院",
-    "position": 4
+    "position": 2
   },
   {
     "id": "2510489945",
@@ -85,6 +48,7 @@
     "xiaoqu_": "二七公安局家属院",
     "room": "3室1厅",
     "total_price": "158",
+    "url": "http://m.fang.com/esf/zz/JHAGT_179807622_15860516x2510489945_164767505.html",
     "price": "12154元/㎡ ",
     "louceng": "高层/7层",
     "louxing": "南北",
@@ -94,7 +58,28 @@
     "quyu": "二七-市财政局",
     "shoufu": "约83.3万，月供4434元",
     "xiaoqu": "二七公安局家属院",
-    "position": 5
+    "position": 3
+  },
+  {
+    "id": "2510489945",
+    "area": "110",
+    "feature": "满五",
+    "title": "淮河路淮南街二七分局家属院双气精装阔气大两房上政通路--小-",
+    "xiaoqu_": "淮南街6号院",
+    "room": "2室2厅",
+    "total_price": "152",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180872458_17479721x2510489945_166474567.html",
+    "price": "13818元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "豪华装修",
+    "age": "有",
+    "quyu": "有",
+    "": "二七-市财政局",
+    "shoufu": "约79.9万，月供4278元",
+    "xiaoqu": "淮南街6号院",
+    "position": 4
   },
   {
     "id": "2510489945",
@@ -104,6 +89,7 @@
     "xiaoqu_": "淮南街6号院",
     "room": "3室2厅",
     "total_price": "162",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180814190_15122903x2510489945_160609054.html",
     "price": "12090元/㎡ ",
     "louceng": "中层/7层",
     "louxing": "砖混",
@@ -114,6 +100,26 @@
     "": "二七-市财政局",
     "shoufu": "约85.6万，月供4538元",
     "xiaoqu": "淮南街6号院",
+    "position": 5
+  },
+  {
+    "id": "2510489945",
+    "area": "134",
+    "feature": "满五",
+    "title": "单位家属院双气3楼免物业管费免费停车客厅南户型特好",
+    "xiaoqu_": "二七公安局家属院",
+    "room": "3室2厅",
+    "total_price": "166",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180652201_17182696x2510489945_160609054.html",
+    "price": "12388元/㎡ ",
+    "louceng": "低层/7层",
+    "louxing": "南北",
+    "chaoxiang": "中装修",
+    "zhuangxiu": "有",
+    "age": "2000",
+    "quyu": "二七-市财政局",
+    "shoufu": "约72.8万，月供5425元",
+    "xiaoqu": "二七公安局家属院",
     "position": 6
   }
 ]

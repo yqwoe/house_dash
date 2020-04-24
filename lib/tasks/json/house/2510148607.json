@@ -7,6 +7,7 @@
     "xiaoqu_": "铭都国际",
     "room": "1室1厅",
     "total_price": "70",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180812840_17619956x2510148607_166783598.html",
     "price": "17212元/㎡ ",
     "louceng": "高层/25层",
     "louxing": "板楼",
@@ -15,8 +16,29 @@
     "age": "有",
     "quyu": "有",
     "": "二七-火车站",
-    "shoufu": "约30.3万，月供2295元",
+    "shoufu": "",
     "xiaoqu": "铭都国际",
     "position": 1
+  },
+  {
+    "id": "2510148607",
+    "area": "40",
+    "feature": "满五",
+    "title": "万象城旁,地铁口,铭都国际,特价房18起,70年产权住",
+    "xiaoqu_": "铭都国际",
+    "room": "1室1厅",
+    "total_price": "70",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180883437_17678200x2510148607_166791964.html",
+    "price": "17500元/㎡ ",
+    "louceng": "中层/31层",
+    "louxing": "钢混",
+    "chaoxiang": "西南",
+    "zhuangxiu": "精装修",
+    "age": "有",
+    "quyu": "有",
+    "": "二七-火车站",
+    "shoufu": "",
+    "xiaoqu": "铭都国际",
+    "position": 2
   }
 ]

@@ -1,12 +1,33 @@
 [
   {
     "id": "2510777811",
+    "area": "119",
+    "feature": "满五",
+    "title": "铁道天润花园 精装三居 双气房 主卧朝南 低楼层 高得房率",
+    "xiaoqu_": "铁道天润花园",
+    "room": "3室2厅",
+    "total_price": "200",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180683302_17448976x2510777811_166782739.html",
+    "price": "16807元/㎡ ",
+    "louceng": "低层/18层",
+    "louxing": "南北",
+    "chaoxiang": "精装修",
+    "zhuangxiu": "有",
+    "age": "2009",
+    "quyu": "二七-火车站",
+    "shoufu": "",
+    "xiaoqu": "铁道天润花园",
+    "position": 1
+  },
+  {
+    "id": "2510777811",
     "area": "163",
     "feature": "",
     "title": "京广路陇海路 商务区旁 铁道天润花园 双气精装大气四居室",
     "xiaoqu_": "铁道天润花园",
     "room": "4室2厅",
     "total_price": "300",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180683331_17329599x2510777811_166782739.html",
     "price": "18405元/㎡ ",
     "louceng": "中层/18层",
     "louxing": "南北",
@@ -14,8 +35,8 @@
     "zhuangxiu": "有",
     "age": "2009",
     "quyu": "二七-火车站",
-    "shoufu": "约130.6万，月供9859元",
+    "shoufu": "",
     "xiaoqu": "铁道天润花园",
-    "position": 1
+    "position": 2
   }
 ]

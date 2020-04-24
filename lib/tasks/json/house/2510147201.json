@@ -1,12 +1,34 @@
 [
   {
     "id": "2510147201",
+    "area": "42",
+    "feature": "满五",
+    "title": "华尔中心均价为:14500元/平方米",
+    "xiaoqu_": "华尔中心",
+    "room": "2室1厅",
+    "total_price": "80",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180733747_17517342x2510147201_166791964.html",
+    "price": "19048元/㎡ ",
+    "louceng": "中层/34层",
+    "louxing": "钢混",
+    "chaoxiang": "东西",
+    "zhuangxiu": "毛坯",
+    "age": "有",
+    "quyu": "有",
+    "": "金水-金水",
+    "shoufu": "",
+    "xiaoqu": "华尔中心",
+    "position": 1
+  },
+  {
+    "id": "2510147201",
     "area": "47",
     "feature": "满五",
-    "title": "华尔中心项目为郑州广运房地产开发有限公司开发",
+    "title": "2号线旁北龙湖畔精奢公寓原价1.4万特惠1.2万起",
     "xiaoqu_": "华尔中心",
     "room": "1室1厅",
     "total_price": "70",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180788292_17583455x2510147201_166791964.html",
     "price": "14894元/㎡ ",
     "louceng": "高层/31层",
     "louxing": "钢混",
@@ -15,8 +37,8 @@
     "age": "有",
     "quyu": "有",
     "": "金水-金水",
-    "shoufu": "约30.3万，月供2295元",
+    "shoufu": "",
     "xiaoqu": "华尔中心",
-    "position": 1
+    "position": 2
   }
 ]

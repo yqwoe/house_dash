@@ -7,6 +7,7 @@
     "xiaoqu_": "富华新苑",
     "room": "4室2厅",
     "total_price": "195",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180763415_16757366x2510471389_166785857.html",
     "price": "10833元/㎡ ",
     "louceng": "低层/7层",
     "louxing": "板楼",
@@ -14,8 +15,28 @@
     "zhuangxiu": "精装修",
     "age": "2004",
     "quyu": "二七-老航院",
-    "shoufu": "约85.7万，月供6364元",
+    "shoufu": "",
     "xiaoqu": "富华新苑",
     "position": 1
+  },
+  {
+    "id": "2510471389",
+    "area": "139",
+    "feature": "满五",
+    "title": "二七万达地铁口旁 富华新苑 精装三房 好楼层 单价低 可停车",
+    "xiaoqu_": "富华新苑",
+    "room": "3室2厅",
+    "total_price": "136",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180761463_16794275x2510471389_166785857.html",
+    "price": "9784元/㎡ ",
+    "louceng": "中层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "精装修",
+    "age": "2003",
+    "quyu": "二七-老航院",
+    "shoufu": "",
+    "xiaoqu": "富华新苑",
+    "position": 2
   }
 ]

@@ -7,6 +7,7 @@
     "xiaoqu_": "万向湖畔晓风",
     "room": "3室2厅",
     "total_price": "230",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180851907_17271580x2510148107_162948442.html",
     "price": "16197元/㎡ ",
     "louceng": "中层/26层",
     "louxing": "板楼",
@@ -15,8 +16,27 @@
     "age": "有",
     "quyu": "2015",
     "": "郑东新区-龙子湖",
-    "shoufu": "约101万，月供7512元",
+    "shoufu": "",
     "xiaoqu": "万向湖畔晓风",
     "position": 1
+  },
+  {
+    "id": "2510148107",
+    "area": "135",
+    "feature": "满二",
+    "title": "万向湖畔晓风，单价13000一平，直接更名，可以贷款，急售",
+    "xiaoqu_": "万向湖畔晓风",
+    "room": "3室2厅",
+    "total_price": "190",
+    "url": "http://m.fang.com/esf/zz/JHAGT_178828228_17108255x2510148107_163682454.html",
+    "price": "14074元/㎡ ",
+    "louceng": "中层/25层",
+    "louxing": "平房",
+    "chaoxiang": "南北",
+    "zhuangxiu": "毛坯",
+    "age": "郑东新区-龙子湖",
+    "shoufu": "万向湖畔晓风",
+    "xiaoqu": null,
+    "position": 2
   }
 ]

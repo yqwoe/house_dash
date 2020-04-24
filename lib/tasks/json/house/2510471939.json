@@ -7,6 +7,7 @@
     "xiaoqu_": "二七铁路局家属院",
     "room": "2室2厅",
     "total_price": "155",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180694222_17466337x2510471939_166782739.html",
     "price": "15500元/㎡ ",
     "louceng": "中层/17层",
     "louxing": "南",
@@ -14,8 +15,28 @@
     "zhuangxiu": "有",
     "age": "2000",
     "quyu": "二七-老航院",
-    "shoufu": "约68.1万，月供5060元",
+    "shoufu": "",
     "xiaoqu": "二七铁路局家属院",
     "position": 1
+  },
+  {
+    "id": "2510471939",
+    "area": "151",
+    "feature": "满五",
+    "title": "铁路局旁 后301社区 精装151平三居 双卫 双气 永安街",
+    "xiaoqu_": "二七铁路局家属院",
+    "room": "3室2厅",
+    "total_price": "248",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180694286_17466408x2510471939_166782739.html",
+    "price": "16424元/㎡ ",
+    "louceng": "高层/18层",
+    "louxing": "南北",
+    "chaoxiang": "简装修",
+    "zhuangxiu": "有",
+    "age": "2000",
+    "quyu": "二七-老航院",
+    "shoufu": "",
+    "xiaoqu": "二七铁路局家属院",
+    "position": 2
   }
 ]

@@ -7,6 +7,7 @@
     "xiaoqu_": "师专家属院",
     "room": "3室1厅",
     "total_price": "123",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180769300_17563431x2510534663_162404134.html",
     "price": "12984元/㎡ ",
     "louceng": "低层/7层",
     "louxing": "板楼",
@@ -14,8 +15,28 @@
     "zhuangxiu": "简装修",
     "age": "1996",
     "quyu": "二七-市财政局",
-    "shoufu": "约65万，月供3443元",
+    "shoufu": "",
     "xiaoqu": "师专家属院",
     "position": 1
+  },
+  {
+    "id": "2510534663",
+    "area": "77.46",
+    "feature": "满五",
+    "title": "师专淮南街家属院 小区环境干净 多层3楼 少有楼层",
+    "xiaoqu_": "师专家属院",
+    "room": "3室1厅",
+    "total_price": "89",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180796031_17599605x2510534663_162404134.html",
+    "price": "11490元/㎡ ",
+    "louceng": "中层/5层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "简装修",
+    "age": "1996",
+    "quyu": "二七-市财政局",
+    "shoufu": "",
+    "xiaoqu": "师专家属院",
+    "position": 2
   }
 ]

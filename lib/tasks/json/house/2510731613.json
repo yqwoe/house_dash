@@ -7,6 +7,7 @@
     "xiaoqu_": "河南省外贸学校家属院",
     "room": "2室1厅",
     "total_price": "160",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180848837_17310548x2510731613_166820019.html",
     "price": "22535元/㎡ ",
     "louceng": "中层/6层",
     "louxing": "板楼",
@@ -15,9 +16,29 @@
     "age": "有",
     "quyu": "1998",
     "": "金水-科技市场",
-    "shoufu": "约83.7万，月供4486元",
+    "shoufu": "",
     "xiaoqu": "河南省外贸学校家属院",
     "position": 1
+  },
+  {
+    "id": "2510731613",
+    "area": "100",
+    "feature": "满五",
+    "title": "文一 外贸 一楼双气精装自住大三房 看房有钥匙",
+    "xiaoqu_": "河南省外贸学校家属院",
+    "room": "3室2厅",
+    "total_price": "300",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180762675_17388687x2510731613_166781866.html",
+    "price": "30000元/㎡ ",
+    "louceng": "低层/7层",
+    "louxing": "板楼",
+    "chaoxiang": "南北",
+    "zhuangxiu": "精装修",
+    "age": "1998",
+    "quyu": "金水-科技市场",
+    "shoufu": "",
+    "xiaoqu": "河南省外贸学校家属院",
+    "position": 2
   },
   {
     "id": "2510731613",
@@ -26,8 +47,9 @@
     "title": "外贸学院家属院 文一省实验 俭学街路口 双气南北三房 诚售",
     "xiaoqu_": "河南省外贸学校家属院",
     "room": "3室2厅",
-    "total_price": "190",
-    "price": "22353元/㎡ ",
+    "total_price": "180",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180569913_17665967x2510731613_166440938.html",
+    "price": "21176元/㎡ ",
     "louceng": "中层/6层",
     "louxing": "南北",
     "chaoxiang": "精装修",
@@ -35,8 +57,8 @@
     "age": "有",
     "quyu": "1998",
     "": "金水-科技市场",
-    "shoufu": "约99.6万，月供5321元",
+    "shoufu": "",
     "xiaoqu": "河南省外贸学校家属院",
-    "position": 2
+    "position": 3
   }
 ]

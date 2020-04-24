@@ -1,12 +1,34 @@
 [
   {
     "id": "2510285309",
+    "area": "100.03",
+    "feature": "满五",
+    "title": "大学南郡+业主因置换+急售又降了+南北通透+精装全送无遮挡",
+    "xiaoqu_": "大学南郡",
+    "room": "3室2厅",
+    "total_price": "125",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180717261_17494101x2510285309_160102492.html",
+    "price": "12496元/㎡ ",
+    "louceng": "中层/26层",
+    "louxing": "板楼",
+    "chaoxiang": "西南",
+    "zhuangxiu": "毛坯",
+    "age": "有",
+    "quyu": "2008",
+    "": "二七-兴华南街",
+    "shoufu": "",
+    "xiaoqu": "大学南郡",
+    "position": 1
+  },
+  {
+    "id": "2510285309",
     "area": "69.75",
     "feature": "满五",
     "title": "大学南郡 经典小两房 双卧朝南 诚心出售 交通便利",
     "xiaoqu_": "大学南郡",
     "room": "2室1厅",
     "total_price": "93",
+    "url": "http://m.fang.com/esf/zz/JHAGT_180833889_17638539x2510285309_166815369.html",
     "price": "13333元/㎡ ",
     "louceng": "中层/11层",
     "louxing": "板楼",
@@ -15,8 +37,8 @@
     "age": "有",
     "quyu": "2000",
     "": "二七-兴华南街",
-    "shoufu": "约40.7万，月供3026元",
+    "shoufu": "",
     "xiaoqu": "大学南郡",
-    "position": 1
+    "position": 2
   }
 ]
