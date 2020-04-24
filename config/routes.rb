@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root :to => 'home#index'
   resources :houses
   resources :positions
   resources :properties
