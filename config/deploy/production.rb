@@ -84,14 +84,18 @@ namespace :puma do
       end
     end
 
-    # task :build_react do
-    #   on roles(:app) do
+    task :rake_list do
+      on roles(:app) do
 
-    #     execute " cd #{current_path}/house_dashboard && /usr/local/bin/yarn install"
-    #     execute " cd #{current_path}/house_dashboard && /usr/local/bin/yarn run build"
-    #       execute " cp #{current_path}/house_dashboard/dist #{current_path}/public/"
-    #   end
-    # end
+        execute " RAILS_ENV=production bundle exec rake init:area_import"
+        execute " RAILS_ENV=production bundle exec rake init:city_import"
+        execute " RAILS_ENV=production bundle exec rake init:villages_import"
+        execute " RAILS_ENV=production bundle exec rake init:village_import"
+        execute " RAILS_ENV=production bundle exec rake init:position_import"
+        execute " RAILS_ENV=production bundle exec rake init:property_import"
+        execute " RAILS_ENV=production bundle exec rake init:house_import"
+      end
+    end
   
     desc 'Initial Deploy'
     task :initial do
@@ -110,7 +114,7 @@ namespace :puma do
   
     before :starting,     :check_revision
 
-    # after :finishing,     :build_react
+    # after :finishing,     :rake_list
     after  :finishing,    :cleanup
     after  :finishing,    :restart
   end
