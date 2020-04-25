@@ -4,6 +4,7 @@ export default defineConfig({
   nodeModulesTransform: {
     type: 'none',
   },
+  history:{ type: 'hash' } ,
   layout: {
     name: '郑州房价',
     locale: true,
@@ -37,7 +38,7 @@ export default defineConfig({
         },
       ],
       access: 'canRead',
-    }
+    },
   ],
   proxy: {
     '/api': {
