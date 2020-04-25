@@ -87,13 +87,13 @@ namespace :puma do
     task :rake_list do
       on roles(:app) do
 
-        execute " RAILS_ENV=production bundle exec rake init:area_import"
-        execute " RAILS_ENV=production bundle exec rake init:city_import"
-        execute " RAILS_ENV=production bundle exec rake init:villages_import"
-        execute " RAILS_ENV=production bundle exec rake init:village_import"
-        execute " RAILS_ENV=production bundle exec rake init:position_import"
-        execute " RAILS_ENV=production bundle exec rake init:property_import"
-        execute " RAILS_ENV=production bundle exec rake init:house_import"
+        execute "bundle exec rake init:area_import"
+        execute "bundle exec rake init:city_import"
+        execute "bundle exec rake init:villages_import"
+        execute "bundle exec rake init:village_import"
+        execute " bundle exec rake init:position_import"
+        execute " bundle exec rake init:property_import"
+        execute " bundle exec rake init:house_import"
       end
     end
   
