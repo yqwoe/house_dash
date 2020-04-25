@@ -24,7 +24,7 @@ import {
  */
 
 // 设置全局参数，如响应超市时间，请求前缀等。
-axios.defaults.timeout = 5000
+axios.defaults.timeout = 500000
 axios.defaults.baseURL = '/';
 axios.defaults.withCredentials = true;
 
