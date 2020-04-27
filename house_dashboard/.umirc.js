@@ -4,10 +4,11 @@ export default defineConfig({
   nodeModulesTransform: {
     type: 'none',
   },
-  history:{ type: 'hash' } ,
+  history: { type: 'hash' },
   layout: {
     name: '郑州房价',
     locale: true,
+    layout: 'topmenu',
   },
   routes: [
     { path: '/', component: '@/app' },
@@ -42,7 +43,7 @@ export default defineConfig({
   ],
   proxy: {
     '/api': {
-      target: 'http://localhost:3000',
+      target: 'http://localhost:3001',
       pathRewrite: { '^/api': '' },
       changeOrigin: true,
     },
