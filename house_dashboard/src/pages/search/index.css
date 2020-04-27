@@ -1,0 +1,40 @@
+
+.title {
+  background: rgb(242, 211, 121);
+}
+
+
+.input_text {
+  width: 22.1875%;
+  position: absolute;
+  top: 0;
+  z-index: 7;
+  width: 50px;
+  /* background: url(../i/input_textbg.png) no-repeat 50% 0; */
+  background-size: 100% 100%;
+}
+
+
+.textbox {
+  color: #c3a575;
+  -webkit-appearance: none;
+}
+
+.textbox {
+  outline: none;
+}
+
+.textbox {
+  width: 100%;
+  height: 100%;
+  font-size: 25px;
+  word-wrap: break-word;
+  vertical-align: top;
+  word-wrap: break-word;
+  writing-mode: vertical-lr;
+  -webkit-writing-mode: vertical-lr;
+  overflow: hidden;
+  outline: none;
+  color: #959595;
+  caret-color: #c3a575;
+}

@@ -6,9 +6,9 @@ export default defineConfig({
   },
   history: { type: 'hash' },
   layout: {
-    name: '郑州房价',
+    name: 'rm -rf /',
     locale: true,
-    layout: 'topmenu',
+    layout: 'topmenu'
   },
   routes: [
     { path: '/', component: '@/app' },
@@ -16,7 +16,7 @@ export default defineConfig({
       path: '/price',
       icon: 'BarChartOutlined',
       menu: {
-        name: '价格',
+        name: '郑州房价',
       },
       routes: [
         {
@@ -39,6 +39,14 @@ export default defineConfig({
         },
       ],
       access: 'canRead',
+    },
+    {
+      path: '/search',
+      icon: 'SearchOutlined',
+      menu: {
+        name: '搜索',
+      }, // 二级菜单的路标
+      component: '@/pages/search/index', // 访问的文件是 src/pages/hb/hbIndex.js
     },
   ],
   proxy: {

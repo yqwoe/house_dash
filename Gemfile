@@ -43,6 +43,7 @@ gem 'capistrano-rails'
 # Add this if you're using rvm
 gem 'capistrano-rvm'
 gem 'capistrano3-puma', '3.1.1'
+gem 'capistrano-sidekiq'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -50,7 +51,28 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'ancestry'
 
+#rest http client
 gem 'rest-client'
+#api json serilzer
 gem 'fast_jsonapi'
+#跨域
 gem 'rack-cors'
+
 gem 'puma_worker_killer'
+
+
+# 分页
+gem "kaminari"
+
+# 搜索
+gem "elasticsearch-model", "~> 5.0.2"
+gem "elasticsearch-rails", "~> 5.0.2"
+
+# 队列
+gem "sidekiq"
+gem "sidekiq-cron"
+
+
+gem 'pry'
+
+gem 'foreman'

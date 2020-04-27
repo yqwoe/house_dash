@@ -1,0 +1,8 @@
+# Options here can still be overridden by cmd line args.
+#   sidekiq -C sidekiq.yml
+---
+:concurrency: <%= ENV["sidekiq_threads"] || 20 %>
+:pidfile: tmp/pids/sidekiq.pid
+:queues:
+  - [search_indexer, 30]
+  - [default, 3]
