@@ -30,6 +30,8 @@ require "capistrano/rvm"
 # require "capistrano/chruby"
 require "capistrano/bundler"
 # require "capistrano/rails/assets"
+require 'capistrano/sidekiq'
+require 'capistrano/sidekiq/monit'
 require "capistrano/rails/migrations"
 # require "capistrano/passenger"
 require 'capistrano/puma'

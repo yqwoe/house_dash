@@ -113,7 +113,10 @@ namespace :puma do
     end
   
     before :starting,     :check_revision
-
+  after 'deploy:starting', 'sidekiq:quiet'
+    after 'deploy:updated', 'sidekiq:stop'
+    after 'deploy:reverted', 'sidekiq:stop'
+    after 'deploy:published', 'sidekiq:start'
     # after :finishing,     :rake_list
     after  :finishing,    :cleanup
     after  :finishing,    :restart

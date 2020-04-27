@@ -43,7 +43,7 @@ gem 'capistrano-rails'
 # Add this if you're using rvm
 gem 'capistrano-rvm'
 gem 'capistrano3-puma', '3.1.1'
-gem 'capistrano-sidekiq'
+gem 'capistrano-sidekiq', git: "https://github.com/rwojnarowski/capistrano-sidekiq.git"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -69,7 +69,7 @@ gem "elasticsearch-model", "~> 5.0.2"
 gem "elasticsearch-rails", "~> 5.0.2"
 
 # 队列
-gem "sidekiq"
+gem "sidekiq" 
 gem "sidekiq-cron"
 
 
