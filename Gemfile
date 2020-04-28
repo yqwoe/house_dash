@@ -43,7 +43,7 @@ gem 'capistrano-rails'
 # Add this if you're using rvm
 gem 'capistrano-rvm'
 gem 'capistrano3-puma', '3.1.1'
-gem 'capistrano-sidekiq', git: "https://github.com/rwojnarowski/capistrano-sidekiq.git"
+gem 'capistrano-sidekiq', github: 'seuros/capistrano-sidekiq'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

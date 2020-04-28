@@ -22,8 +22,11 @@ set :puma_worker_timeout, nil
 set :puma_init_active_record, false  # Change to tr
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
-set :init_system, :systemd
-set :sidekiq_config, "#{shared_path}/config/sidekiq.yml"
+# set :init_system, :systemd
+set :bundler_path,"/usr/local/rvm/gems/ruby-2.6.3/bin/bundle"
+set :service_unit_name, "sidekiq-#{fetch(:application)}-#{fetch(:stage)}.service"
+ set :init_system, :systemd
+set :sidekiq_config, -> { File.join(shared_path, 'config', 'sidekiq.yml') }
 
 # You can configure the Airbrussh format using :format_options.
 # These are the defaults.

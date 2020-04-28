@@ -60,6 +60,42 @@ server "198.13.32.48", user: "root", roles: %w{app db web}
 #     # password: "please use keys"
 #   }
 
+# set :sidekiq_roles, -> { :app }
+# set :sidekiq_systemd_unit_name, "sidekiq@#{fetch(:stage)}"
+
+# namespace :sidekiq do
+#   desc 'Quiet sidekiq (stop fetching new tasks from Redis)'
+#   task :quiet do
+#     on roles fetch(:sidekiq_roles) do
+#       # See: https://github.com/mperham/sidekiq/wiki/Signals#tstp
+#       execute :systemctl, '--user', 'kill', '-s', 'SIGTSTP', fetch(:sidekiq_systemd_unit_name), raise_on_non_zero_exit: false
+#     end
+#   end
+
+#   desc 'Stop sidekiq (graceful shutdown within timeout, put unfinished tasks back to Redis)'
+#   task :stop do
+#     on roles fetch(:sidekiq_roles) do
+#       # See: https://github.com/mperham/sidekiq/wiki/Signals#tstp
+#       execute :systemctl, '--user', 'kill', '-s', 'SIGTERM', fetch(:sidekiq_systemd_unit_name), raise_on_non_zero_exit: false
+#     end
+#   end
+
+#   desc 'Start sidekiq'
+#   task :start do
+#     on roles fetch(:sidekiq_roles) do
+#       execute :systemctl, '--user', 'start', fetch(:sidekiq_systemd_unit_name)
+#     end
+#   end
+
+#   desc 'Restart sidekiq'
+#   task :restart do
+#     on roles fetch(:sidekiq_roles) do
+#       execute :systemctl, '--user', 'restart', fetch(:sidekiq_systemd_unit_name)
+#     end
+#   end
+# end
+
+
 namespace :puma do
     desc 'Create Directories for Puma Pids and Socket'
     task :make_dirs do
@@ -113,11 +149,13 @@ namespace :puma do
     end
   
     before :starting,     :check_revision
-  after 'deploy:starting', 'sidekiq:quiet'
-    after 'deploy:updated', 'sidekiq:stop'
-    after 'deploy:reverted', 'sidekiq:stop'
-    after 'deploy:published', 'sidekiq:start'
     # after :finishing,     :rake_list
     after  :finishing,    :cleanup
     after  :finishing,    :restart
   end
+
+
+# after 'deploy:starting', 'sidekiq:quiet'
+# after 'deploy:updated', 'sidekiq:stop'
+# after 'deploy:published', 'sidekiq:start'
+# after 'deploy:failed', 'sidekiq:restart'
