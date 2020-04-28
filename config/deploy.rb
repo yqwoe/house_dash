@@ -23,9 +23,10 @@ set :puma_init_active_record, false  # Change to tr
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
 # set :init_system, :systemd
+set :pty,  false
 set :bundler_path,"/usr/local/rvm/gems/ruby-2.6.3/bin/bundle"
-set :service_unit_name, "sidekiq-#{fetch(:application)}-#{fetch(:stage)}.service"
- set :init_system, :systemd
+# set :service_unit_name, "sidekiq-#{fetch(:application)}-#{fetch(:stage)}.service"
+#  set :init_system, :systemd
 set :sidekiq_config, -> { File.join(shared_path, 'config', 'sidekiq.yml') }
 
 # You can configure the Airbrussh format using :format_options.
@@ -35,7 +36,7 @@ set :sidekiq_config, -> { File.join(shared_path, 'config', 'sidekiq.yml') }
 # set :pty, true
 
 # Default value for :linked_files is []
-append :linked_files, "config/database.yml","config/secrets.yml" 
+append :linked_files, "config/database.yml","config/secrets.yml" ,"config/redis.yml" ,"config/elasticsearch.yml" 
 
 # Default value for linked_dirs is []
 append :linked_dirs, "log", "tmp/pids", "tmp/cache", "tmp/sockets", "public/system"

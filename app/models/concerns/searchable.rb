@@ -19,6 +19,9 @@ module Searchable
 
     after_commit on: :destroy do
       SearchIndexer.perform_later("delete", self.class.name, self.id)
+
+
+      SearchIndexer.perform_later("delete", "abc", "aaaa")
     end
   end
 end

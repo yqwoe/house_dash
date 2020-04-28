@@ -24,6 +24,7 @@ class SearchIndexer < ApplicationJob
 
     return false unless obj
 
+    p obj.__elasticsearch__.client.cluster.health
     if operation == "update"
       obj.__elasticsearch__.update_document
     elsif operation == "delete"
