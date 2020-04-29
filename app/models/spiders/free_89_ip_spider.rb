@@ -1,6 +1,8 @@
 
 
 require 'rchardet19'
+
+require 'kimurai'
 module Spiders
   class Free89IpSpider < Spiders::ApplicationSpider
   @name = "Free89IpSpider"
@@ -27,6 +29,9 @@ def parse(response, url:, data: {})
 
 
     in_parallel(:parse_all,urls, threads: 1)
+
+    rescue => e
+        Rails.logger.error e
   end
 
 
@@ -53,6 +58,9 @@ def parse_all(response, url:, data: {})
           # logger.info({ip: ip ,port: port,protocol: protocol , source: url})
           ::ProxyPool.find_or_create_by({ip: ip ,port: port,protocol: protocol , source: url})
         end
+
+    rescue => e
+        Rails.logger.error e
       end
 end
 

@@ -14,6 +14,9 @@ def parse(response, url:, data: {})
 
 
     in_parallel(:parse_all,urls, threads: 1)
+
+    rescue => e
+        Rails.logger.error e
   end
 
 
@@ -35,6 +38,8 @@ def parse(response, url:, data: {})
           ::ProxyPool.find_or_create_by({ip: ip ,port: port,protocol: protocol , source: url})
         end
 
+    rescue => e
+        Rails.logger.error e
 
     end
 end

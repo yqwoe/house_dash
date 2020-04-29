@@ -37,6 +37,9 @@ def parse(response, url:, data: {})
           # logger.info({ip: ip ,port: port,protocol: protocol , source: url})
           ::ProxyPool.find_or_create_by({ip: ip ,port: port,protocol: protocol , source: url})
         end
+
+    rescue => e
+        Rails.logger.error e
       end
 end
 

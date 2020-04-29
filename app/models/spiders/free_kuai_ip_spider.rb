@@ -20,6 +20,9 @@ def parse(response, url:, data: {})
             'https://www.kuaidaili.com/free/intr/']
   
     in_parallel(:parse_all,urls, threads: 1,delay: 10)
+
+    rescue => e
+        Rails.logger.error e
   end
 
 def parse_all(response, url:, data: {})
@@ -39,6 +42,9 @@ def parse_all(response, url:, data: {})
           # logger.info({ip: ip ,port: port,protocol: protocol , source: url})
           ::ProxyPool.find_or_create_by({ip: ip ,port: port,protocol: protocol , source: url})
         end
+
+    rescue => e
+        Rails.logger.error e
       end
 end
   
