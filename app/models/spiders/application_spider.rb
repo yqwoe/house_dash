@@ -42,7 +42,12 @@ class ApplicationSpider < Kimurai::Base
     window_size: [1366, 768],
     skip_request_errors: [
       { error: RuntimeError, message: "404 => Net::HTTPNotFound" },
-      { error: Net::HTTP::Persistent::Error, message: "Net::HTTP::Persistent::Error" }
+      { error: Capybara::Poltergeist::StatusFailError, message: "404 => Net::HTTPNotFound" },
+      { error: Selenium::WebDriver::Error::UnexpectedAlertOpenError, message: "404 => Net::HTTPNotFound" },
+      { error: Net::HTTPNotFound, message: "404 => Net::HTTPNotFound" },
+      { error: Net::HTTPBadGateway, message: "404 => Net::HTTPNotFound" },
+      { error: Net::HTTP::Persistent::Error, message: "404 => Net::HTTPNotFound" },
+
     ],
 	retry_request_errors: [],
     restart_if: {
