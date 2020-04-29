@@ -76,3 +76,11 @@ gem "sidekiq-cron"
 gem 'pry'
 
 gem 'foreman'
+
+#爬虫
+gem 'kimurai' , git: 'https://github.com/vifreefly/kimuraframework'
+
+#rest http client 
+gem 'rest-client'
+
+gem 'rchardet19'

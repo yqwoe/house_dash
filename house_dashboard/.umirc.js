@@ -40,13 +40,21 @@ export default defineConfig({
       ],
       access: 'canRead',
     },
-    {
-      path: '/search',
+    // {
+    //   path: '/search',
+    //   icon: 'SearchOutlined',
+    //   menu: {
+    //     name: '搜索',
+    //   }, // 二级菜单的路标
+    //   component: '@/pages/search/index', // 访问的文件是 src/pages/hb/hbIndex.js
+    // },
+     {
+      path: '/proxy_pool',
       icon: 'SearchOutlined',
       menu: {
-        name: '搜索',
+        name: 'ip查询',
       }, // 二级菜单的路标
-      component: '@/pages/search/index', // 访问的文件是 src/pages/hb/hbIndex.js
+      component: '@/pages/proxy_pool/index', // 访问的文件是 src/pages/hb/hbIndex.js
     },
   ],
   proxy: {

@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :proxy_pools
   get 'search',to: 'search#index'
   root :to => 'home#index'
   resources :houses
@@ -13,6 +14,7 @@ Rails.application.routes.draw do
   end
   resources :city_prices
   require 'sidekiq/web'
+  require 'sidekiq/cron/web'
   mount Sidekiq::Web => '/sidekiq'
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end

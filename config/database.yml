@@ -12,7 +12,7 @@
 default: &default
   adapter: mysql2
   encoding: utf8mb4
-  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 100 } %>
   username: root
   password: 123456
   socket: /tmp/mysql.sock
@@ -51,8 +51,8 @@ production:
   adapter: mysql2
   encoding: utf8mb4
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-  username: yqwoe
-  host: rm-bp1i960o7601ka20iqo.mysql.rds.aliyuncs.com
+  username: root
+  host: localhost
   port: 3306
-  password: yQwoe900316
+  password: 123456
   database: house_dash_production

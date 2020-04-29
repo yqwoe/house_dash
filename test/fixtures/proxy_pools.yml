@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ip: MyString
+  protocl: MyString
+  port: 1
+  active: 1
+  source: MyString
+  check_count: 1
+
+two:
+  ip: MyString
+  protocl: MyString
+  port: 1
+  active: 1
+  source: MyString
+  check_count: 1

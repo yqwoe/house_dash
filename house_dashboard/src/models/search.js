@@ -2,10 +2,16 @@ import {
   searchList
 }
 from '@/services/search'
+
+import {
+  routerRedux
+} from 'dva/router';
 export default {
   namespace: 'search',
   state: {
-    list: []
+    list: [],
+    params:{},
+    total: 0
   },
   subscriptions: {
     setup({
@@ -18,11 +24,16 @@ export default {
         search,
         query
       }) => {
-        // if (pathname === '/price/villages') {
-        //   dispatch({
-        //     type: 'fetchList'
-        //   })
-        // }
+        if (pathname === '/search') {
+           if(query){
+             dispatch({
+               type: 'addList',
+               payload: {
+                 params: query
+               }
+             })
+           }
+        }
       })
     }
   },
@@ -42,13 +53,15 @@ export default {
 
       const {params} = action.payload
       const {
-        data = []
+        data, total
       } = yield call(searchList, params)
       console.log(data)
+      yield put(routerRedux.push({pathname: '/search',query:params}))
       yield put({
         type:'addList',
         payload: {
-          list: [...data]
+          list: [...data],
+          total
         }
       })
     }
