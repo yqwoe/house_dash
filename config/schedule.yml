@@ -4,6 +4,6 @@ check_proxy_job:
   queue: proxy
 
 archive_proxy_job:
-  cron: "*/10 * * * *"
+  cron: "*/5 * * * *"
   class: "Scheduler::ArchiveProxyJob"
   queue: proxy

@@ -3,20 +3,15 @@ module Scheduler
     queue_as :archive_proxy_job
 
     def perform
-        # Rails.logger.debug 'archive_proxy_job'
-        Spiders::FreeXiciIpSpider.crawl!
-        Spiders::FreeGbjIpSpider.crawl!
-        Spiders::FreeKuaiIpSpider.crawl!
-        Spiders::Free3366IpSpider.crawl!
-        Spiders::Free66IpSpider.crawl!
-        Spiders::FreeJiangxianliIpSpider.crawl!
-        Spiders::FreeXilaIpSpider.crawl!
-        Spiders::Free89IpSpider.crawl!
-        Spiders::FreeQyIpSpider.crawl!
-        # Spiders::FreeIpHaiSpider.crawl!
-      rescue => e
-        Rails.logger.error e
-        return false
+       ::Archive66ProxyJob.perform_later
+       ::Archive89ProxyJob.perform_later
+       ::Archive3366ProxyJob.perform_later
+       ::ArchiveGbjProxyJob.perform_later
+       ::ArchiveJxlProxyJob.perform_later
+       ::ArchiveKuaiProxyJob.perform_later
+       ::ArchiveQyProxyJob.perform_later
+       ::ArchiveXiciProxyJob.perform_later
+       ::ArchiveXilaProxyJob.perform_later
     end
   end
 end

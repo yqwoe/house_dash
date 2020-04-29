@@ -52,7 +52,7 @@ export default defineConfig({
       path: '/proxy_pool',
       icon: 'SearchOutlined',
       menu: {
-        name: 'ip查询',
+        name: '代理池',
       }, // 二级菜单的路标
       component: '@/pages/proxy_pool/index', // 访问的文件是 src/pages/hb/hbIndex.js
     },
