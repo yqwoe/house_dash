@@ -22,6 +22,8 @@ const {
 import {
   replaceComponent
 } from '@/utils/componentUtil'
+
+import moment from 'moment';
 const ProxyPoolPage = ({
     dispatch,
     proxy_pool
@@ -69,46 +71,49 @@ const ProxyPoolPage = ({
     offset: 1
   }
 
-  const columns = [{
+  const columns = [
+    {
       title: 'IP',
       dataIndex: 'ip',
-        key: 'ip'
+      key: 'ip',
     },
     {
       title: 'PORT',
       dataIndex: 'port',
-        key: 'port',
+      key: 'port',
     },
     {
       title: 'http/https',
       dataIndex: 'protocol',
-        key: 'protocol',
+      key: 'protocol',
     },
     {
       title: '状态',
       dataIndex: 'active',
-        key: 'active',
-        render(text,record,index){
-
-          if (!record.check_count || !record.check_count) return '待验证'
-          return text == 1 ? '可用' : '失效'
-        }
-    },
-     {
-       title: '检查次数',
-       dataIndex: 'check_count',
-         key: 'check_count',
-     },
-      {
-        title: '失败次数',
-        dataIndex: 'fail_count',
-          key: 'fail_count',
+      key: 'active',
+      render(text, record, index) {
+        if (!record.check_count || !record.check_count) return '待验证';
+        return text == 1 ? '可用' : '失效';
       },
-      //  {
-      //   title: '耗时',
-      //   dataIndex: 'long_time',
-      //   key: 'long_time',
-      // },
+    },
+    {
+      title: '检查次数',
+      dataIndex: 'check_count',
+      key: 'check_count',
+    },
+    {
+      title: '失败次数',
+      dataIndex: 'fail_count',
+      key: 'fail_count',
+    },
+    {
+      title: '最后验证时间',
+      dataIndex: 'updated_at',
+      key: 'updated_at',
+      render(text, record, index) {
+        return moment(text).format('YYYY-MM-DD HH:mm:ss');
+      },
+    },
   ];
 
   return (

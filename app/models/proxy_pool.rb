@@ -10,7 +10,7 @@ class ProxyPool < ApplicationRecord
   }
 
   scope :actived,->{
-    where("active = 1")
+    where("active is not null and active <> 0").order("updated_at desc")
   }
 
 end
