@@ -108,54 +108,56 @@ namespace :puma do
     before :start, :make_dirs
   end
   
-  namespace :deploy do
-    desc "Make sure local git is in sync with remote."
-    task :check_revision do
-      on roles(:app) do
-        unless `git rev-parse HEAD` == `git rev-parse origin/master`
-          puts "WARNING: HEAD is not the same as origin/master"
-          puts "Run `git push` to sync changes."
-          exit
-        end
-      end
-    end
+#   namespace :deploy do
+#   #   desc "Make sure local git is in sync with remote."
+#   #   task :check_revision do
+#   #     on roles(:app) do
+#   #       unless `git rev-parse HEAD` == `git rev-parse origin/master`
+#   #         puts "WARNING: HEAD is not the same as origin/master"
+#   #         puts "Run `git push` to sync changes."
+#   #         exit
+#   #       end
+#   #     end
+#   #   end
 
-    task :rake_list do
-      on roles(:app) do
+#     task :rake_list do
+#       on roles(:app) do
 
-        execute "bundle exec rake init:area_import"
-        execute "bundle exec rake init:city_import"
-        execute "bundle exec rake init:villages_import"
-        execute "bundle exec rake init:village_import"
-        execute " bundle exec rake init:position_import"
-        execute " bundle exec rake init:property_import"
-        execute " bundle exec rake init:house_import"
-      end
-    end
+#         execute "bundle exec rake init:area_import"
+#         execute "bundle exec rake init:city_import"
+#         execute "bundle exec rake init:villages_import"
+#         execute "bundle exec rake init:village_import"
+#         execute " bundle exec rake init:position_import"
+#         execute " bundle exec rake init:property_import"
+#         execute " bundle exec rake init:house_import"
+#       end
+#     end
   
-    desc 'Initial Deploy'
-    task :initial do
-      on roles(:app) do
-        before 'deploy:restart', 'puma:start'
-        invoke 'deploy'
-      end
-    end
+#     # desc 'Initial Deploy'
+#     # task :initial do
+#     #   on roles(:app) do
+#     #     before 'deploy:restart', 'puma:start'
+#     #     invoke 'deploy'
+#     #   end
+#     # end
   
-    desc 'Restart application'
-    task :restart do
-      on roles(:app), in: :sequence, wait: 5 do
-        invoke 'puma:restart'
-      end
-    end
+#     desc 'Restart application'
+#     task :restart do
+#       on roles(:app), in: :sequence, wait: 5 do
+#         invoke 'puma:restart'
+#       end
+#     end
   
-    before :starting,     :check_revision
-    # after :finishing,     :rake_list
-    after  :finishing,    :cleanup
-    after  :finishing,    :restart
-  end
+#     before :starting,     :check_revision
+#     # after :finishing,     :rake_list
+#     after  :finishing,    :cleanup
+#     after  :finishing,    :restart
+#   end
 
 
-# after 'deploy:starting', 'sidekiq:quiet'
-# after 'deploy:updated', 'sidekiq:stop'
-# after 'deploy:published', 'sidekiq:start'
-# after 'deploy:failed', 'sidekiq:restart'
+after 'deploy:starting', 'sidekiq:quiet'
+after 'deploy:updated', 'sidekiq:stop'
+after 'deploy:published', 'sidekiq:start'
+
+after 'deploy:published', 'puma:start'
+after 'deploy:failed', 'sidekiq:restart'

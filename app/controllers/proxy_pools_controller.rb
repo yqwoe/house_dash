@@ -4,10 +4,9 @@ class ProxyPoolsController < ApplicationController
   # GET /proxy_pools
   def index
     @proxy_pools = ProxyPool.actived
-
     total = @proxy_pools.size
-
-    render json:  ProxyPoolSerializer.new( @proxy_pools.page(params[:page]||1)).serializable_hash.merge({:total => total})
+    @proxy_pools = @proxy_pools.page(params[:page]||1)
+    render json:  ProxyPoolSerializer.new(@proxy_pools).serializable_hash.merge({:total => total})
   end
 
   # GET /proxy_pools/1
