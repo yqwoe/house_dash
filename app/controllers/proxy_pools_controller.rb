@@ -3,7 +3,7 @@ class ProxyPoolsController < ApplicationController
 
   # GET /proxy_pools
   def index
-    @proxy_pools = ProxyPool.order("active desc")
+    @proxy_pools = ProxyPool.where("active = 1")
 
     total = @proxy_pools.size
 
