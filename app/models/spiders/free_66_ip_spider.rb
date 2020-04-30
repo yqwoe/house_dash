@@ -25,14 +25,10 @@ def parse(response, url:, data: {})
     # html = Nokogiri::HTML(html_str,nil,encoding)
     # html = Nokogiri::HTML(html_str,nil,'gbk')
     # logger.info  "=============#{html_str}"
-        tr = response.xpath("//table/tr")
-
-        # ips = []
-        # logger.info response.xpath("//table/tr")
-        # logger.info  response.to_s
+        tr = response.xpath("//table[@width]//tr[position()>1]")
         tr.each_with_index do |t,index|
-
-          next if index == 0
+          # logger.info t
+          # next if index == 0
           
           ip = t.xpath("./td[1]").text
           port = t.xpath("./td[2]").text
