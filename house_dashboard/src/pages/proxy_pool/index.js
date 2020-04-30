@@ -89,7 +89,9 @@ const ProxyPoolPage = ({
       dataIndex: 'active',
         key: 'active',
         render(text,record,index){
-          return text === 1 ? '可用' : '失效'
+
+          if (!record.check_count || !record.check_count) return '待验证'
+          return text == 1 ? '可用' : '失效'
         }
     },
      {
@@ -102,6 +104,11 @@ const ProxyPoolPage = ({
         dataIndex: 'fail_count',
           key: 'fail_count',
       },
+      //  {
+      //   title: '耗时',
+      //   dataIndex: 'long_time',
+      //   key: 'long_time',
+      // },
   ];
 
   return (
