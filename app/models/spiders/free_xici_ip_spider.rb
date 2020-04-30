@@ -1,26 +1,26 @@
 module Spiders
   class FreeXiciIpSpider < Spiders::ApplicationSpider
   @name = "FreeXiciIpSpider"
-  @start_urls = ["https://www.xicidaili.com/nn",
-          "http://www.xicidaili.com/nt"]
+  @start_urls = [
+          "https://www.xicidaili.com/nn/1",
+          "https://www.xicidaili.com/nn/2",
+          "http://www.xicidaili.com/nt/1",
+          "http://www.xicidaili.com/nt/2"
+
+        
+        ]
+
+@config = {
+     headers: {
+      #  'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+      #                  'Accept': '*/*',
+      #                  'Connection': 'keep-alive',
+      #                  'Accept-Language': 'zh-CN,zh;q=0.8'
+    },
+    delay: 1..10
+  }
 
 def parse(response, url:, data: {})
-
-    urls = []
-
-    2.times do |i|
-      urls << "#{url}/#{i+1}"
-    end
-
-
-    in_parallel(:parse_all,urls, threads: 1)
-
-    rescue => e
-        Rails.logger.error e
-  end
-
-
-    def parse_all(response, url:, data: {})
         tr = response.xpath("//table[@id='ip_list']/tr")
         ips = []
         # logger.info response.xpath("//table[@id='ip_list']/tr")

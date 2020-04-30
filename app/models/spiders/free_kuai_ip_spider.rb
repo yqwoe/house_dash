@@ -1,7 +1,8 @@
 module Spiders
   class FreeKuaiIpSpider < Spiders::ApplicationSpider
   @name = "FreeKuaiIpSpider"
-  @start_urls = ['http://www.baidu.com']
+  @start_urls = ['https://www.kuaidaili.com/free/inha/',
+            'https://www.kuaidaili.com/free/intr/']
 
   @config = {
      headers: {
@@ -15,19 +16,6 @@ module Spiders
   }
 
 def parse(response, url:, data: {})
-
-  urls = ['https://www.kuaidaili.com/free/inha/',
-            'https://www.kuaidaili.com/free/intr/']
-  
-    in_parallel(:parse_all,urls, threads: 1,delay: 10)
-
-    rescue => e
-        Rails.logger.error e
-  end
-
-def parse_all(response, url:, data: {})
-
-
         tr = response.xpath("//tbody/tr")
         ips = []
         # logger.info response.xpath("//tbody/tr")

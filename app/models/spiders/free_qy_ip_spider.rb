@@ -5,7 +5,8 @@ module Spiders
   class FreeQyIpSpider < Spiders::ApplicationSpider
   @name = "FreeQyIpSpider"
   @start_urls = [
-            'https://www.baidu.com'
+            "http://www.qydaili.com/free/?action=china&page=1",
+            "http://www.qydaili.com/free/?action=china&page=2"
         ]
 
   @config = {
@@ -19,22 +20,6 @@ module Spiders
   }
 
 def parse(response, url:, data: {})
- urls = []
-
-    2.times do |i|
-      url = "http://www.qydaili.com/free/?action=china&page=#{i+1}"
-      urls << url
-    end
-
-
-    in_parallel(:parse_all,urls, threads: 1)
-
-    rescue => e
-        Rails.logger.error e
-  end
-
-
-def parse_all(response, url:, data: {})
   # response.encoding = 'utf-8'
     # logger.info  "=============#{response}"
     # html = Nokogiri::HTML(html_str,nil,encoding)

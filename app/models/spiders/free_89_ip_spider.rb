@@ -6,7 +6,7 @@ require 'kimurai'
 module Spiders
   class Free89IpSpider < Spiders::ApplicationSpider
   @name = "Free89IpSpider"
-  @start_urls = ["https://www.baidu.com"]
+  @start_urls = ["http://www.89ip.cn/index_1.html","http://www.89ip.cn/index_2.html"]
 
   @config = {
      headers: {
@@ -20,22 +20,6 @@ module Spiders
   }
 
 def parse(response, url:, data: {})
- urls = []
-
-    2.times do |i|
-      url = "http://www.89ip.cn/index_#{i+1}.html"
-      urls << url
-    end
-
-
-    in_parallel(:parse_all,urls, threads: 1)
-
-    rescue => e
-        Rails.logger.error e
-  end
-
-
-def parse_all(response, url:, data: {})
   response.encoding = 'utf-8'
     # logger.info  "=============#{response}"
     # html = Nokogiri::HTML(html_str,nil,encoding)

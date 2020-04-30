@@ -5,7 +5,8 @@ module Spiders
   class FreeJiangxianliIpSpider < Spiders::ApplicationSpider
   @name = "FreeJiangxianliIpSpider"
   @start_urls = [
-            'https://www.baidu.com'
+            "http://ip.jiangxianli.com/?page=1&country=中国",
+            "http://ip.jiangxianli.com/?page=2&country=中国"
         ]
 
   @config = {
@@ -19,22 +20,6 @@ module Spiders
   }
 
 def parse(response, url:, data: {})
- urls = []
-
-    2.times do |i|
-      url = "http://ip.jiangxianli.com/?page=#{i+1}&country=中国"
-      urls << "#{URI.encode(url)}"
-    end
-
-
-    in_parallel(:parse_all,urls, threads: 1)
-
-    rescue => e
-        Rails.logger.error e
-  end
-
-
-def parse_all(response, url:, data: {})
   # response.encoding = 'utf-8'
     # logger.info  "=============#{response}"
     # html = Nokogiri::HTML(html_str,nil,encoding)
