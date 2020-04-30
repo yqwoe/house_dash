@@ -5,8 +5,8 @@ module Spiders
   class FreeJiangxianliIpSpider < Spiders::ApplicationSpider
   @name = "FreeJiangxianliIpSpider"
   @start_urls = [
-            "http://ip.jiangxianli.com/?page=1&country=中国",
-            "http://ip.jiangxianli.com/?page=2&country=中国"
+            URI.encode("http://ip.jiangxianli.com/?page=1&country=中国"),
+            URI.encode("http://ip.jiangxianli.com/?page=2&country=中国")
         ]
 
   @config = {
