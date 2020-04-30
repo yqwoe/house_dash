@@ -84,3 +84,4 @@ gem 'kimurai' , git: 'https://github.com/vifreefly/kimuraframework'
 gem 'rest-client'
 
 gem 'rchardet19'
+gem 'bulk_insert'

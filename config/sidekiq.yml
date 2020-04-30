@@ -1,11 +1,10 @@
 # Options here can still be overridden by cmd line args.
 #   sidekiq -C sidekiq.yml
 ---
-:concurrency: <%= ENV["sidekiq_threads"] || 100 %>
+:concurrency: <%= ENV["sidekiq_threads"] || 20 %>
 :pidfile: tmp/pids/sidekiq.pid
 :queues:
   - [search_indexer, 20]
-  - [check_proxy_ip_job, 20]
   - [archive_xici_proxy_job, 1]
   - [archive_gbj_proxy_job, 1]
   - [archive_kuai_proxy_job, 1]
