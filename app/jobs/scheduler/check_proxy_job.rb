@@ -22,7 +22,7 @@ module Scheduler
       
       threads.join
       puts records.length
-        # ProxyPool.bulk_insert values: records
+        ProxyPool.bulk_insert values: records
     end
 
     def perform_record(record)
