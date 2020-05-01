@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_04_30_165315) do
+ActiveRecord::Schema.define(version: 2020_05_01_032948) do
 
   create_table "area_prices", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.decimal "price", precision: 10
@@ -111,7 +111,7 @@ ActiveRecord::Schema.define(version: 2020_04_30_165315) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.integer "fail_count"
-    t.bigint "long_time"
+    t.decimal "long_time", precision: 10, scale: 8
     t.index ["active"], name: "index_proxy_pools_on_active"
     t.index ["check_count"], name: "index_proxy_pools_on_check_count"
     t.index ["fail_count"], name: "index_proxy_pools_on_fail_count"

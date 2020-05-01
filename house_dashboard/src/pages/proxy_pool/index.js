@@ -105,6 +105,10 @@ const ProxyPoolPage = ({
       title: '失败次数',
       dataIndex: 'fail_count',
       key: 'fail_count',
+    }, {
+      title: '检测耗时',
+      dataIndex: 'long_time',
+      key: 'long_time'
     },
     {
       title: '最后验证时间',

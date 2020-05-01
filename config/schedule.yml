@@ -1,5 +1,5 @@
 check_proxy_job:
-  cron: "*/30 * * * *"
+  cron: "0 */1 * * *"
   class: "Scheduler::CheckProxyJob"
   queue: proxy
 
