@@ -8,7 +8,7 @@ module Scheduler
         # puts "CheckProxyJob"
 
         records = []
-        Parallel.map(ProxyPool.valid, in_processes: 20) do |record|
+        Parallel.map(ProxyPool.valid, in_processes: 5) do |record|
            records <<  perform_record(record)
         end
         # puts records.length
