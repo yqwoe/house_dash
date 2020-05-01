@@ -5,23 +5,13 @@ module Scheduler
     queue_as :check_proxy_job
 
     def perform
-        puts "CheckProxyJob"
-
-
-
+        # puts "CheckProxyJob"
 
         records = []
-      queue = Queue.new
-      
-      threads = Thread.new do
-        ProxyPool.valid.each do |record|
-          #  sleep 1 # 让线程睡眠一段时间
+        Parallel.map(ProxyPool.valid, in_processes: 20) do |record|
            records <<  perform_record(record)
         end
-      end
-      
-      threads.join
-      puts records.length
+        # puts records.length
         ProxyPool.bulk_insert values: records
     end
 
@@ -33,13 +23,7 @@ module Scheduler
        long_time = time_of do 
       begin
         headers = {"User-Agent": "Mozilla/5.0"}
-
-        links=[
-          'https://www.github.com',
-          'https://www.baidu.com',
-          'https://www.google.com'
-        ]
-         resp = RestClient::Request.execute(method: :get, url: links.sample, proxy: "#{@proxy.protocol.downcase}://#{@proxy.ip}:#{@proxy.port}",read_timeout: 3, open_timeout: 3,headers: headers)
+         resp = RestClient::Request.execute(method: :get, url: 'https://www.baidu.com', proxy: "#{@proxy.protocol.downcase}://#{@proxy.ip}:#{@proxy.port}",timeout: 3,headers: headers)
 
         #  puts resp.body
         if @proxy.fail_count.to_i > 0
@@ -68,13 +52,13 @@ module Scheduler
 
     def time_of &block
       time = Time.now.to_i
-      puts "before time #{time}"
+      # puts "before time #{time}"
         block.call
       end_time = Time.now.to_i
 
-      puts "end time #{end_time}"
+      # puts "end time #{end_time}"
 
-      puts "long time #{(end_time - time) / 1000.00 }s"
+      # puts "long time #{(end_time - time) / 1000.00 }s"
       
       return (end_time - time) / 1000.00
     end

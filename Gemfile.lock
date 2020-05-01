@@ -225,6 +225,7 @@ GEM
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     ntlm-http (0.1.1)
+    parallel (1.19.1)
     pmap (1.1.1)
     poltergeist (1.18.1)
       capybara (>= 2.1, < 4)
@@ -351,6 +352,7 @@ DEPENDENCIES
   kimurai!
   listen (>= 3.0.5, < 3.2)
   mysql2 (>= 0.4.4)
+  parallel
   pry
   puma (>= 3.1.1)
   puma_worker_killer

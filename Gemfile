@@ -85,3 +85,5 @@ gem 'rest-client'
 
 gem 'rchardet19'
 gem 'bulk_insert'
+
+gem 'parallel'
