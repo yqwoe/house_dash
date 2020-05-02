@@ -6,6 +6,7 @@
 :queues:
   - [search_indexer, 20]
   - [archive_xici_proxy_job, 1]
+  - [check_proxy_ip_job, 5]
   - [archive_gbj_proxy_job, 1]
   - [archive_kuai_proxy_job, 1]
   - [archive_3366_proxy_job, 1]
