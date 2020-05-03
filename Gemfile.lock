@@ -164,6 +164,7 @@ GEM
       activesupport (>= 4.2.0)
     hashie (4.1.0)
     headless (2.3.1)
+    hodel_3000_compliant_logger (0.1.1)
     http-accept (1.7.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
@@ -225,7 +226,9 @@ GEM
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     ntlm-http (0.1.1)
-    parallel (1.19.1)
+    oink (0.10.1)
+      activerecord
+      hodel_3000_compliant_logger
     pmap (1.1.1)
     poltergeist (1.18.1)
       capybara (>= 2.1, < 4)
@@ -352,13 +355,14 @@ DEPENDENCIES
   kimurai!
   listen (>= 3.0.5, < 3.2)
   mysql2 (>= 0.4.4)
-  parallel
+  oink
   pry
   puma (>= 3.1.1)
   puma_worker_killer
   rack-cors
   rails (~> 6.0.2, >= 6.0.2.2)
   rchardet19
+  redis
   rest-client
   sidekiq
   sidekiq-cron
