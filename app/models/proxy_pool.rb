@@ -1,5 +1,5 @@
 class ProxyPool < ApplicationRecord
-
+  second_level_cache expires_in: 1.week
   scope :actived,->{
     where("active is not null and active <> 0")
     .order("updated_at desc")

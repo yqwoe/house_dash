@@ -155,7 +155,7 @@ namespace :puma do
   end
 
 
-# after 'deploy:starting', 'sidekiq:quiet'
-# after 'deploy:updated', 'sidekiq:stop'
-# after 'deploy:published', 'sidekiq:start'
-# after 'deploy:failed', 'sidekiq:restart'
+after 'deploy:starting', 'sidekiq:quiet'
+after 'deploy:updated', 'sidekiq:stop'
+after 'deploy:published', 'sidekiq:start'
+after 'deploy:failed', 'sidekiq:restart'
