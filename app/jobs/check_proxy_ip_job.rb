@@ -13,7 +13,7 @@ def perform(id)
             begin
               headers = {"User-Agent": "Mozilla/5.0"}
 
-              resp = RestClient::Request.execute(method: :get, url: 'https://www.github.com', proxy: "#{@proxy.protocol.downcase}://#{@proxy.ip}:#{@proxy.port}",timeout: 3,headers: headers)
+              resp = RestClient::Request.execute(method: :get, url: 'https://www.github.com', proxy: "#{@proxy.protocol.downcase}://#{@proxy.ip}:#{@proxy.port}",:timeout => 10,:open_timeout => 10,headers: headers)
 
 
               end_time = Time.now.to_i

@@ -69,7 +69,7 @@ gem "elasticsearch-model", "~> 5.0.2"
 gem "elasticsearch-rails", "~> 5.0.2"
 
 # 队列
-gem "sidekiq" 
+gem "sidekiq"
 gem "sidekiq-cron"
 
 
