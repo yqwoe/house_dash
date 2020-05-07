@@ -8,7 +8,9 @@ export default defineConfig({
   layout: {
     name: 'rm -rf /',
     locale: true,
-    layout: 'topmenu'
+    layout: 'topmenu',
+    fixedHeader: true,
+    
   },
   routes: [
     { path: '/', component: '@/app' },
